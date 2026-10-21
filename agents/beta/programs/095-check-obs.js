@@ -1,0 +1,6 @@
+const b = bot.blockAt(new Vec3(347, -55, -30))
+const bObs = bot.blockAt(new Vec3(347, -56, -30))
+const bBelow = bot.blockAt(new Vec3(347, -57, -30))
+console.log('347,-55,-30:', b ? b.name : 'null')
+console.log('347,-56,-30:', bObs ? bObs.name : 'null')
+console.log('347,-57,-30:', bBelow ? bBelow.name : 'null')

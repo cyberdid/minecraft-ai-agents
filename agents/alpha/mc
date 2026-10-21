@@ -1,0 +1,2 @@
+#!/bin/sh
+MC_BRIDGE_PORT=3101 exec node /home/cyberdid/Projects/Minecraft/bridge/mc.js "$@"

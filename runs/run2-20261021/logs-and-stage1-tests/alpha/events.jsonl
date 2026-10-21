@@ -1,0 +1,102 @@
+{"t":"2026-10-20T19:55:29.301Z","text":"error: write EPIPE"}
+{"t":"2026-10-20T19:55:29.301Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-20T19:55:34.304Z","text":"error: write EPIPE"}
+{"t":"2026-10-20T19:55:34.304Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-20T19:55:52.044Z","text":"kicked: {\"type\":\"compound\",\"value\":{\"with\":{\"type\":\"list\",\"value\":{\"type\":\"string\",\"value\":[\"Internal Exception: io.netty.handler.codec.EncoderException: java.util.ConcurrentModificationException\"]}},\"translate\":{\"type\":\"string\",\"value\":\"disconnect.genericReason\"}}}"}
+{"t":"2026-10-20T19:55:52.045Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-20T19:55:57.198Z","text":"spawned at (9.5, 67.0, -11.5)"}
+{"t":"2026-10-20T20:01:20.988Z","text":"died at (14.6, 61.0, -61.5)"}
+{"t":"2026-10-20T20:01:20.995Z","text":"respawned"}
+{"t":"2026-10-20T22:12:16.681Z","text":"died at (13.6, 63.0, -18.9)"}
+{"t":"2026-10-20T22:12:16.690Z","text":"respawned"}
+{"t":"2026-10-20T22:29:27.082Z","text":"died at (18.0, 67.0, -23.7)"}
+{"t":"2026-10-20T22:29:27.087Z","text":"respawned"}
+{"t":"2026-10-20T23:08:14.082Z","text":"died at (13.7, 63.0, -22.7)"}
+{"t":"2026-10-20T23:08:14.087Z","text":"respawned"}
+{"t":"2026-10-21T01:09:10.779Z","text":"died at (9.3, 61.0, -17.7)"}
+{"t":"2026-10-21T01:09:10.783Z","text":"respawned"}
+{"t":"2026-10-21T01:10:04.832Z","text":"died at (20.2, 67.0, -23.0)"}
+{"t":"2026-10-21T01:10:04.837Z","text":"respawned"}
+{"t":"2026-10-21T01:11:15.836Z","text":"died at (16.9, 67.0, -24.0)"}
+{"t":"2026-10-21T01:11:15.840Z","text":"respawned"}
+{"t":"2026-10-21T01:11:36.885Z","text":"died at (12.8, 62.0, -20.5)"}
+{"t":"2026-10-21T01:11:36.889Z","text":"respawned"}
+{"t":"2026-10-21T01:33:49.327Z","text":"died at (12.2, 63.0, -23.7)"}
+{"t":"2026-10-21T01:33:49.336Z","text":"respawned"}
+{"t":"2026-10-21T01:35:37.080Z","text":"died at (11.3, 61.0, -19.8)"}
+{"t":"2026-10-21T01:35:37.086Z","text":"respawned"}
+{"t":"2026-10-21T02:30:57.833Z","text":"died at (15.7, 64.0, -25.1)"}
+{"t":"2026-10-21T02:30:57.839Z","text":"respawned"}
+{"t":"2026-10-21T04:08:56.683Z","text":"died at (10.4, 71.0, -24.2)"}
+{"t":"2026-10-21T04:08:56.686Z","text":"respawned"}
+{"t":"2026-10-21T04:09:20.081Z","text":"died at (15.6, 64.0, -24.3)"}
+{"t":"2026-10-21T04:09:20.085Z","text":"respawned"}
+{"t":"2026-10-21T04:10:01.127Z","text":"died at (15.6, 64.0, -27.8)"}
+{"t":"2026-10-21T04:10:01.131Z","text":"respawned"}
+{"t":"2026-10-21T04:10:45.929Z","text":"died at (15.3, 64.0, -28.0)"}
+{"t":"2026-10-21T04:10:45.932Z","text":"respawned"}
+{"t":"2026-10-21T04:11:19.543Z","text":"died at (15.6, 67.0, -22.7)"}
+{"t":"2026-10-21T04:11:19.545Z","text":"respawned"}
+{"t":"2026-10-21T04:11:56.529Z","text":"died at (15.7, 64.0, -24.3)"}
+{"t":"2026-10-21T04:11:56.533Z","text":"respawned"}
+{"t":"2026-10-21T04:12:52.327Z","text":"died at (15.7, 66.0, -24.1)"}
+{"t":"2026-10-21T04:12:52.329Z","text":"respawned"}
+{"t":"2026-10-21T04:13:30.676Z","text":"died at (15.5, 67.0, -22.2)"}
+{"t":"2026-10-21T04:13:30.679Z","text":"respawned"}
+{"t":"2026-10-21T04:14:25.679Z","text":"died at (15.7, 64.0, -24.3)"}
+{"t":"2026-10-21T04:14:25.682Z","text":"respawned"}
+{"t":"2026-10-21T10:36:40.479Z","text":"spawned at (15.7, 64.0, -24.3)"}
+{"t":"2026-10-21T10:36:40.492Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T10:36:42.021Z","text":"spawned at (15.7, 64.0, -24.3)"}
+{"t":"2026-10-21T10:36:42.031Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T10:37:11.840Z","text":"parked: logged out after 0.2 min without programs at (15.7, 64.0, -24.3); the next program logs back in"}
+{"t":"2026-10-21T10:37:32.899Z","text":"spawned at (15.7, 64.0, -24.3)"}
+{"t":"2026-10-21T10:37:34.048Z","text":"unparked at (15.7, 64.0, -24.3)"}
+{"t":"2026-10-21T10:37:55.061Z","text":"spawned at (15.7, 64.0, -24.3)"}
+{"t":"2026-10-21T10:37:55.086Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T10:38:24.892Z","text":"parked: logged out after 0.2 min without programs at (15.7, 64.0, -24.3); the next program logs back in"}
+{"t":"2026-10-21T10:38:29.044Z","text":"spawned at (15.7, 64.0, -24.3)"}
+{"t":"2026-10-21T10:38:30.210Z","text":"unparked at (15.7, 64.0, -24.3)"}
+{"t":"2026-10-21T10:38:54.892Z","text":"parked: logged out after 0.2 min without programs at (15.7, 64.0, -24.3); the next program logs back in"}
+{"t":"2026-10-21T10:39:10.345Z","text":"spawned at (15.7, 64.0, -24.3)"}
+{"t":"2026-10-21T10:39:11.521Z","text":"unparked at (15.7, 64.0, -24.3)"}
+{"t":"2026-10-21T10:42:24.933Z","text":"parked: logged out after 0.2 min without programs at (16.5, 63.0, -22.7); the next program logs back in"}
+{"t":"2026-10-21T10:55:25.911Z","text":"spawned at (-181.5, 79.0, -68.5)"}
+{"t":"2026-10-21T10:55:25.933Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:00:25.757Z","text":"parked: logged out after 5 min without programs at (-181.5, 79.0, -68.5); the next program logs back in"}
+{"t":"2026-10-21T11:03:45.474Z","text":"spawned at (-181.5, 79.0, -68.5)"}
+{"t":"2026-10-21T11:03:45.491Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:03:59.460Z","text":"spawned at (-181.5, 79.0, -68.5)"}
+{"t":"2026-10-21T11:03:59.503Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:04:29.277Z","text":"spawned at (-183.5, 74.0, -61.4)"}
+{"t":"2026-10-21T11:04:29.302Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:04:48.440Z","text":"spawned at (-183.5, 73.0, -61.4)"}
+{"t":"2026-10-21T11:04:48.450Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:06:22.286Z","text":"spawned at (-188.5, 52.0, -73.4)"}
+{"t":"2026-10-21T11:06:22.332Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:07:21.134Z","text":"spawned at (-187.5, 45.0, -81.4)"}
+{"t":"2026-10-21T11:07:21.149Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:12:13.083Z","text":"spawned at (-172.4, 49.0, -65.5)"}
+{"t":"2026-10-21T11:12:13.092Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:14:35.610Z","text":"spawned at (-172.4, 49.0, -65.5)"}
+{"t":"2026-10-21T11:14:35.617Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:20:28.665Z","text":"spawned at (-182.5, 70.0, -61.5)"}
+{"t":"2026-10-21T11:20:28.685Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:24:48.234Z","text":"spawned at (-173.7, 68.0, -123.6)"}
+{"t":"2026-10-21T11:24:48.263Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:26:00.334Z","text":"spawned at (-173.7, 66.0, -123.6)"}
+{"t":"2026-10-21T11:26:00.357Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:27:44.503Z","text":"spawned at (-150.3, 43.0, -123.5)"}
+{"t":"2026-10-21T11:27:44.512Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:32:13.375Z","text":"spawned at (-152.5, 7.4, -121.5)"}
+{"t":"2026-10-21T11:32:13.400Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:33:11.930Z","text":"spawned at (-139.7, 8.0, -120.5)"}
+{"t":"2026-10-21T11:33:11.956Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:34:24.899Z","text":"died at (-138.3, 10.0, -121.7)"}
+{"t":"2026-10-21T11:34:24.902Z","text":"respawned"}
+{"t":"2026-10-21T11:34:40.930Z","text":"spawned at (-153.4, 69.2, -124.8)"}
+{"t":"2026-10-21T11:34:40.969Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:35:43.899Z","text":"spawned at (-159.5, 68.0, -96.5)"}
+{"t":"2026-10-21T11:35:43.923Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T11:40:33.487Z","text":"spawned at (-157.5, 58.0, -108.5)"}
+{"t":"2026-10-21T11:56:07.873Z","text":"spawned at (-270.7, -49.0, -108.5)"}

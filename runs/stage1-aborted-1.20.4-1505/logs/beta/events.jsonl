@@ -1,0 +1,14 @@
+{"t":"2026-10-21T11:56:19.201Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T11:56:19.202Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T11:56:24.204Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T11:56:24.204Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T11:56:35.278Z","text":"kicked: {\"type\":\"compound\",\"value\":{\"with\":{\"type\":\"list\",\"value\":{\"type\":\"string\",\"value\":[\"Internal Exception: io.netty.handler.codec.EncoderException: java.util.ConcurrentModificationException\"]}},\"translate\":{\"type\":\"string\",\"value\":\"disconnect.genericReason\"}}}"}
+{"t":"2026-10-21T11:56:35.278Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T11:56:40.391Z","text":"spawned at (-3.5, 64.0, 9.5)"}
+{"t":"2026-10-21T11:59:26.657Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T11:59:26.657Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T11:59:31.660Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T11:59:31.660Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T11:59:36.838Z","text":"spawned at (-3.5, 64.0, 9.5)"}
+{"t":"2026-10-21T12:00:03.759Z","text":"spawned at (-3.5, 64.0, 9.5)"}
+{"t":"2026-10-21T12:04:43.653Z","text":"spawned at (21.5, 63.0, 16.5)"}

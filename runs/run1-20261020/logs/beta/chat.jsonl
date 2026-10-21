@@ -1,0 +1,63 @@
+{"t":"2026-10-20T18:53:24.049Z","i":1,"from":"chat","text":"<alpha> hello from alpha (test)"}
+{"t":"2026-10-20T18:53:49.999Z","i":2,"from":"chat","text":"<alpha> alpha here, test 2"}
+{"t":"2026-10-20T18:54:26.048Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-20T18:54:26.680Z","i":2,"from":"chat","text":"<alpha> alpha here, test 3"}
+{"t":"2026-10-20T19:00:23.675Z","i":1,"from":"chat","text":"<alpha> Hello beta! I'm alpha. Let's build a house near spawn. What do you think?"}
+{"t":"2026-10-20T19:00:56.094Z","i":2,"from":"chat","text":"<beta> Hello alpha! I'm beta. Ready to build!"}
+{"t":"2026-10-20T19:00:57.094Z","i":3,"from":"chat","text":"<beta> Let's build a wooden cabin near spawn. What do you think?"}
+{"t":"2026-10-20T19:01:27.079Z","i":4,"from":"chat","text":"<alpha> Sounds great! Let's build at (40, 79, -21). I'll gather wood and craft tools."}
+{"t":"2026-10-20T19:02:12.294Z","i":5,"from":"chat","text":"<beta> Agreed alpha! I will clear and prep the foundation at (40, 79, -21) and gather stone."}
+{"t":"2026-10-20T19:04:10.123Z","i":6,"from":"server","text":"alpha was slain by Zombie"}
+{"t":"2026-10-20T19:04:21.175Z","i":7,"from":"chat","text":"<alpha> Ouch, zombie got me in that pit near (35, 76, -17)! Regathering wood on the surface safely."}
+{"t":"2026-10-20T19:05:19.424Z","i":8,"from":"server","text":"alpha was slain by Enderman"}
+{"t":"2026-10-20T19:05:35.222Z","i":9,"from":"server","text":"alpha was slain by Zombie"}
+{"t":"2026-10-20T19:06:27.857Z","i":10,"from":"chat","text":"<alpha> Gathered wood on canopy, crafting table and tools ready!"}
+{"t":"2026-10-20T19:06:53.647Z","i":11,"from":"chat","text":"<beta> Equipped with wooden pickaxe, shovel, and sword. Starting site work at (40, 79, -21)!"}
+{"t":"2026-10-20T19:07:56.943Z","i":12,"from":"chat","text":"<beta> Dawn is approaching! Moving to cabin site (40, 79, -21) to clear ground."}
+{"t":"2026-10-20T19:08:20.690Z","i":13,"from":"chat","text":"<alpha> On my way down to (40, 79, -21) with wood and crafting table!"}
+{"t":"2026-10-20T19:08:27.723Z","i":14,"from":"chat","text":"<alpha> Crafting table placed and tools ready! Let's build."}
+{"t":"2026-10-20T19:08:38.323Z","i":15,"from":"server","text":"beta was blown up by Creeper"}
+{"t":"2026-10-20T19:08:46.632Z","i":16,"from":"chat","text":"<beta> Building now! Perimeter is X: 38..42, Z: -23..-19. I'm placing the wall base!"}
+{"t":"2026-10-20T19:08:47.774Z","i":17,"from":"server","text":"alpha was slain by Spider"}
+{"t":"2026-10-20T19:08:56.440Z","i":18,"from":"chat","text":"<alpha> Coming back to help build! Sun is up!"}
+{"t":"2026-10-20T19:08:58.742Z","i":19,"from":"chat","text":"<beta> Recovering items from creeper blast!"}
+{"t":"2026-10-20T19:09:36.169Z","i":20,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-20T19:09:46.321Z","i":21,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-20T19:10:05.959Z","i":22,"from":"chat","text":"<alpha> Beta: Skeleton in the pit at (36, 75, -19)! Stay above Y=78 on the sunny surface!"}
+{"t":"2026-10-20T19:10:22.950Z","i":23,"from":"chat","text":"<beta> Skeleton is gone! Collecting remaining planks and tools on surface."}
+{"t":"2026-10-20T19:10:29.424Z","i":24,"from":"server","text":"alpha was slain by Zombie"}
+{"t":"2026-10-20T19:10:48.524Z","i":25,"from":"server","text":"alpha has made the advancement [Stone Age]"}
+{"t":"2026-10-20T19:10:53.061Z","i":26,"from":"chat","text":"<alpha> I'm here with Beta at the cabin site with sword, axe, pickaxe, and planks!"}
+{"t":"2026-10-20T19:11:20.979Z","i":27,"from":"chat","text":"<beta> Building North and West walls of the cabin!"}
+{"t":"2026-10-20T19:11:32.435Z","i":28,"from":"chat","text":"<beta> Placed 18 wall blocks! North and West walls rising."}
+{"t":"2026-10-20T19:12:07.907Z","i":29,"from":"chat","text":"<beta> Equipping axe to gather more logs for the roof and door!"}
+{"t":"2026-10-20T19:12:50.179Z","i":30,"from":"chat","text":"<beta> Wood gathered! I now have 55 planks ready for walls, roof, and door."}
+{"t":"2026-10-20T19:13:26.912Z","i":31,"from":"chat","text":"<beta> Building Phase 2: South & East walls + Window layer at Y=78!"}
+{"t":"2026-10-20T19:13:30.330Z","i":32,"from":"chat","text":"<alpha> Awesome Beta! I will fill the floor with dirt and close the South wall so we can finish the roof!"}
+{"t":"2026-10-20T19:13:40.869Z","i":33,"from":"chat","text":"<beta> Phase 2 complete! All 4 walls up to Y=78 with windows and doorway. 40 planks left for roof and door."}
+{"t":"2026-10-20T19:13:46.692Z","i":34,"from":"chat","text":"<alpha> Floor is paved! Nice and level."}
+{"t":"2026-10-20T19:14:06.373Z","i":35,"from":"chat","text":"<beta> Building Phase 3: Laying the roof at Y=79 and crafting/placing the door!"}
+{"t":"2026-10-20T19:22:24.315Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-20T19:24:40.506Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-20T19:29:57.089Z","i":1,"from":"server","text":"alpha has made the advancement [Stone Age]"}
+{"t":"2026-10-20T19:30:20.545Z","i":2,"from":"server","text":"alpha has made the advancement [Getting an Upgrade]"}
+{"t":"2026-10-20T19:30:30.584Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-20T19:31:57.600Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-20T19:35:06.916Z","i":2,"from":"server","text":"beta has made the advancement [Monster Hunter]"}
+{"t":"2026-10-20T19:35:59.988Z","i":3,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-20T19:37:01.185Z","i":4,"from":"server","text":"beta was slain by Zombie"}
+{"t":"2026-10-20T19:37:12.140Z","i":5,"from":"server","text":"alpha was slain by Zombie"}
+{"t":"2026-10-20T19:37:25.638Z","i":6,"from":"server","text":"alpha was slain by Zombie"}
+{"t":"2026-10-20T19:37:36.633Z","i":7,"from":"server","text":"beta was slain by Zombie"}
+{"t":"2026-10-20T19:37:42.268Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-20T19:37:45.322Z","i":2,"from":"server","text":"alpha has made the advancement [Monster Hunter]"}
+{"t":"2026-10-20T19:39:19.382Z","i":3,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-20T19:39:58.387Z","i":4,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-20T19:41:02.184Z","i":5,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-20T19:41:14.282Z","i":6,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-20T19:50:42.166Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-20T19:50:58.546Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-20T19:51:52.545Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-20T19:52:44.798Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-20T19:53:21.428Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-20T19:53:42.372Z","i":1,"from":"server","text":"alpha joined the game"}

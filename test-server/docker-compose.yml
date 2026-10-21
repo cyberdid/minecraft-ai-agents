@@ -1,0 +1,20 @@
+# Throwaway test server (copy of a saved world) so skills can be tested without touching the agents' world.
+services:
+  mc-test:
+    image: itzg/minecraft-server:latest
+    container_name: mc-test
+    ports:
+      - "127.0.0.1:25566:25565"
+    environment:
+      EULA: "TRUE"
+      TYPE: VANILLA
+      VERSION: "1.20.4"
+      MODE: survival
+      DIFFICULTY: easy
+      ONLINE_MODE: "FALSE"
+      ENABLE_RCON: "FALSE"
+      OPS: "alpha"   # test server only: the test bot may use /give and /tp
+      SPAWN_PROTECTION: "0"
+      MEMORY: "2G"
+    volumes:
+      - ./data:/data

@@ -1,0 +1,7 @@
+await bot.equip(mcData.itemsByName.bucket.id, 'hand')
+await bot.lookAt(new Vec3(349.5, -52.8, -29.8), true)
+await sleep(150)
+bot.activateItem()
+await sleep(800)
+console.log('Water bucket count:', lib.count('water_bucket'))
+console.log('Water at (349, -53, -30):', bot.blockAt(new Vec3(349, -53, -30))?.name)

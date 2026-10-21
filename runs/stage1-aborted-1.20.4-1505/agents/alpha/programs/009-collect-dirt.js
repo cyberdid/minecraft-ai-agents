@@ -1,0 +1,6 @@
+console.log('Collecting dirt for scaffolding and shelter...')
+// We know dirt is around (21, 61, -11)
+const gained = await lib.collect('dirt', 16, { maxDistance: 64, maxBelow: 8 })
+console.log('Gained dirt:', JSON.stringify(gained))
+console.log('Inventory now:', JSON.stringify(lib.inv()))
+console.log('Seconds until night:', lib.time().secondsUntilNight)

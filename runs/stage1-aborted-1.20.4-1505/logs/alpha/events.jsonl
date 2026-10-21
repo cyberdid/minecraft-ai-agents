@@ -1,0 +1,12 @@
+{"t":"2026-10-21T11:56:19.159Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T11:56:19.159Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T11:56:24.164Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T11:56:24.165Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T11:56:35.508Z","text":"spawned at (-8.5, 64.0, 13.5)"}
+{"t":"2026-10-21T11:59:26.634Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T11:59:26.634Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T11:59:31.638Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T11:59:31.639Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T11:59:36.909Z","text":"spawned at (-8.5, 64.0, 13.5)"}
+{"t":"2026-10-21T12:00:03.718Z","text":"spawned at (3.3, 67.0, 18.5)"}
+{"t":"2026-10-21T12:04:43.660Z","text":"spawned at (21.4, 63.0, 19.5)"}

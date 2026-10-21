@@ -1,0 +1,6 @@
+const b1 = bot.blockAt(new Vec3(350, -55, -28))
+const b2 = bot.blockAt(new Vec3(351, -55, -27))
+const drops = Object.values(bot.entities).filter(e => e.name === 'item')
+console.log('b1 (350,-55,-28):', b1 ? b1.name : 'null')
+console.log('b2 (351,-55,-27):', b2 ? b2.name : 'null')
+console.log('nearby item drops:', drops.map(d => ({ name: d.name, pos: d.position })))

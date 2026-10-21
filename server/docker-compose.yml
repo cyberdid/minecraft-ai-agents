@@ -1,0 +1,26 @@
+# Minecraft 1.20.1 survival server (1.20.1: the 3D viewer has exactly this block palette) for the agent spike (setup of arXiv:2610.22319, sec. 2.1)
+services:
+  mc:
+    image: itzg/minecraft-server:latest
+    container_name: mc-agents
+    ports:
+      - "127.0.0.1:25565:25565"
+    environment:
+      EULA: "TRUE"
+      TYPE: VANILLA
+      VERSION: "1.20.1"
+      MODE: survival
+      DIFFICULTY: easy
+      ONLINE_MODE: "FALSE"      # Mineflayer bots log in without Mojang accounts
+      ENABLE_COMMAND_BLOCK: "FALSE"
+      ALLOW_CHEATS: "FALSE"
+      ENABLE_RCON: "FALSE"
+      OPS: "cyberdid"           # the human spectator only (/gamemode spectator, /spectate alpha); bots are never op
+      SPAWN_PROTECTION: "0"
+      MAX_PLAYERS: "6"
+      VIEW_DISTANCE: "8"
+      MEMORY: "3G"
+      MOTD: "agent spike"
+    volumes:
+      - ./data:/data
+    restart: unless-stopped

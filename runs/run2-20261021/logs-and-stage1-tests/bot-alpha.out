@@ -1,0 +1,3 @@
+[alpha] api on :3101, viewer on :3007
+Mineflayer detected that you are using a deprecated event (physicTick)! Please use this event (physicsTick) instead.
+Prismarine viewer web server running on *:3007

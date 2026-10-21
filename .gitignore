@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+bridge/node_modules/
+
+# Runtime PID files and stop markers
+run/*.pid
+run/STOP-*
+*.pid
+temp/
+
+# Server downloaded jars, libraries, and runtime logs
+server/data/libraries/
+server/data/versions/
+server/data/minecraft_server.*.jar
+server/data/logs/
+test-server/data/libraries/
+test-server/data/versions/
+test-server/data/minecraft_server.*.jar
+test-server/data/logs/
+test-server/logs/
+
+# Auto-saves & temporary saves
+server/saves/autosave-*
+server/saves/--help
+server/saves/lib-test/
+
+# OS artifacts
+.DS_Store
+*.swp
+*~

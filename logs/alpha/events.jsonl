@@ -1,0 +1,66 @@
+{"t":"2026-10-21T12:06:31.353Z","text":"spawned at (292.5, 72.0, -56.5)"}
+{"t":"2026-10-21T12:07:46.190Z","text":"spawned at (289.5, 72.0, -56.5)"}
+{"t":"2026-10-21T12:14:06.313Z","text":"spawned at (288.3, 72.0, -51.3)"}
+{"t":"2026-10-21T12:23:47.562Z","text":"spawned at (294.5, 72.0, -54.6)"}
+{"t":"2026-10-21T12:23:47.576Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T12:32:47.957Z","text":"died at (289.7, 52.2, -53.3)"}
+{"t":"2026-10-21T12:32:47.960Z","text":"respawned"}
+{"t":"2026-10-21T12:33:50.880Z","text":"spawned at (293.3, 72.0, -55.5)"}
+{"t":"2026-10-21T12:33:50.888Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T12:34:20.165Z","text":"spawned at (297.5, 73.2, -59.8)"}
+{"t":"2026-10-21T12:34:20.173Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T16:57:23.794Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T16:57:23.794Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T16:57:28.798Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T16:57:28.798Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T16:57:34.346Z","text":"spawned at (294.5, 72.0, -56.5)"}
+{"t":"2026-10-21T16:57:34.357Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T16:58:43.845Z","text":"spawned at (294.5, 72.0, -56.5)"}
+{"t":"2026-10-21T16:58:43.854Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T16:59:04.670Z","text":"spawned at (294.5, 72.0, -56.5)"}
+{"t":"2026-10-21T16:59:04.679Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T16:59:36.768Z","text":"spawned at (294.5, 72.0, -56.5)"}
+{"t":"2026-10-21T16:59:36.782Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T17:00:07.899Z","text":"spawned at (294.5, 72.4, -56.5)"}
+{"t":"2026-10-21T17:00:07.908Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T17:06:25.749Z","text":"died at (336.9, 70.0, -32.3)"}
+{"t":"2026-10-21T17:06:25.752Z","text":"respawned"}
+{"t":"2026-10-21T17:32:16.680Z","text":"spawned at (294.5, 72.0, -56.5)"}
+{"t":"2026-10-21T17:32:16.710Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T17:32:16.711Z","text":"autoload alpha/autoload.js: ok"}
+{"t":"2026-10-21T17:32:22.399Z","text":"spawned at (294.5, 72.0, -56.5)"}
+{"t":"2026-10-21T17:32:22.409Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T17:32:22.409Z","text":"autoload alpha/autoload.js: ok"}
+{"t":"2026-10-21T17:32:36.666Z","text":"spawned at (294.5, 72.0, -56.5)"}
+{"t":"2026-10-21T17:32:36.677Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T17:32:36.677Z","text":"autoload alpha/autoload.js: ok"}
+{"t":"2026-10-21T17:41:20.515Z","text":"died at (290.3, 52.0, -55.5)"}
+{"t":"2026-10-21T17:41:20.519Z","text":"respawned"}
+{"t":"2026-10-21T18:07:48.175Z","text":"spawned at (374.3, 56.0, 13.5)"}
+{"t":"2026-10-21T18:07:48.184Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T18:07:48.185Z","text":"autoload alpha/autoload.js: ok"}
+{"t":"2026-10-21T18:07:53.899Z","text":"spawned at (374.3, 56.0, 13.5)"}
+{"t":"2026-10-21T18:07:53.906Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T18:07:53.907Z","text":"autoload alpha/autoload.js: ok"}
+{"t":"2026-10-21T18:08:03.263Z","text":"spawned at (374.3, 56.0, 13.5)"}
+{"t":"2026-10-21T18:08:03.273Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-21T18:08:03.273Z","text":"autoload alpha/autoload.js: ok"}
+{"t":"2026-10-21T18:32:10.160Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.server_shutdown\"}"}
+{"t":"2026-10-21T18:32:10.162Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T18:32:15.181Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T18:32:15.181Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T18:32:20.184Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T18:32:20.185Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T18:32:25.649Z","text":"spawned at (293.5, 72.0, -54.5)"}
+{"t":"2026-10-21T18:32:26.281Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T18:32:31.290Z","text":"error: write EPIPE"}
+{"t":"2026-10-21T18:32:31.290Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T18:32:36.866Z","text":"spawned at (293.5, 72.0, -54.5)"}
+{"t":"2026-10-21T18:32:40.876Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.server_shutdown\"}"}
+{"t":"2026-10-21T18:32:40.877Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T18:32:45.884Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-21T18:32:45.884Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T18:32:50.886Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-21T18:32:50.886Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-21T18:32:55.887Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-21T18:32:55.887Z","text":"disconnected (socketClosed); reconnecting in 5s"}

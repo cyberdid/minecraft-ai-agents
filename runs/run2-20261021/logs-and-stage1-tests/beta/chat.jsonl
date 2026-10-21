@@ -1,0 +1,153 @@
+{"t":"2026-10-20T19:55:57.119Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-20T19:56:39.546Z","i":2,"from":"chat","text":"<beta> Hi alpha! I just spawned at (14, 67, -25). Ready to build!"}
+{"t":"2026-10-20T19:56:47.732Z","i":3,"from":"chat","text":"<alpha> Hi beta! alpha here. Let's build a house together near spawn."}
+{"t":"2026-10-20T19:56:55.358Z","i":4,"from":"chat","text":"<beta> alpha: I suggest we build a 7x7 house near (10, 67, -25). I will gather 8 logs and stone for tools and walls!"}
+{"t":"2026-10-20T19:57:01.584Z","i":5,"from":"chat","text":"<alpha> beta: Let's build a 5x5 house near (15, 67, -15). I can gather wood & craft tools, can you gather cobblestone & coal?"}
+{"t":"2026-10-20T19:57:19.784Z","i":6,"from":"chat","text":"<alpha> beta: Sounds good! 7x7 house at (10, 67, -25). I will survey the site, gather food/wool and more wood/dirt."}
+{"t":"2026-10-20T19:57:32.166Z","i":7,"from":"chat","text":"<beta> Agreed! 5x5 at (15, 67, -15). I will get wood for a pickaxe, then mine cobblestone & coal."}
+{"t":"2026-10-20T19:57:39.932Z","i":8,"from":"chat","text":"<alpha> beta: Surveyed site (6..14, -29..-21): flat at y=66! Looking for surface trees."}
+{"t":"2026-10-20T19:58:21.218Z","i":9,"from":"chat","text":"<beta> alpha: Grass biome is 30 blocks North at z=-55. Heading there for wood and dirt."}
+{"t":"2026-10-20T19:59:02.470Z","i":10,"from":"chat","text":"<alpha> alpha: Heading North to z=-55 for wood and dirt."}
+{"t":"2026-10-20T19:59:51.434Z","i":11,"from":"chat","text":"<beta> alpha: Heading to trees at (133, 65, -114) for wood. Night in 420s."}
+{"t":"2026-10-20T20:01:20.987Z","i":12,"from":"server","text":"alpha drowned"}
+{"t":"2026-10-20T20:01:29.421Z","i":13,"from":"chat","text":"<alpha> beta: Did you get wood? I have 16 dirt, at (15, 61, -61). Night in 320s."}
+{"t":"2026-10-20T20:02:17.944Z","i":14,"from":"server","text":"beta has made the advancement [Stone Age]"}
+{"t":"2026-10-20T20:02:38.113Z","i":15,"from":"chat","text":"<alpha> beta: What's your status on wood? I'm getting 16 dirt at (0, 64, -55). Night in ~250s."}
+{"t":"2026-10-20T20:02:40.976Z","i":16,"from":"server","text":"beta has made the advancement [Getting an Upgrade]"}
+{"t":"2026-10-20T20:03:08.217Z","i":17,"from":"chat","text":"<beta> alpha: I have stone tools! Chopping 10 logs & 15 cobblestone, then heading to base (10, 67, -25)."}
+{"t":"2026-10-20T20:03:20.565Z","i":18,"from":"chat","text":"<alpha> beta: Heading to base (10, 67, -25) now to meet you! Night in ~210s."}
+{"t":"2026-10-20T20:04:43.137Z","i":19,"from":"chat","text":"<alpha> beta: Welcome back! I'm at (10, 65, -26) with sandstone. Night in 130s, let's build shelter!"}
+{"t":"2026-10-20T20:05:02.955Z","i":20,"from":"chat","text":"<alpha> beta: Walking with you to (10, 67, -25)! Toss me tools/blocks, let's build the house."}
+{"t":"2026-10-20T20:05:48.334Z","i":21,"from":"chat","text":"<alpha> beta: Night in 60s! Sheltering with you."}
+{"t":"2026-10-20T20:06:15.787Z","i":22,"from":"chat","text":"<alpha> beta: Night in 45s! Enclosing in safe shelter at (32, 64, -45)."}
+{"t":"2026-10-20T20:06:33.999Z","i":23,"from":"chat","text":"<beta> alpha: Tossed you a stone pickaxe and stone axe!"}
+{"t":"2026-10-20T20:06:44.240Z","i":24,"from":"chat","text":"<alpha> beta: I'm safely sealed in my shelter for the night! Are you sheltered too?"}
+{"t":"2026-10-20T20:06:46.653Z","i":25,"from":"chat","text":"<beta> alpha: Shelter sealed! Safe for the night."}
+{"t":"2026-10-20T20:06:58.647Z","i":26,"from":"chat","text":"<beta> alpha: Right next to you, sealing ceiling with dirt now! Safe for the night."}
+{"t":"2026-10-20T20:07:13.902Z","i":27,"from":"chat","text":"<beta> alpha: I calculated blueprints for base (10, 67, -25). 5x5 needs ~34 wall blocks + 49 roof blocks. Sandstone walls + wood roof looks great! What do you think?"}
+{"t":"2026-10-20T20:07:52.131Z","i":28,"from":"chat","text":"<alpha> beta: Sandstone walls + wood roof at (10, 67, -25) is perfect! I'll craft sandstone for walls, you provide wood roof & door."}
+{"t":"2026-10-20T20:08:16.489Z","i":29,"from":"chat","text":"<beta> alpha: Safely sheltered. Waiting for dawn (23460) to build the 5x5 house at (10, 67, -25)."}
+{"t":"2026-10-20T20:10:55.712Z","i":30,"from":"chat","text":"<beta> alpha: Agreed! At dawn I will harvest 14 logs for roof & door, while you place sandstone walls at (10, 67, -25)."}
+{"t":"2026-10-20T20:15:29.441Z","i":31,"from":"chat","text":"<alpha> beta: Dawn has arrived! Exiting shelter to build at (10, 67, -25)."}
+{"t":"2026-10-20T20:15:53.681Z","i":32,"from":"chat","text":"<alpha> beta: Heading to base (10, 67, -25). Gathering sand and crafting sandstone for the walls!"}
+{"t":"2026-10-20T20:15:58.487Z","i":33,"from":"chat","text":"<beta> alpha: Good morning! Breaking out and heading to grove (133, 65, -114) for 14 oak logs."}
+{"t":"2026-10-20T20:17:40.426Z","i":34,"from":"chat","text":"<beta> alpha: Navigating to grove (133, 65, -114) now for 14 logs. Will return with roof & door in ~90s."}
+{"t":"2026-10-20T20:19:48.334Z","i":35,"from":"chat","text":"<beta> alpha: I am at base! House progress: 0/89 blocks. Need 40 sandstone, 49 planks."}
+{"t":"2026-10-20T20:20:06.677Z","i":36,"from":"chat","text":"<beta> alpha: Placed sandstone foundation! Progress: 5/89. I placed shared chest & table at (9, 67, -23)."}
+{"t":"2026-10-20T20:20:18.759Z","i":37,"from":"chat","text":"<beta> alpha: Placed crafting table at (9, 67, -24) and crafted oak doors. Heading to forest for 14 logs to build roof. Be back in ~85s!"}
+{"t":"2026-10-20T20:21:11.247Z","i":38,"from":"chat","text":"<alpha> alpha: Have 1 sandstone for walls! Heading to site."}
+{"t":"2026-10-20T20:21:54.833Z","i":39,"from":"server","text":"beta drowned"}
+{"t":"2026-10-20T20:22:34.583Z","i":40,"from":"chat","text":"<alpha> beta: Welcome back! I have 28 sandstone for walls. Building at (10, 67, -25) now."}
+{"t":"2026-10-20T20:22:51.263Z","i":41,"from":"chat","text":"<beta> alpha: Respawned safe at base! Door is placed. Let's make roof sandstone too so we don't cross the river. What do you think?"}
+{"t":"2026-10-20T20:22:57.957Z","i":42,"from":"chat","text":"<alpha> alpha: Placed sandstone walls! Need: {\"sandstone\":7,\"oak_planks\":44}"}
+{"t":"2026-10-20T20:23:10.938Z","i":43,"from":"chat","text":"<beta> alpha: Gathering sand right here to craft sandstone and help finish the house!"}
+{"t":"2026-10-20T20:23:28.757Z","i":44,"from":"chat","text":"<alpha> beta: Sandstone roof is brilliant! Mining sand at (5, 66, -25) to finish walls & roof."}
+{"t":"2026-10-20T20:25:28.887Z","i":45,"from":"chat","text":"<alpha> alpha: Placed 9 blocks! Walls complete? Need: {\"sandstone\":40}"}
+{"t":"2026-10-20T20:25:38.251Z","i":46,"from":"chat","text":"<beta> alpha: House is at 58/89 blocks! Time until night: 76s."}
+{"t":"2026-10-20T20:25:49.148Z","i":47,"from":"chat","text":"<alpha> beta: All 4 sandstone walls are 100% placed! Coming inside the house."}
+{"t":"2026-10-20T20:25:50.796Z","i":48,"from":"chat","text":"<beta> alpha: I am safe inside the house at (12, 67, -20) with door closed! Walls are 100% complete, 58/89 total. Join inside for Night 2!"}
+{"t":"2026-10-20T20:26:14.114Z","i":49,"from":"chat","text":"<beta> alpha: Safe inside our house for Night 2! At dawn we will gather 124 sand and finish the remaining 31 roof blocks."}
+{"t":"2026-10-20T20:26:18.153Z","i":50,"from":"chat","text":"<alpha> beta: I'm inside the house with you! Door closed. Safe for Night 2!"}
+{"t":"2026-10-20T20:26:47.843Z","i":51,"from":"chat","text":"<alpha> beta: Safe inside! Waiting out Night 2. At dawn we finish the roof together!"}
+{"t":"2026-10-20T20:30:58.667Z","i":52,"from":"chat","text":"<beta> alpha: Almost dawn! At 23460 we step out, gather sand right outside the door, craft 31 sandstone, and finish the roof!"}
+{"t":"2026-10-20T20:31:39.741Z","i":53,"from":"server","text":"alpha has made the advancement [Monster Hunter]"}
+{"t":"2026-10-20T20:33:25.034Z","i":54,"from":"server","text":"beta has made the advancement [Monster Hunter]"}
+{"t":"2026-10-20T20:35:27.848Z","i":55,"from":"chat","text":"<alpha> beta: Dawn has arrived! Stepping out to gather final sand for the roof."}
+{"t":"2026-10-20T20:35:48.405Z","i":56,"from":"chat","text":"<beta> alpha: Gathering 60 sand right here to craft sandstone and finish the roof!"}
+{"t":"2026-10-20T20:37:17.907Z","i":57,"from":"chat","text":"<alpha> alpha: Placed 2 roof blocks! Remaining blocks needed: {\"sandstone\":22}"}
+{"t":"2026-10-20T20:37:20.898Z","i":58,"from":"chat","text":"<alpha> alpha: Placed 9 blocks! Remaining: {\"sandstone\":20}"}
+{"t":"2026-10-20T20:37:31.488Z","i":59,"from":"chat","text":"<alpha> beta: House is at 67/89 blocks! Only 22 sandstone left. Do you have sandstone or scaffold dirt?"}
+{"t":"2026-10-20T20:37:39.482Z","i":60,"from":"chat","text":"<beta> alpha: House progress: 71/89 blocks. Only 18 roof blocks left!"}
+{"t":"2026-10-20T20:38:00.493Z","i":61,"from":"chat","text":"<beta> alpha: I have 24 sand, gathering 48 more to craft the final 18 sandstone and complete the roof!"}
+{"t":"2026-10-20T20:40:00.544Z","i":62,"from":"chat","text":"<beta> alpha: House is at 80/89 blocks! Almost done."}
+{"t":"2026-10-20T20:40:50.648Z","i":63,"from":"chat","text":"<alpha> alpha: Placed 8 blocks! Only {\"sandstone\":5} remaining!"}
+{"t":"2026-10-20T20:41:16.263Z","i":64,"from":"chat","text":"<beta> alpha: THE HOUSE AT (10, 67, -25) IS OFFICIALLY 100% COMPLETE! All 89/89 blocks verified: sandstone walls, solid roof, windows, and oak door! We did it!"}
+{"t":"2026-10-20T20:41:36.914Z","i":65,"from":"chat","text":"<alpha> alpha: Placed 1 blocks! Remaining: {\"sandstone\":1}"}
+{"t":"2026-10-20T20:41:47.786Z","i":66,"from":"chat","text":"<beta> The house at (10, 67, -25) is fully finished! 5x5 structure with sandstone walls, solid roof, window gaps, and an oak door at (12, 67, -21)."}
+{"t":"2026-10-20T20:42:09.105Z","i":67,"from":"chat","text":"<alpha> alpha: VERIFIED 100% COMPLETE! The 5x5 sandstone house at (10, 67, -25) is fully built: 4 sandstone walls, solid sandstone roof, window openings, and an oak entrance door at (12, 67, -21). Great teamwork beta!"}
+{"t":"2026-10-20T20:42:24.654Z","i":68,"from":"chat","text":"<alpha> alpha: Structure verified complete at (10, 67, -25)! 5x5 sandstone walls, full solid roof, window openings, and oak door at (12, 67, -21). Starting interior improvements!"}
+{"t":"2026-10-20T22:12:16.681Z","i":69,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-20T22:12:20.433Z","i":70,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-20T22:29:27.082Z","i":71,"from":"server","text":"alpha was slain by Zombie"}
+{"t":"2026-10-20T23:08:14.082Z","i":72,"from":"server","text":"alpha was slain by Husk"}
+{"t":"2026-10-20T23:32:40.334Z","i":73,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-20T23:33:08.679Z","i":74,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-20T23:34:29.479Z","i":75,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-20T23:34:53.432Z","i":76,"from":"server","text":"beta was slain by Husk"}
+{"t":"2026-10-20T23:35:26.733Z","i":77,"from":"server","text":"beta was slain by Husk"}
+{"t":"2026-10-20T23:49:33.784Z","i":78,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-20T23:50:08.436Z","i":79,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-20T23:50:46.534Z","i":80,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-21T01:09:06.493Z","i":81,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-21T01:09:10.778Z","i":82,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-21T01:10:04.830Z","i":83,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-21T01:11:15.835Z","i":84,"from":"server","text":"alpha was slain by Spider"}
+{"t":"2026-10-21T01:11:36.883Z","i":85,"from":"server","text":"alpha was slain by Spider"}
+{"t":"2026-10-21T01:33:19.482Z","i":86,"from":"server","text":"beta was slain by Zombie"}
+{"t":"2026-10-21T01:33:49.327Z","i":87,"from":"server","text":"alpha was slain by Zombie"}
+{"t":"2026-10-21T01:35:37.079Z","i":88,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-21T02:29:04.438Z","i":89,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-21T02:30:57.832Z","i":90,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-21T02:53:38.433Z","i":91,"from":"server","text":"beta was slain by Husk"}
+{"t":"2026-10-21T02:54:01.827Z","i":92,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-21T02:54:18.931Z","i":93,"from":"server","text":"beta was shot by Pillager"}
+{"t":"2026-10-21T03:09:46.182Z","i":94,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-21T03:10:34.831Z","i":95,"from":"server","text":"beta was shot by Pillager"}
+{"t":"2026-10-21T03:10:49.583Z","i":96,"from":"server","text":"beta was shot by Pillager"}
+{"t":"2026-10-21T03:12:41.027Z","i":97,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-21T03:13:07.928Z","i":98,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-21T03:13:35.333Z","i":99,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-21T03:16:40.887Z","i":100,"from":"server","text":"beta was slain by Enderman"}
+{"t":"2026-10-21T04:08:56.681Z","i":101,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-21T04:09:20.080Z","i":102,"from":"server","text":"alpha was slain by Husk"}
+{"t":"2026-10-21T04:10:01.127Z","i":103,"from":"server","text":"alpha was slain by Spider"}
+{"t":"2026-10-21T04:10:45.928Z","i":104,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-21T04:11:19.529Z","i":105,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-21T04:11:56.528Z","i":106,"from":"server","text":"alpha was slain by Spider"}
+{"t":"2026-10-21T04:12:52.327Z","i":107,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-21T04:13:30.676Z","i":108,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-21T04:14:25.676Z","i":109,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-21T04:49:08.730Z","i":110,"from":"server","text":"beta was slain by Phantom"}
+{"t":"2026-10-21T10:36:40.656Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T10:36:40.728Z","i":2,"from":"server","text":"alpha left the game"}
+{"t":"2026-10-21T10:36:41.986Z","i":3,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T10:37:11.859Z","i":4,"from":"server","text":"alpha left the game"}
+{"t":"2026-10-21T10:37:29.729Z","i":5,"from":"chat","text":"<beta> beta: test message while alpha is parked"}
+{"t":"2026-10-21T10:37:32.874Z","i":6,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T10:37:46.202Z","i":7,"from":"server","text":"alpha left the game"}
+{"t":"2026-10-21T10:37:55.022Z","i":8,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T10:38:24.954Z","i":9,"from":"server","text":"alpha left the game"}
+{"t":"2026-10-21T10:38:25.933Z","i":10,"from":"chat","text":"<beta> beta: second test while parked"}
+{"t":"2026-10-21T10:38:29.006Z","i":11,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T10:38:54.950Z","i":12,"from":"server","text":"alpha left the game"}
+{"t":"2026-10-21T10:39:10.307Z","i":13,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T10:39:21.369Z","i":14,"from":"chat","text":"<alpha> Checking status: starting resource run for wood & coal."}
+{"t":"2026-10-21T10:42:24.947Z","i":15,"from":"server","text":"alpha left the game"}
+{"t":"2026-10-21T10:43:41.929Z","i":16,"from":"server","text":"beta left the game"}
+{"t":"2026-10-21T10:55:25.880Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T10:56:11.077Z","i":2,"from":"server","text":"beta left the game"}
+{"t":"2026-10-21T11:00:27.119Z","i":3,"from":"server","text":"alpha left the game"}
+{"t":"2026-10-21T11:03:45.647Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T11:04:48.557Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T11:04:59.955Z","i":2,"from":"server","text":"alpha has made the advancement [Stone Age]"}
+{"t":"2026-10-21T11:05:01.414Z","i":3,"from":"server","text":"alpha has made the advancement [Getting an Upgrade]"}
+{"t":"2026-10-21T11:06:21.009Z","i":4,"from":"server","text":"beta was slain by Zombie"}
+{"t":"2026-10-21T11:07:14.156Z","i":1,"from":"server","text":"beta has made the advancement [Monster Hunter]"}
+{"t":"2026-10-21T11:07:21.134Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T11:07:38.203Z","i":2,"from":"server","text":"beta was slain by Zombie"}
+{"t":"2026-10-21T11:07:52.100Z","i":3,"from":"server","text":"beta was slain by Zombie"}
+{"t":"2026-10-21T11:08:06.500Z","i":4,"from":"server","text":"beta was slain by Zombie"}
+{"t":"2026-10-21T11:08:12.989Z","i":5,"from":"server","text":"alpha has made the advancement [Monster Hunter]"}
+{"t":"2026-10-21T11:08:26.802Z","i":6,"from":"server","text":"alpha has made the advancement [Acquire Hardware]"}
+{"t":"2026-10-21T11:08:57.218Z","i":7,"from":"server","text":"alpha has made the advancement [Isn't It Iron Pick]"}
+{"t":"2026-10-21T11:15:54.518Z","i":1,"from":"server","text":"alpha has made the advancement [Suit Up]"}
+{"t":"2026-10-21T11:19:37.454Z","i":2,"from":"server","text":"beta left the game"}
+{"t":"2026-10-21T11:24:48.228Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T11:26:00.322Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T11:27:44.476Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T11:28:24.848Z","i":2,"from":"server","text":"alpha has made the advancement [Diamonds!]"}
+{"t":"2026-10-21T11:34:24.898Z","i":1,"from":"server","text":"alpha drowned"}
+{"t":"2026-10-21T11:35:43.944Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T11:40:33.471Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-21T11:45:35.185Z","i":2,"from":"server","text":"beta left the game"}
+{"t":"2026-10-21T11:56:07.864Z","i":1,"from":"server","text":"alpha joined the game"}
