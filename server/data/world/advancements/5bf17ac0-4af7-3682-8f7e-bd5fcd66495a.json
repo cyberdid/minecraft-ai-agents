@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2026-10-25 21:03:07 +0000",
       "minecraft:forest": "2026-10-21 12:06:31 +0000",
       "minecraft:ocean": "2026-10-21 13:07:13 +0000",
       "minecraft:old_growth_birch_forest": "2026-10-21 12:26:28 +0000"
@@ -372,7 +373,10 @@
       "cooked_porkchop": "2026-10-21 17:19:17 +0000",
       "cooked_beef": "2026-10-21 12:32:05 +0000",
       "beef": "2026-10-21 13:12:24 +0000",
-      "mutton": "2026-10-21 17:25:40 +0000"
+      "apple": "2026-10-26 00:56:02 +0000",
+      "mutton": "2026-10-21 17:25:40 +0000",
+      "rotten_flesh": "2026-10-24 18:10:40 +0000",
+      "cooked_chicken": "2026-10-24 18:41:35 +0000"
     },
     "done": false
   },
@@ -386,7 +390,8 @@
     "criteria": {
       "minecraft:skeleton": "2026-10-21 13:23:41 +0000",
       "minecraft:zombie": "2026-10-21 12:46:27 +0000",
-      "minecraft:drowned": "2026-10-21 12:47:05 +0000"
+      "minecraft:drowned": "2026-10-21 12:47:05 +0000",
+      "minecraft:zombie_villager": "2026-10-23 18:39:08 +0000"
     },
     "done": false
   },
@@ -1287,6 +1292,158 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2026-10-21 17:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2026-10-23 18:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2026-10-23 18:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2026-10-23 18:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2026-10-23 20:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2026-10-23 20:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2026-10-23 20:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2026-10-23 20:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2026-10-23 20:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2026-10-23 20:06:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2026-10-23 20:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2026-10-23 20:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2026-10-23 20:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2026-10-23 20:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2026-10-23 20:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2026-10-23 20:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-10-25 19:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-10-25 19:43:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2026-10-25 19:53:35 +0000",
+      "minecraft:soul_sand_valley": "2026-10-25 19:43:28 +0000",
+      "minecraft:nether_wastes": "2026-10-26 01:15:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-10-25 19:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-10-25 19:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2026-10-25 19:45:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2026-10-25 19:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2026-10-25 19:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2026-10-25 19:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2026-10-26 01:16:15 +0000"
     },
     "done": true
   },

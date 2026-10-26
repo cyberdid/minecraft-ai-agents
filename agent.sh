@@ -4,7 +4,7 @@
 # WARNING: --dangerously-skip-permissions lets the agent run any shell command as you.
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")" && pwd)"
-NAME=${1:?usage: ./agent.sh alpha|beta}
+NAME=${1:?usage: ./agent.sh alpha|beta|gamma|delta}
 MODEL=${MODEL:-gemini-3.8-flash-high}
 cd "$ROOT/agents/$NAME"
 exec agy --model "$MODEL" --dangerously-skip-permissions --add-dir "$ROOT/agents/team" --add-dir "$ROOT/agents/guides" \

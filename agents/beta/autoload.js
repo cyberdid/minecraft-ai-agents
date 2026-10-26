@@ -32,3 +32,15 @@ globalThis.mineDryObsidian = async function (targetCount = 10) {
   }
   return lib.count('obsidian')
 }
+
+// Configure pathfinder to strictly avoid fire, soul fire, and lava
+globalThis.configureFireAvoidance = function () {
+  if (!bot.pathfinder || !mcData) return
+  const moves = new Movements(bot, mcData)
+  if (mcData.blocksByName.fire) moves.blocksToAvoid.add(mcData.blocksByName.fire.id)
+  if (mcData.blocksByName.soul_fire) moves.blocksToAvoid.add(mcData.blocksByName.soul_fire.id)
+  if (mcData.blocksByName.lava) moves.blocksToAvoid.add(mcData.blocksByName.lava.id)
+  moves.canDig = false
+  bot.pathfinder.setMovements(moves)
+  console.log('Pathfinder movements updated: fire, soul_fire, lava blocked!')
+}

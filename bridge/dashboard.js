@@ -8,18 +8,19 @@ const args = Object.fromEntries(
   process.argv.slice(2).reduce((acc, a, i, all) => (a.startsWith('--') ? [...acc, [a.slice(2), all[i + 1]]] : acc), [])
 )
 const PORT = Number(args.port || 3100)
-const BOTS = (args.bots || 'alpha:3101:3007,beta:3102:3008').split(',').map((s) => {
+const BOTS = (args.bots || 'alpha:3101:3007,beta:3102:3008,gamma:3103:3009,delta:3104:3010').split(',').map((s) => {
   const [name, api, viewer] = s.split(':')
   return { name, api: Number(api), viewer: Number(viewer) }
 })
 
+const cols = BOTS.length >= 4 ? 2 : BOTS.length
 const page = `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Agent View</title>
 <style>
   :root { --bg:#000; --label:rgba(0,0,0,.55); --text:#fff }
   * { box-sizing:border-box } html, body { margin:0; height:100%; background:var(--bg); overflow:hidden }
-  main { display:grid; grid-template-columns:repeat(${BOTS.length}, 1fr); gap:2px; height:100vh }
+  main { display:grid; grid-template-columns:repeat(${cols}, 1fr); grid-auto-rows:1fr; gap:2px; height:100vh }
   .view { position:relative; min-width:0; background:#000 }
   iframe { position:absolute; inset:0; width:100%; height:100%; border:0 }
   .name { position:absolute; left:10px; top:8px; padding:2px 8px; border-radius:4px; background:var(--label); color:var(--text);

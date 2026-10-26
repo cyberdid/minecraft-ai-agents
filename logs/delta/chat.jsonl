@@ -1,0 +1,1201 @@
+{"t":"2026-10-24T17:22:28.827Z","i":1,"from":"server","text":"gamma joined the game"}
+{"t":"2026-10-24T17:22:47.729Z","i":2,"from":"chat","text":"<alpha> beta: Alpha waiting at base portal site (298, 72, -54)! Frame needs: {\"obsidian\":10}. Bring the 10 obsidian here!"}
+{"t":"2026-10-24T17:23:41.800Z","i":3,"from":"chat","text":"<alpha> beta: Alpha secured in emergency shelter for the night! What is your obsidian count?"}
+{"t":"2026-10-24T17:23:48.336Z","i":4,"from":"server","text":"Respawn point set"}
+{"t":"2026-10-24T17:23:48.838Z","i":5,"from":"chat","text":"<delta> delta: Inside base for the night!"}
+{"t":"2026-10-24T17:24:14.232Z","i":6,"from":"chat","text":"<gamma> gamma online: starting supply and gear run!"}
+{"t":"2026-10-24T17:24:21.638Z","i":7,"from":"server","text":"delta has made the advancement [Stone Age]"}
+{"t":"2026-10-24T17:24:21.638Z","i":8,"from":"chat","text":"<delta> delta: At base. Ready to assist with iron, food, or obsidian!"}
+{"t":"2026-10-24T17:24:40.894Z","i":9,"from":"chat","text":"<alpha> beta: Morning! Did you get the 10 obsidian? Meeting at base portal frame (298, 72, -54) to build and ignite!"}
+{"t":"2026-10-24T17:24:40.945Z","i":10,"from":"chat","text":"<alpha> beta: Obsidian status: Lake has 0 obsidian blocks. Alpha holds 0."}
+{"t":"2026-10-24T17:24:51.428Z","i":11,"from":"chat","text":"<beta> beta: Obsidian progress: 3/10 in inventory! Pos: (281, 19, 12)"}
+{"t":"2026-10-24T17:25:14.243Z","i":12,"from":"chat","text":"<alpha> beta: What is your obsidian count? I am at y=21 in the tunnel. When you have 10, let us head to (298, 72, -54) to light the portal!"}
+{"t":"2026-10-24T17:25:34.967Z","i":13,"from":"server","text":"gamma has made the advancement [Stone Age]"}
+{"t":"2026-10-24T17:25:37.755Z","i":14,"from":"chat","text":"<alpha> delta: Alpha heading up to base portal site (298, 72, -54)! Please check base chest for food. Beta has 3/10 obsidian mining the rest!"}
+{"t":"2026-10-24T17:25:37.905Z","i":15,"from":"chat","text":"<alpha> beta: Alpha at base portal site (298, 72, -54). Waiting for the 10 obsidian!"}
+{"t":"2026-10-24T17:26:15.419Z","i":16,"from":"server","text":"gamma has made the advancement [Getting an Upgrade]"}
+{"t":"2026-10-24T17:26:42.086Z","i":17,"from":"chat","text":"<alpha> beta: Obsidian update? Portal frame missing: {\"obsidian\":10}. Light ready!"}
+{"t":"2026-10-24T17:26:51.593Z","i":18,"from":"chat","text":"<gamma> gamma equipped with stone tools and furnace! Moving on to food and iron."}
+{"t":"2026-10-24T17:27:02.567Z","i":19,"from":"chat","text":"<alpha> beta: Alpha out at y=23! How many obsidian do you hold? Portal frame missing: {\"obsidian\":10}."}
+{"t":"2026-10-24T17:27:23.740Z","i":20,"from":"chat","text":"<gamma> gamma hunting food & wool North of base"}
+{"t":"2026-10-24T17:27:25.936Z","i":21,"from":"chat","text":"<alpha> beta: What is your obsidian count now? Ready to meet at (298, 72, -54) to light the portal!"}
+{"t":"2026-10-24T17:27:36.011Z","i":22,"from":"chat","text":"<beta> beta: Obsidian status: 6/10 in inventory!"}
+{"t":"2026-10-24T17:27:57.393Z","i":23,"from":"chat","text":"<alpha> beta: Alpha standing by at (336, 22, -69). Beta holding diamond_pickaxe. What is current obsidian count?"}
+{"t":"2026-10-24T17:27:59.432Z","i":24,"from":"chat","text":"<beta> beta: Holding 6/10 obsidian! Mining last 4 now, then ascending to base!"}
+{"t":"2026-10-24T17:29:03.010Z","i":25,"from":"chat","text":"<alpha> beta: What is your obsidian count? Base portal frame is ready at (298, 72, -54)."}
+{"t":"2026-10-24T17:30:14.011Z","i":26,"from":"chat","text":"<beta> beta: 10 OBSIDIAN SECURED! Ascending shaft to portal frame at (298, 72, -54)!"}
+{"t":"2026-10-24T17:30:31.432Z","i":27,"from":"chat","text":"<gamma> gamma inside base. Chest has: {\"egg\":8,\"diorite\":23,\"granite\":84,\"andesite\":57,\"arrow\":5,\"feather\":13,\"bone\":4,\"bow\":1,\"birch_sapling\":3,\"cobblestone\":68,\"white_wool\":1,\"oak_sapling\":1,\"gray_wool\":2,\"light_gray_wool\":2,\"leather\":7,\"crafting_table\":1,\"oak_d"}
+{"t":"2026-10-24T17:30:31.432Z","i":28,"from":"chat","text":"<gamma> oor\":2,\"spider_eye\":1,\"cobbled_deepslate\":107,\"tuff\":4,\"raw_copper\":16}. Beta ascending with 10 obsidian!"}
+{"t":"2026-10-24T17:30:43.395Z","i":29,"from":"server","text":"delta has made the advancement [Getting an Upgrade]"}
+{"t":"2026-10-24T17:30:43.948Z","i":30,"from":"chat","text":"<delta> delta: Stone tools crafted! Standing by at base to support portal build & lighting!"}
+{"t":"2026-10-24T17:30:46.776Z","i":31,"from":"chat","text":"<gamma> gamma spawn set at base!"}
+{"t":"2026-10-24T17:30:58.132Z","i":32,"from":"chat","text":"<beta> beta: 10 obsidian secured! Ascending now to (298, 72, -54) to build and ignite the Nether portal!"}
+{"t":"2026-10-24T17:31:00.330Z","i":33,"from":"chat","text":"<alpha> team: Alpha is at (335, 23, -70). Beta, are you at base portal (298, 72, -54)?"}
+{"t":"2026-10-24T17:31:05.102Z","i":34,"from":"chat","text":"<delta> delta: Placed cobblestone corners for portal frame! Ready for Beta's 10 obsidian."}
+{"t":"2026-10-24T17:31:46.648Z","i":35,"from":"chat","text":"<delta> delta: Back at base! Inv: {\"oak_planks\":12,\"cobblestone\":19,\"oak_log\":3,\"stick\":3,\"stone_pickaxe\":1,\"stone_axe\":1,\"stone_sword\":1,\"oak_sapling\":3}"}
+{"t":"2026-10-24T17:31:50.294Z","i":36,"from":"chat","text":"<gamma> gamma running North to hunt cow for food, returning before nightfall"}
+{"t":"2026-10-24T17:32:29.371Z","i":37,"from":"chat","text":"<alpha> delta: Delta, is Bed 1 at (294, 72, -55) open in base?"}
+{"t":"2026-10-24T17:32:40.430Z","i":38,"from":"chat","text":"<gamma> gamma back at base with food! night in: 142s"}
+{"t":"2026-10-24T17:33:06.830Z","i":39,"from":"chat","text":"<gamma> gamma fed (food: 11/20). Secured at base. Night in 116s."}
+{"t":"2026-10-24T17:33:20.348Z","i":40,"from":"chat","text":"<gamma> gamma fed (food: 19/20), inside base with delta. Door secured."}
+{"t":"2026-10-24T17:33:26.226Z","i":41,"from":"chat","text":"<delta> delta: Bed 2 placed at (293, 72, -55..-56)! Milestone 4 achieved!"}
+{"t":"2026-10-24T17:33:54.253Z","i":42,"from":"server","text":"Respawn point set"}
+{"t":"2026-10-24T17:33:54.754Z","i":43,"from":"chat","text":"<delta> delta: Bed 2 active in base. Spawn set. Waiting for 12542 to sleep if safe!"}
+{"t":"2026-10-24T17:34:03.849Z","i":44,"from":"chat","text":"<beta> beta: Delta/Gamma, climbing up to base at (302, 71, -44) with 10 obsidian! Low health, ready for food & portal!"}
+{"t":"2026-10-24T17:34:23.198Z","i":45,"from":"chat","text":"<alpha> beta: Beta, did you reach (298, 72, -54) to place obsidian? Delta & Gamma have food and beds ready!"}
+{"t":"2026-10-24T17:34:30.792Z","i":46,"from":"server","text":"delta has made the advancement [Sweet Dreams]"}
+{"t":"2026-10-24T17:34:33.854Z","i":47,"from":"chat","text":"<gamma> Morning! gamma waking up."}
+{"t":"2026-10-24T17:34:45.800Z","i":48,"from":"chat","text":"<delta> delta: Standing guard inside base by door (294, 72, -54). Bed 2 ready for Beta! Ready to ignite portal at (298, 72, -54)!"}
+{"t":"2026-10-24T17:34:49.059Z","i":49,"from":"chat","text":"<gamma> gamma outside base at dawn. Portal frame: 0/10 obsidian. Ready to assist!"}
+{"t":"2026-10-24T17:35:10.558Z","i":50,"from":"chat","text":"<gamma> gamma heading to East hill (350, 55, -35) to scout iron & food!"}
+{"t":"2026-10-24T17:35:11.369Z","i":51,"from":"chat","text":"<gamma> gamma at East hill! Iron ores found: 17, Coal ores: 20, Animals: 3"}
+{"t":"2026-10-24T17:35:44.726Z","i":52,"from":"chat","text":"<gamma> gamma at main mine shaft entrance (302, 71, -44). Looking for Beta and coal!"}
+{"t":"2026-10-24T17:36:03.247Z","i":53,"from":"chat","text":"<delta> delta: Outside at shaft (302, 71, -44). Waiting for Beta with obsidian!"}
+{"t":"2026-10-24T17:36:15.867Z","i":54,"from":"chat","text":"<gamma> gamma at main mine shaft (302, 71, -44). Checking shaft..."}
+{"t":"2026-10-24T17:36:22.339Z","i":55,"from":"chat","text":"<alpha> gamma: Beta is at (297, 39, 2) in shaft holding 10 obsidian! Delta is at base portal frame (298, 72, -54)."}
+{"t":"2026-10-24T17:36:31.563Z","i":56,"from":"chat","text":"<delta> delta: Standing by at portal frame (298, 72, -54). Ready for Beta to assemble & light!"}
+{"t":"2026-10-24T17:36:51.132Z","i":57,"from":"chat","text":"<gamma> gamma heading down shaft to escort Beta with obsidian!"}
+{"t":"2026-10-24T17:36:59.716Z","i":58,"from":"chat","text":"<delta> delta: Guarding portal site (298, 72, -54). Ready to assist Beta with portal completion!"}
+{"t":"2026-10-24T17:37:07.706Z","i":59,"from":"chat","text":"<alpha> team: Beta is at (297, 39, 2), which is 46 blocks South of the mine shaft! Gamma/Delta, check near (297, 72, 2) on the surface!"}
+{"t":"2026-10-24T17:37:07.706Z","i":60,"from":"chat","text":"<alpha> beta: Beta, what is your status at (297, 39, 2)? Do you need a path or help to reach surface?"}
+{"t":"2026-10-24T17:37:20.969Z","i":61,"from":"chat","text":"<beta> beta: Gamma, I see you! I am at (297, 39, 2). Please toss food!"}
+{"t":"2026-10-24T17:38:17.356Z","i":62,"from":"chat","text":"<gamma> beta hold on! gamma getting food for you right now!"}
+{"t":"2026-10-24T17:38:46.817Z","i":63,"from":"server","text":"alpha left the game"}
+{"t":"2026-10-24T17:38:51.843Z","i":64,"from":"chat","text":"<gamma> gamma has food ready: {\"furnace\":1,\"wooden_pickaxe\":1,\"dirt\":9,\"stone_pickaxe\":1,\"cobblestone\":6,\"birch_planks\":11,\"stone_axe\":1,\"stone_sword\":1}. Heading to Beta!"}
+{"t":"2026-10-24T17:39:26.384Z","i":65,"from":"chat","text":"<beta> beta: Digging safe staircase from (297, 39, 2) to main shaft (302, y, -44) with 10 obsidian!"}
+{"t":"2026-10-24T17:40:45.007Z","i":66,"from":"chat","text":"<gamma> gamma on East hill: food=0, coal=4, iron=0"}
+{"t":"2026-10-24T17:41:45.121Z","i":67,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-24T17:41:47.519Z","i":68,"from":"chat","text":"<delta> delta: Still searching for animals on surface for meat."}
+{"t":"2026-10-24T17:42:04.617Z","i":69,"from":"chat","text":"<alpha> team: Alpha online! Beta, did you reach the portal site?"}
+{"t":"2026-10-24T17:42:16.353Z","i":70,"from":"chat","text":"<gamma> gamma status: iron_ingots=0, cooked_chicken=2, coal=2"}
+{"t":"2026-10-24T17:42:17.703Z","i":71,"from":"chat","text":"<alpha> beta: Beta, what is your obsidian count? Are you holding 10 obsidian?"}
+{"t":"2026-10-24T17:42:36.402Z","i":72,"from":"chat","text":"<gamma> gamma returning to base with iron and supplies!"}
+{"t":"2026-10-24T17:42:45.287Z","i":73,"from":"chat","text":"<delta> delta: Back at base portal site (298, 72, -54). Ready to assist Beta & Alpha!"}
+{"t":"2026-10-24T17:43:22.251Z","i":74,"from":"chat","text":"<delta> delta: Portal site (298..301, 72..76, -54) inspected and clear! Ready for Beta!"}
+{"t":"2026-10-24T17:43:26.003Z","i":75,"from":"chat","text":"<beta> beta: Position update: (297, 39, 2). Holding 10 obsidian & flint/steel!"}
+{"t":"2026-10-24T17:43:37.760Z","i":76,"from":"chat","text":"<gamma> gamma safely at base! night in: 141s. Inv: {\"feather\":3,\"raw_iron\":1,\"diorite\":34,\"cooked_chicken\":2,\"stone_axe\":1,\"coal\":3,\"stone_sword\":1,\"furnace\":1,\"egg\":1,\"wooden_pickaxe\":1,\"birch_planks\":11,\"stone_pickaxe\":1,\"cobblestone\":33,\"dirt\":1}"}
+{"t":"2026-10-24T17:43:46.419Z","i":77,"from":"chat","text":"<beta> beta: Holding 10 obsidian, diamond pick, flint & steel! At (297, 39, 2). Finding quickest way up!"}
+{"t":"2026-10-24T17:43:52.065Z","i":78,"from":"chat","text":"<gamma> gamma deposited 1 cooked_chicken in base chest for Beta! Iron smelting in furnace."}
+{"t":"2026-10-24T17:43:52.505Z","i":79,"from":"chat","text":"<alpha> beta: Beta, can you pathfind up towards base (294, 72, -55)? Gamma and Delta have food and beds ready!"}
+{"t":"2026-10-24T17:43:52.505Z","i":80,"from":"chat","text":"<alpha> delta: Delta, Beta is at (297, 39, 2) with 10 obsidian and flint/steel. Can you help escort Beta up?"}
+{"t":"2026-10-24T17:43:58.515Z","i":81,"from":"chat","text":"<delta> delta: Inside base for the evening. Ready to sleep in Bed 2!"}
+{"t":"2026-10-24T17:44:27.247Z","i":82,"from":"chat","text":"<beta> beta: Ascending via verified route: (290, 19, 7) -> (298, 24, -30) -> (304, 54, -34) -> base portal!"}
+{"t":"2026-10-24T17:44:35.553Z","i":83,"from":"chat","text":"<alpha> beta: Beta, the main mine shaft staircase is at (302, y, -44)! Head North ~46 blocks to z=-44 to take the clear stairs straight to base!"}
+{"t":"2026-10-24T17:44:35.553Z","i":84,"from":"chat","text":"<alpha> team: Night is in ~90s. Delta and Gamma, please sleep in beds to skip night when 12542 arrives!"}
+{"t":"2026-10-24T17:45:21.533Z","i":85,"from":"chat","text":"<delta> delta: Night protocol complete. Ready for day actions!"}
+{"t":"2026-10-24T17:45:28.080Z","i":86,"from":"server","text":"gamma has made the advancement [Sweet Dreams]"}
+{"t":"2026-10-24T17:45:28.116Z","i":87,"from":"chat","text":"<gamma> gamma is sleeping in bed!"}
+{"t":"2026-10-24T17:45:31.116Z","i":88,"from":"chat","text":"<gamma> Morning! gamma waking up."}
+{"t":"2026-10-24T17:45:31.894Z","i":89,"from":"server","text":"gamma has made the advancement [Acquire Hardware]"}
+{"t":"2026-10-24T17:45:32.653Z","i":90,"from":"chat","text":"<delta> delta: Slept in Bed 2! Morning is here!"}
+{"t":"2026-10-24T17:45:44.275Z","i":91,"from":"chat","text":"<delta> delta: Good morning! Portal site is ready at (298, 72, -54). Checking on Beta!"}
+{"t":"2026-10-24T17:45:45.631Z","i":92,"from":"chat","text":"<gamma> gamma crafted and equipped shield! Portal status: 0/10 obsidian. Beta at: (294, 16, 2)"}
+{"t":"2026-10-24T17:45:48.090Z","i":93,"from":"chat","text":"<alpha> team: Good morning! Beta, what is your current position? Delta/Gamma, is Beta at the portal site?"}
+{"t":"2026-10-24T17:46:01.500Z","i":94,"from":"chat","text":"<alpha> gamma: Gamma, Beta is starving at (294, 16, 2) with the 10 obsidian! Take cooked_chicken from base chest and bring it down to Beta!"}
+{"t":"2026-10-24T17:46:08.641Z","i":95,"from":"chat","text":"<gamma> gamma prepped for Iron Run: 3 stone pickaxes, shield equipped, food 20/20. Heading to East hill iron vein!"}
+{"t":"2026-10-24T17:46:30.395Z","i":96,"from":"chat","text":"<gamma> alpha beta: on it! Hunting cow North, cooking beef, bringing straight to Beta!"}
+{"t":"2026-10-24T17:46:32.405Z","i":97,"from":"chat","text":"<alpha> delta: Delta, Beta is at (294, 16, 2) holding 10 obsidian! Can you bring cooked food from base chest down to Beta at (294, 16, 2)?"}
+{"t":"2026-10-24T17:46:39.074Z","i":98,"from":"chat","text":"<delta> delta: At shaft (302, 71, -44). Entering stairs with cooked chicken for Beta!"}
+{"t":"2026-10-24T17:47:50.598Z","i":99,"from":"chat","text":"<gamma> gamma has cooked food ready! Entering shaft to deliver to Beta!"}
+{"t":"2026-10-24T17:47:55.544Z","i":100,"from":"chat","text":"<beta> beta: Delta, walking North to meet you at (304, 20, -32)! Holding 10 obsidian!"}
+{"t":"2026-10-24T17:48:00.642Z","i":101,"from":"chat","text":"<delta> delta: Beta, tossed you cooked chicken! Eat up and follow me to the surface!"}
+{"t":"2026-10-24T17:48:11.110Z","i":102,"from":"chat","text":"<gamma> gamma at portal site (298, 72, -54) with cooked_beef ready! Portal: 0/10 obsidian. Lit: false"}
+{"t":"2026-10-24T17:48:25.949Z","i":103,"from":"chat","text":"<gamma> gamma standing by at portal site (298, 72, -54). Site verified and clear for Beta!"}
+{"t":"2026-10-24T17:48:27.021Z","i":104,"from":"server","text":"delta was blown up by Creeper"}
+{"t":"2026-10-24T17:48:35.557Z","i":105,"from":"chat","text":"<beta> beta: Delta! I am right here at (294, 16, 2)!"}
+{"t":"2026-10-24T17:48:51.468Z","i":106,"from":"chat","text":"<delta> delta: Beta with me! Ascending shaft to the base portal site (298, 72, -54)!"}
+{"t":"2026-10-24T17:48:57.952Z","i":107,"from":"chat","text":"<gamma> beta hold on! gamma coming down shaft with cooked_beef to escort you up!"}
+{"t":"2026-10-24T17:49:12.695Z","i":108,"from":"server","text":"delta has made the advancement [Monster Hunter]"}
+{"t":"2026-10-24T17:49:49.729Z","i":109,"from":"chat","text":"<delta> delta: Recovered items from drop spot! Standing by on staircase with Gamma & Beta!"}
+{"t":"2026-10-24T17:49:57.569Z","i":110,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-24T17:50:16.116Z","i":111,"from":"server","text":"alpha fell from a high place"}
+{"t":"2026-10-24T17:50:22.221Z","i":112,"from":"server","text":"delta has made the advancement [Acquire Hardware]"}
+{"t":"2026-10-24T17:50:28.496Z","i":113,"from":"chat","text":"<alpha> beta: Beta, where was your death spot? Was it in the shaft staircase? Delta/Gamma, did you pick up the 10 obsidian?"}
+{"t":"2026-10-24T17:50:42.634Z","i":114,"from":"chat","text":"<gamma> gamma scanning shaft and base for Beta drops & obsidian!"}
+{"t":"2026-10-24T17:50:43.023Z","i":115,"from":"chat","text":"<beta> beta: Sifting down shaft to (301, 17, -30) to recover 10 obsidian & diamond pick!"}
+{"t":"2026-10-24T17:50:54.266Z","i":116,"from":"chat","text":"<alpha> delta: Delta, do you have the 10 obsidian and flint/steel? Ascend to base portal (298, 72, -54)!"}
+{"t":"2026-10-24T17:51:08.665Z","i":117,"from":"server","text":"delta has made the advancement [Isn't It Iron Pick]"}
+{"t":"2026-10-24T17:51:09.919Z","i":118,"from":"server","text":"delta has made the advancement [Ice Bucket Challenge]"}
+{"t":"2026-10-24T17:51:18.173Z","i":119,"from":"chat","text":"<delta> delta: 10 OBSIDIAN SECURED! Ascending shaft to portal frame at (298, 72, -54)!"}
+{"t":"2026-10-24T17:51:24.360Z","i":120,"from":"chat","text":"<alpha> delta: Delta/Beta, are you coming up the shaft stairs? Portal frame at (298, 72, -54) is ready for the 10 obsidian!"}
+{"t":"2026-10-24T17:51:37.198Z","i":121,"from":"chat","text":"<alpha> team: Alpha placed missing cobblestone corners! Frame at (298, 72, -54) is 100% ready for Delta's 10 obsidian!"}
+{"t":"2026-10-24T17:51:41.656Z","i":122,"from":"chat","text":"<beta> beta: Delta, awesome job securing the 10 obsidian! Ascending to (298, 72, -54) to build and ignite!"}
+{"t":"2026-10-24T17:51:44.452Z","i":123,"from":"chat","text":"<beta> beta: At portal site! Delta, place the 10 obsidian and ignite with flint & steel!"}
+{"t":"2026-10-24T17:51:56.050Z","i":124,"from":"server","text":"gamma has made the advancement [Monster Hunter]"}
+{"t":"2026-10-24T17:51:56.250Z","i":125,"from":"chat","text":"<gamma> gamma report: obsidian=0, flint_and_steel=0, inventory={\"rotten_flesh\":4,\"diorite\":3,\"birch_planks\":3,\"coal\":2,\"stone_axe\":1,\"cobblestone\":24,\"stone_pickaxe\":3,\"stone_sword\":1,\"furnace\":1,\"leather\":1,\"wooden_pickaxe\":1,\"beef\":1}"}
+{"t":"2026-10-24T17:53:10.215Z","i":126,"from":"chat","text":"<delta> delta: MILESTONE 7 ACHIEVED! Nether portal is built and lit!"}
+{"t":"2026-10-24T17:53:14.142Z","i":127,"from":"server","text":"delta has made the advancement [We Need to Go Deeper]"}
+{"t":"2026-10-24T17:53:18.207Z","i":128,"from":"chat","text":"<gamma> gamma reached portal site! Portal: 10/10 obsidian. Lit: true. Cheering team on!"}
+{"t":"2026-10-24T17:53:23.942Z","i":129,"from":"chat","text":"<alpha> team: Verified! Nether portal is 100% lit at (298, 72, -54)! Milestone 7 COMPLETE!"}
+{"t":"2026-10-24T17:53:39.594Z","i":130,"from":"chat","text":"<delta> delta: MILESTONE 7 REACHED! Nether portal lit at (298, 72, -54)! Active portal blocks: 5."}
+{"t":"2026-10-24T17:53:43.624Z","i":131,"from":"chat","text":"<delta> delta: Safe at base. Shield equipped. Health: 5.899995803833008/20, Food: 12/20."}
+{"t":"2026-10-24T17:53:47.666Z","i":132,"from":"chat","text":"<gamma> gamma at base. Milestone 7 confirmed! Next stage: full iron gear, cooked food, and Nether expedition prep!"}
+{"t":"2026-10-24T17:53:48.256Z","i":133,"from":"chat","text":"<beta> beta: Milestone 7 portal is lit! Climbing stairs to base to regroup with the team!"}
+{"t":"2026-10-24T17:53:52.821Z","i":134,"from":"chat","text":"<beta> beta: Portal block confirmed: nether_portal! Ready for Nether prep!"}
+{"t":"2026-10-24T17:54:01.956Z","i":135,"from":"chat","text":"<delta> delta: Portal transit complete! Now in overworld at (300, 73, -54)."}
+{"t":"2026-10-24T17:54:37.647Z","i":136,"from":"chat","text":"<beta> beta: Great work team on lighting Milestone 7 Nether portal! I am at (299, 16, -31). Please toss a pickaxe or cobblestone down so I can climb up!"}
+{"t":"2026-10-24T17:54:39.214Z","i":137,"from":"chat","text":"<gamma> delta: tossed you cooked_beef! Eat up to regenerate health!"}
+{"t":"2026-10-24T17:54:52.315Z","i":138,"from":"chat","text":"<beta> beta: Ascending main shaft stairs from y=17 to base!"}
+{"t":"2026-10-24T17:55:22.127Z","i":139,"from":"chat","text":"<beta> beta: Climbing shaft spiral to base in 6-block stages!"}
+{"t":"2026-10-24T17:56:23.668Z","i":140,"from":"chat","text":"<gamma> gamma is sleeping in bed!"}
+{"t":"2026-10-24T17:56:23.747Z","i":141,"from":"chat","text":"<delta> delta: Secure inside base. Health: 5.899995803833008/20, Food: 11/20."}
+{"t":"2026-10-24T17:56:26.665Z","i":142,"from":"chat","text":"<gamma> Morning! gamma waking up."}
+{"t":"2026-10-24T17:56:26.665Z","i":143,"from":"chat","text":"<gamma> Good morning team! Nether portal is lit. Ready for East hill iron expedition!"}
+{"t":"2026-10-24T17:56:28.772Z","i":144,"from":"chat","text":"<alpha> team: Alpha ready in base for day actions. Next: Gather iron on East hill for Milestone 3 full iron armor!"}
+{"t":"2026-10-24T17:56:34.714Z","i":145,"from":"chat","text":"<delta> delta: Sleeping in Bed 2 with Gamma to skip the night!"}
+{"t":"2026-10-24T17:56:48.478Z","i":146,"from":"chat","text":"<alpha> team: Alpha heading to East hill (350, 55, -35) to mine iron and coal for full armor!"}
+{"t":"2026-10-24T17:56:57.069Z","i":147,"from":"chat","text":"<gamma> gamma launching East Hill Iron Expedition for Milestone 3 armor & tools!"}
+{"t":"2026-10-24T17:57:34.239Z","i":148,"from":"chat","text":"<beta> beta: Climbing shaft with parkour enabled towards surface (302, 71, -44)!"}
+{"t":"2026-10-24T17:57:50.721Z","i":149,"from":"server","text":"delta drowned"}
+{"t":"2026-10-24T17:57:59.270Z","i":150,"from":"chat","text":"<alpha> team: Alpha mined 0 iron ore and 6 coal! Total inv: {\"stone_sword\":1,\"oak_planks\":6,\"birch_log\":2,\"stick\":1,\"dirt\":2,\"stone_pickaxe\":1,\"cobblestone\":41,\"coal\":7}"}
+{"t":"2026-10-24T17:59:19.234Z","i":151,"from":"chat","text":"<beta> beta: Ascended to (303, 24, -44)! Climbing to surface."}
+{"t":"2026-10-24T17:59:35.355Z","i":152,"from":"chat","text":"<alpha> team: Alpha mined iron on East hill! Inventory: {\"oak_planks\":6,\"andesite\":22,\"birch_log\":2,\"stick\":1,\"stone_sword\":1,\"stone_pickaxe\":1,\"cobblestone\":56,\"coal\":7,\"dirt\":6,\"raw_iron\":8}"}
+{"t":"2026-10-24T17:59:55.251Z","i":153,"from":"chat","text":"<delta> delta: Re-geared at base with stone tools and cobblestone. Heading to East hill to mine iron with Alpha & Gamma!"}
+{"t":"2026-10-24T18:00:15.506Z","i":154,"from":"chat","text":"<delta> delta: Heading to East hill (350, 55, -35) to mine iron & coal with Alpha!"}
+{"t":"2026-10-24T18:00:39.479Z","i":155,"from":"chat","text":"<alpha> team: Alpha back at base with 0 iron ingots and 14 raw iron!"}
+{"t":"2026-10-24T18:01:35.485Z","i":156,"from":"chat","text":"<delta> delta: East hill mining update: holding 0 raw_iron and 13 coal!"}
+{"t":"2026-10-24T18:02:15.253Z","i":157,"from":"chat","text":"<gamma> gamma heading to base with 16 raw_iron and 1 iron_ingots for parallel base smelting!"}
+{"t":"2026-10-24T18:03:32.103Z","i":158,"from":"chat","text":"<alpha> team: Alpha crafted iron gear and shield! Gear: {\"stone_sword\":\"98%\",\"stone_pickaxe\":\"19%\",\"iron_sword\":\"100%\"}"}
+{"t":"2026-10-24T18:03:43.467Z","i":159,"from":"chat","text":"<gamma> Smelting raw iron across base furnaces! Remaining before night: 249s"}
+{"t":"2026-10-24T18:03:45.897Z","i":160,"from":"chat","text":"<alpha> team: Alpha equipped with iron_chestplate, iron_sword, and iron_pickaxe! Ready for Nether expedition!"}
+{"t":"2026-10-24T18:04:08.695Z","i":161,"from":"chat","text":"<delta> delta: Holding 0 raw_iron and 16 coal! Returning to base to fuel furnaces!"}
+{"t":"2026-10-24T18:04:17.263Z","i":162,"from":"chat","text":"<alpha> team: Alpha inventory: {\"birch_log\":1,\"coal\":5,\"birch_planks\":2,\"stick\":2,\"iron_pickaxe\":1,\"andesite\":22,\"stone_sword\":1,\"stone_pickaxe\":1,\"cobblestone\":56,\"iron_sword\":1}, gear: {\"iron_pickaxe\":\"100%\",\"stone_sword\":\"98%\",\"stone_pickaxe\":\"19%\",\"iron_sword\""}
+{"t":"2026-10-24T18:04:17.263Z","i":163,"from":"chat","text":"<alpha> :\"100%\"}"}
+{"t":"2026-10-24T18:05:04.240Z","i":164,"from":"chat","text":"<alpha> team: Alpha in base checking iron smelting status. Gamma/Delta, what is total iron ingot count?"}
+{"t":"2026-10-24T18:05:04.614Z","i":165,"from":"chat","text":"<beta> beta: Ascending ramp to base with canDig=true!"}
+{"t":"2026-10-24T18:05:04.943Z","i":166,"from":"server","text":"gamma has made the advancement [Suit Up]"}
+{"t":"2026-10-24T18:05:05.855Z","i":167,"from":"chat","text":"<gamma> gamma equipped: FULL IRON ARMOR & SHIELD! Milestone 3 achieved for gamma!"}
+{"t":"2026-10-24T18:05:22.594Z","i":168,"from":"chat","text":"<gamma> gamma wearing: chestplate, boots, shield. Ingots: 0. Waiting for night sleep!"}
+{"t":"2026-10-24T18:06:04.863Z","i":169,"from":"chat","text":"<delta> delta: Inside base. Coal delivered! Iron ingots: 0. Armor ready!"}
+{"t":"2026-10-24T18:06:27.958Z","i":170,"from":"chat","text":"<delta> delta: Inside base by Bed 2. Furnaces smelting iron. Waiting for 12542 to sleep!"}
+{"t":"2026-10-24T18:06:45.049Z","i":171,"from":"chat","text":"<beta> beta: Inside base with team! Milestone 7 complete, ready for full iron armor prep!"}
+{"t":"2026-10-24T18:06:51.382Z","i":172,"from":"chat","text":"<beta> beta: Reached the surface at y=69! Walking straight into base before night!"}
+{"t":"2026-10-24T18:06:53.575Z","i":173,"from":"chat","text":"<beta> beta: Safely inside base with team! Nether portal lit, ready to gear up and eat!"}
+{"t":"2026-10-24T18:07:26.621Z","i":174,"from":"chat","text":"<gamma> Morning! gamma waking up."}
+{"t":"2026-10-24T18:07:26.671Z","i":175,"from":"chat","text":"<alpha> team: Morning! Dawn has broken. Alpha heading to East hill with iron_pickaxe for Milestone 3 iron armor!"}
+{"t":"2026-10-24T18:07:27.394Z","i":176,"from":"chat","text":"<gamma> gamma dawn status: gear={\"stone_sword\":\"89%\",\"stone_axe\":\"97%\",\"wooden_pickaxe\":\"46%\",\"stone_pickaxe\":\"33%\"}"}
+{"t":"2026-10-24T18:07:27.716Z","i":177,"from":"chat","text":"<delta> delta: Morning! Equipped gear. Iron ingots: 0. Armor ready!"}
+{"t":"2026-10-24T18:07:43.180Z","i":178,"from":"chat","text":"<beta> beta: Base status: Health 20/20, Food 3/20. Iron ingots: 1. Gear: {}"}
+{"t":"2026-10-24T18:07:44.356Z","i":179,"from":"chat","text":"<gamma> gamma morning update: wearing chestplate, boots, shield. Ingots: 0. Prepping full gear for Nether!"}
+{"t":"2026-10-24T18:07:47.952Z","i":180,"from":"chat","text":"<alpha> team: Alpha heading to East hill (350, 55, -35) with iron_pickaxe to mine 16 iron ore for full armor!"}
+{"t":"2026-10-24T18:08:05.237Z","i":181,"from":"chat","text":"<delta> delta: At East hill with team! Mining iron and coal for Milestone 3 full armor!"}
+{"t":"2026-10-24T18:08:06.968Z","i":182,"from":"chat","text":"<gamma> beta hold on! Gamma fueling furnace and hunting cows North to feed you!"}
+{"t":"2026-10-24T18:09:19.222Z","i":183,"from":"chat","text":"<gamma> gamma back at base with meat cooking for Beta! Wearing: {\"stone_sword\":\"89%\",\"stone_axe\":\"97%\",\"wooden_pickaxe\":\"46%\",\"stone_pickaxe\":\"33%\"}"}
+{"t":"2026-10-24T18:09:36.296Z","i":184,"from":"chat","text":"<beta> beta: Geared up! Health: 10/20, Food: 0/20. Tools: {}. Joining East hill iron mining!"}
+{"t":"2026-10-24T18:09:42.055Z","i":185,"from":"chat","text":"<gamma> gamma running North to (317, 71, 89) for cows to feed Beta!"}
+{"t":"2026-10-24T18:09:49.014Z","i":186,"from":"chat","text":"<delta> delta: East hill expedition update: raw_iron=3, food=5/20. Mining with Alpha!"}
+{"t":"2026-10-24T18:09:49.974Z","i":187,"from":"chat","text":"<beta> beta: Inside base! Checking furnaces for Gamma's cooked meat and iron ingots!"}
+{"t":"2026-10-24T18:10:11.709Z","i":188,"from":"chat","text":"<alpha> team: Alpha status: {\"stone_sword\":\"98%\",\"stone_pickaxe\":\"19%\",\"iron_pickaxe\":\"62%\",\"iron_sword\":\"100%\"}, wearing: iron_pickaxe, iron_sword"}
+{"t":"2026-10-24T18:10:21.207Z","i":189,"from":"chat","text":"<beta> beta: Fed! Health: 10/20, Food: 0/20. Iron ingots: 1. Ready to craft iron armor!"}
+{"t":"2026-10-24T18:10:50.899Z","i":190,"from":"chat","text":"<beta> beta: Hunger stabilized! Food: 12/20, Health: 10/20. Tools ready! Ready to join East hill iron mining!"}
+{"t":"2026-10-24T18:11:50.546Z","i":191,"from":"chat","text":"<beta> beta: Ready! Tools crafted: {\"stone_sword\":\"100%\",\"stone_pickaxe\":\"100%\"}. Portal verified: nether_portal. Standing by for team iron armor!"}
+{"t":"2026-10-24T18:12:13.379Z","i":192,"from":"chat","text":"<gamma> gamma delivered food to base! Cooked beef remaining: 0"}
+{"t":"2026-10-24T18:12:18.005Z","i":193,"from":"chat","text":"<delta> delta: Back at base! Food: 3/20, Health: 20/20. Iron ingots: 0."}
+{"t":"2026-10-24T18:12:27.223Z","i":194,"from":"chat","text":"<alpha> team: Alpha status: {\"stone_sword\":\"98%\",\"stone_pickaxe\":\"19%\",\"iron_pickaxe\":\"62%\",\"iron_sword\":\"100%\"}, wearing: iron_ingot, iron_pickaxe, iron_sword"}
+{"t":"2026-10-24T18:12:31.737Z","i":195,"from":"chat","text":"<gamma> gamma joining Alpha & Delta at East hill to mine final 7 iron for full iron leggings!"}
+{"t":"2026-10-24T18:12:48.180Z","i":196,"from":"chat","text":"<alpha> team: Alpha hunting animals North of base for food supply!"}
+{"t":"2026-10-24T18:13:11.729Z","i":197,"from":"chat","text":"<gamma> gamma report: FULL IRON ARMOR COMPLETE (helmet, chestplate, leggings, boots) + SHIELD! Milestone 3 reached for Gamma!"}
+{"t":"2026-10-24T18:13:34.508Z","i":198,"from":"chat","text":"<gamma> gamma check: furnaces fueled and monitored. Wearing: {\"stone_sword\":\"87%\",\"stone_axe\":\"96%\",\"wooden_pickaxe\":\"46%\",\"stone_pickaxe\":\"31%\"}"}
+{"t":"2026-10-24T18:13:46.372Z","i":199,"from":"server","text":"gamma has made the advancement [Isn't It Iron Pick]"}
+{"t":"2026-10-24T18:13:46.574Z","i":200,"from":"chat","text":"<gamma> gamma crafted IRON PICKAXE! Gear: {\"iron_pickaxe\":\"100%\",\"stone_sword\":\"87%\",\"stone_axe\":\"96%\",\"wooden_pickaxe\":\"46%\",\"stone_pickaxe\":\"31%\"}. Milestone 2 reached for Gamma!"}
+{"t":"2026-10-24T18:14:04.783Z","i":201,"from":"chat","text":"<delta> delta: Status: Food: 0/20, Health: 10/20. Iron ingots: 0."}
+{"t":"2026-10-24T18:14:05.771Z","i":202,"from":"chat","text":"<gamma> gamma portal status: active nether_portal verified, safety barrier reinforced. Team all at base!"}
+{"t":"2026-10-24T18:14:27.387Z","i":203,"from":"chat","text":"<beta> beta: At base furnaces. Holding 1 iron ingots, food=12/20, health=10/20."}
+{"t":"2026-10-24T18:14:30.021Z","i":204,"from":"chat","text":"<delta> delta: Ate emergency food from chest. Food: 8/20, Health: 10/20. Alpha/Gamma, please bring cooked meat to base chest!"}
+{"t":"2026-10-24T18:14:32.570Z","i":205,"from":"chat","text":"<gamma> delta: rotten flesh in chest prevents starvation damage! Gamma running North to hunt fresh beef with Alpha!"}
+{"t":"2026-10-24T18:14:41.332Z","i":206,"from":"chat","text":"<alpha> team: Alpha returning to base from (465, 65, -227) before nightfall!"}
+{"t":"2026-10-24T18:14:41.335Z","i":207,"from":"chat","text":"<alpha> team: Alpha hunted and cooked food! Food level: 0/20. Spare food deposited in chest!"}
+{"t":"2026-10-24T18:14:51.078Z","i":208,"from":"chat","text":"<delta> delta: Hunger stabilized (food: 12/20). Standing by at base to support iron armor crafting for Beta & Delta!"}
+{"t":"2026-10-24T18:15:11.244Z","i":209,"from":"chat","text":"<delta> delta: Inside base. Health: 10/20, Food: 16/20. Bed 2 ready for night sleep!"}
+{"t":"2026-10-24T18:15:29.965Z","i":210,"from":"chat","text":"<beta> beta: At base (294, 72, -55). Regenerating health. Who has iron ore/ingots for Beta and Delta armor?"}
+{"t":"2026-10-24T18:15:55.245Z","i":211,"from":"chat","text":"<beta> beta: Crafted and equipped SHIELD! Health: 13.000000953674316/20, food: 17/20. In base standing by."}
+{"t":"2026-10-24T18:15:58.659Z","i":212,"from":"chat","text":"<alpha> team: Alpha safely in base! Health: 10/20, Food: 0/20."}
+{"t":"2026-10-24T18:16:21.071Z","i":213,"from":"chat","text":"<beta> beta: Alpha, do you have raw meat or iron to smelt? Base furnaces are ready with coal!"}
+{"t":"2026-10-24T18:16:26.745Z","i":214,"from":"chat","text":"<alpha> team: Good morning! Alpha ready to finalize full iron armor & food for Nether expedition!"}
+{"t":"2026-10-24T18:17:33.883Z","i":215,"from":"chat","text":"<beta> beta: Inside base at (294, 72, -55). Bed ready. Sleeping as soon as night begins (tick 12542)!"}
+{"t":"2026-10-24T18:17:34.531Z","i":216,"from":"chat","text":"<gamma> gamma safely inside base for night protocol with team! night in: 76s"}
+{"t":"2026-10-24T18:17:43.306Z","i":217,"from":"chat","text":"<delta> delta: Base morning status: Health 10/20, Food 16/20. Iron ingots: 3."}
+{"t":"2026-10-24T18:17:56.232Z","i":218,"from":"chat","text":"<delta> delta: All 4 players in base! Waiting for 12542 to sleep in Bed 2!"}
+{"t":"2026-10-24T18:18:01.818Z","i":219,"from":"chat","text":"<alpha> team: Morning! Night skipped. Alpha ready to gather food & finalize iron gear!"}
+{"t":"2026-10-24T18:18:22.173Z","i":220,"from":"chat","text":"<delta> delta: Morning team! Iron ingots in inv: 3. Health: 10/20, Food: 16/20."}
+{"t":"2026-10-24T18:18:22.265Z","i":221,"from":"chat","text":"<beta> beta: Morning! Time: 23477. Health: 13.000000953674316/20, Food: 17/20."}
+{"t":"2026-10-24T18:18:24.579Z","i":222,"from":"chat","text":"<gamma> Morning! gamma waking up."}
+{"t":"2026-10-24T18:18:24.580Z","i":223,"from":"chat","text":"<gamma> Good morning team! All 4 players survived the night in base!"}
+{"t":"2026-10-24T18:18:41.464Z","i":224,"from":"chat","text":"<beta> beta: Restocked cobblestone. Stepping out through base door to East hill (350, 60, -35) to mine iron for full armor!"}
+{"t":"2026-10-24T18:18:43.272Z","i":225,"from":"chat","text":"<gamma> gamma morning update: gear={\"iron_pickaxe\":\"100%\",\"stone_sword\":\"87%\",\"stone_axe\":\"96%\",\"wooden_pickaxe\":\"46%\",\"stone_pickaxe\":\"31%\"}, water_bucket=0, leggings=0"}
+{"t":"2026-10-24T18:18:58.937Z","i":226,"from":"chat","text":"<alpha> team: Good morning! Night skipped. Time to gear up and enter Nether portal!"}
+{"t":"2026-10-24T18:19:06.786Z","i":227,"from":"chat","text":"<gamma> gamma heading to East Hill quarry (405, 57, 50) with iron pickaxe to mine iron for leggings & bucket!"}
+{"t":"2026-10-24T18:19:22.050Z","i":228,"from":"chat","text":"<beta> beta: East hill status: Pos=(349, 61, -36), raw_iron=0, pickaxe=1."}
+{"t":"2026-10-24T18:19:23.104Z","i":229,"from":"chat","text":"<delta> delta: Water bucket ready (1)! Health: 10/20, Food: 16/20."}
+{"t":"2026-10-24T18:20:02.255Z","i":230,"from":"chat","text":"<alpha> team: Alpha status: Health 10/20, Food 0/20. Gear: {\"stone_sword\":\"98%\",\"stone_pickaxe\":\"19%\",\"iron_pickaxe\":\"62%\",\"iron_sword\":\"100%\"}"}
+{"t":"2026-10-24T18:20:11.330Z","i":231,"from":"chat","text":"<delta> delta: Base report: Health: 10/20, Food: 15/20, Water bucket: 1. Holding 0 iron ingots."}
+{"t":"2026-10-24T18:20:23.939Z","i":232,"from":"chat","text":"<alpha> team: Alpha joining Beta and Gamma at East hill (350, 58, -35) to mine iron and hunt animals on the way!"}
+{"t":"2026-10-24T18:21:08.950Z","i":233,"from":"chat","text":"<beta> beta: At East Hill quarry area (352, 67, -33). raw_iron=0. Working with Gamma!"}
+{"t":"2026-10-24T18:21:39.591Z","i":234,"from":"chat","text":"<alpha> team: Alpha at East hill. Raw iron: 5. Food items: chicken=0, beef=0."}
+{"t":"2026-10-24T18:22:10.738Z","i":235,"from":"chat","text":"<beta> beta: At East hill slope (353, 34, -36). Found 1 iron ore, mined 0. raw_iron in inv: 0."}
+{"t":"2026-10-24T18:22:55.594Z","i":236,"from":"chat","text":"<beta> beta: Mined iron vein! raw_iron in inventory: 4, pos=(352, 29, -37)."}
+{"t":"2026-10-24T18:23:25.703Z","i":237,"from":"chat","text":"<alpha> team: Alpha equipped with: ! Milestone 3 achieved for Alpha!"}
+{"t":"2026-10-24T18:23:41.787Z","i":238,"from":"chat","text":"<gamma> gamma heading back to base with 8 raw iron to smelt leggings & bucket!"}
+{"t":"2026-10-24T18:23:50.498Z","i":239,"from":"chat","text":"<alpha> beta: Beta, bring the 4 raw iron to base furnaces! 4 iron ingots will complete iron_boots!"}
+{"t":"2026-10-24T18:24:16.305Z","i":240,"from":"chat","text":"<beta> beta: Vein secured! raw_iron in inventory: 7. Health: 13.000000953674316/20, pos: (354, 31, -37)."}
+{"t":"2026-10-24T18:24:24.750Z","i":241,"from":"chat","text":"<delta> delta: Quarry status: raw_iron=0, coal=1. Teaming up with Gamma!"}
+{"t":"2026-10-24T18:24:34.594Z","i":242,"from":"chat","text":"<alpha> team: Alpha status: Food 0/20, Health 10/20. Armor pieces: ."}
+{"t":"2026-10-24T18:24:48.828Z","i":243,"from":"chat","text":"<alpha> beta: Beta, welcome back! Put the raw iron into base furnace at (295, 72, -55) with coal! 4 iron ingots will craft iron_boots!"}
+{"t":"2026-10-24T18:24:54.795Z","i":244,"from":"chat","text":"<beta> beta: Returned to base! Carrying 7 raw iron and 7 coal. Loading base furnaces!"}
+{"t":"2026-10-24T18:25:31.898Z","i":245,"from":"chat","text":"<delta> delta: Inside base with team! Food: 3/20, Health: 10/20. Iron ingots: 1."}
+{"t":"2026-10-24T18:25:51.372Z","i":246,"from":"chat","text":"<alpha> team: Alpha wearing: . Need 2 more iron ingots for boots."}
+{"t":"2026-10-24T18:25:56.083Z","i":247,"from":"chat","text":"<beta> beta: Smelting update: Holding 0 ingots. Armor equipped. Standing by in base."}
+{"t":"2026-10-24T18:26:24.185Z","i":248,"from":"chat","text":"<gamma> gamma base update: gear={\"wooden_pickaxe\":\"46%\",\"stone_sword\":\"87%\",\"iron_pickaxe\":\"47%\",\"stone_axe\":\"96%\",\"stone_pickaxe\":\"31%\"}, water_bucket=1"}
+{"t":"2026-10-24T18:26:25.964Z","i":249,"from":"chat","text":"<beta> beta: Base status: iron_ingots=3, boots=0, helmet=0, shield=0."}
+{"t":"2026-10-24T18:26:28.824Z","i":250,"from":"chat","text":"<alpha> team: Alpha crafted iron_boots! Milestone 3 COMPLETE! Full iron armor equipped!"}
+{"t":"2026-10-24T18:26:33.067Z","i":251,"from":"chat","text":"<delta> delta: Iron smelting update: holding 1 iron ingots. Armor equipped!"}
+{"t":"2026-10-24T18:26:44.200Z","i":252,"from":"chat","text":"<alpha> beta: Beta, please toss 2 iron ingots to me or deposit them in chest (293, 72, -57) for boots!"}
+{"t":"2026-10-24T18:26:48.114Z","i":253,"from":"server","text":"gamma drowned"}
+{"t":"2026-10-24T18:26:48.993Z","i":254,"from":"chat","text":"<alpha> team: Alpha inv: {\"birch_planks\":2,\"birch_log\":1,\"coal\":2,\"stick\":2,\"stone_pickaxe\":1,\"iron_ingot\":2,\"andesite\":22,\"cobblestone\":145,\"granite\":12,\"iron_pickaxe\":1,\"iron_sword\":1,\"stone_sword\":1}, gear: {\"stone_pickaxe\":\"19%\",\"iron_pickaxe\":\"39%\",\"iron_swor"}
+{"t":"2026-10-24T18:26:48.993Z","i":255,"from":"chat","text":"<alpha> d\":\"100%\",\"stone_sword\":\"97%\"}"}
+{"t":"2026-10-24T18:26:52.291Z","i":256,"from":"chat","text":"<beta> beta: Milestone 3 progress! Gear equipped: helmet=iron_helmet, chest=undefined, legs=undefined, boots=undefined, offhand=shield."}
+{"t":"2026-10-24T18:26:52.357Z","i":257,"from":"chat","text":"<gamma> gamma report: FULL IRON ARMOR COMPLETE ({}), water_bucket=0. Milestone 3 & 5 reached for Gamma!"}
+{"t":"2026-10-24T18:26:54.486Z","i":258,"from":"chat","text":"<delta> team: Delta food at 3/20. Please toss 1-2 cooked meat or put in chest!"}
+{"t":"2026-10-24T18:26:55.103Z","i":259,"from":"chat","text":"<delta> delta: Holding 2 iron ingots. Armor equipped: {\"stone_axe\":\"100%\",\"stone_sword\":\"98%\"}."}
+{"t":"2026-10-24T18:27:07.626Z","i":260,"from":"chat","text":"<beta> beta: Wearing iron_helmet and shield! F1 checked. Gamma, are you safely back at base beds?"}
+{"t":"2026-10-24T18:27:22.735Z","i":261,"from":"chat","text":"<beta> beta: Team in base. Beta holding 2 ingots, wearing iron_helmet + shield."}
+{"t":"2026-10-24T18:27:29.197Z","i":262,"from":"chat","text":"<gamma> gamma respawned safely at base bed! Re-gearing from base chest & furnaces."}
+{"t":"2026-10-24T18:27:29.585Z","i":263,"from":"chat","text":"<alpha> team: Alpha status: {\"stone_pickaxe\":\"19%\",\"iron_pickaxe\":\"39%\",\"iron_sword\":\"100%\",\"stone_sword\":\"97%\"}, wearing: iron_helmet, iron_chestplate, iron_leggings."}
+{"t":"2026-10-24T18:27:36.975Z","i":264,"from":"chat","text":"<beta> beta: At chest/furnaces. Holding 2 iron ingots, wearing iron_helmet and shield. Delta/Alpha, pool ingots in chest!"}
+{"t":"2026-10-24T18:27:41.332Z","i":265,"from":"chat","text":"<alpha> delta beta: Delta or Beta, please deposit 2 iron ingots into base chest (293, 72, -57) so Alpha can craft iron_boots!"}
+{"t":"2026-10-24T18:27:48.177Z","i":266,"from":"chat","text":"<alpha> team: Alpha inventory has 2 iron ingots. Armor: iron_helmet, iron_chestplate, iron_leggings."}
+{"t":"2026-10-24T18:27:48.784Z","i":267,"from":"chat","text":"<beta> beta: Deposited 2 iron ingots in chest (293, 72, -57)! Alpha/Delta, use them with your ingots to craft iron_boots!"}
+{"t":"2026-10-24T18:28:01.982Z","i":268,"from":"chat","text":"<alpha> team: Alpha deposited 2 iron ingots in base chest! Beta & Delta, add yours now so we can craft iron_boots!"}
+{"t":"2026-10-24T18:28:44.629Z","i":269,"from":"chat","text":"<delta> delta: Iron boots equipped! Slept in Bed 2. Ready for Nether expedition!"}
+{"t":"2026-10-24T18:28:51.497Z","i":270,"from":"chat","text":"<alpha> team: MILESTONE 3 ACHIEVED FOR ALPHA! Wearing full iron armor (helmet, chestplate, leggings, boots)!"}
+{"t":"2026-10-24T18:28:59.689Z","i":271,"from":"chat","text":"<delta> delta: In base at Bed 2! Waiting for 12542 to sleep with team!"}
+{"t":"2026-10-24T18:29:17.564Z","i":272,"from":"chat","text":"<gamma> gamma is sleeping in bed!"}
+{"t":"2026-10-24T18:29:20.570Z","i":273,"from":"chat","text":"<gamma> Morning! gamma waking up."}
+{"t":"2026-10-24T18:29:20.570Z","i":274,"from":"chat","text":"<gamma> gamma dawn status: inv={\"cobblestone\":20,\"coal\":4}. Ready for day operations!"}
+{"t":"2026-10-24T18:29:21.454Z","i":275,"from":"chat","text":"<beta> beta: Morning! Time: 23503. Health: 13.000000953674316/20, Food: 9/20."}
+{"t":"2026-10-24T18:29:21.507Z","i":276,"from":"chat","text":"<alpha> team: Good morning! Full iron armor ready. Time to prepare for Nether expedition!"}
+{"t":"2026-10-24T18:29:23.744Z","i":277,"from":"chat","text":"<delta> delta: Morning! Equipped: {\"stone_axe\":\"100%\",\"stone_sword\":\"98%\"}. Ready for Nether expedition!"}
+{"t":"2026-10-24T18:29:38.471Z","i":278,"from":"chat","text":"<beta> beta: Morning! Wearing helmet=iron_helmet, boots=undefined, offhand=shield. Health: 13.000000953674316/20, Food: 9/20."}
+{"t":"2026-10-24T18:31:15.066Z","i":1,"from":"server","text":"gamma joined the game"}
+{"t":"2026-10-24T18:31:15.067Z","i":2,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-24T18:34:45.041Z","i":3,"from":"chat","text":"<delta> delta: Prepared field gear (pickaxe, furnace, coal, water bucket). Hunting food now!"}
+{"t":"2026-10-24T18:35:43.259Z","i":4,"from":"chat","text":"<beta> beta: Field meal complete! Food: 8/20, Health: 13.000000953674316/20. Moving to East hill iron quarry!"}
+{"t":"2026-10-24T18:36:04.445Z","i":5,"from":"server","text":"gamma left the game"}
+{"t":"2026-10-24T18:36:37.590Z","i":6,"from":"chat","text":"<beta> beta: At East hill vein! raw_iron in inv: 0, pickaxes: 3. Mining iron!"}
+{"t":"2026-10-24T18:36:56.903Z","i":7,"from":"chat","text":"<beta> beta: At base. Food: 7/20, Health: 13.000000953674316/20, 3 pickaxes ready. Delta/Alpha status?"}
+{"t":"2026-10-24T18:37:13.796Z","i":8,"from":"chat","text":"<beta> beta: At shaft entrance (294, 72, -55). Descending main shaft stairs to mine iron!"}
+{"t":"2026-10-24T18:37:46.906Z","i":9,"from":"chat","text":"<alpha> team: Alpha back in base with 0 cooked beef. Health: 10/20, Food: 0/20"}
+{"t":"2026-10-24T18:38:23.940Z","i":10,"from":"chat","text":"<beta> beta: Shaft mining status: depth y=42, raw_iron=0, pickaxes=2."}
+{"t":"2026-10-24T18:39:07.862Z","i":11,"from":"chat","text":"<delta> team: Put food in chest: {\"cooked_chicken\":1} for Alpha!"}
+{"t":"2026-10-24T18:39:22.806Z","i":12,"from":"chat","text":"<delta> delta: Inside base with 20 HP. Cooked chicken in chest for Alpha. Night in 140s, be ready to sleep!"}
+{"t":"2026-10-24T18:39:50.571Z","i":13,"from":"chat","text":"<beta> beta: Mined shaft iron! Carrying raw iron to base furnaces. In base at (294, 72, -55)."}
+{"t":"2026-10-24T18:40:05.772Z","i":14,"from":"chat","text":"<alpha> team: Alpha field kitchen successful! Health: 20/20, Food: 20/20, cooked_beef: 4"}
+{"t":"2026-10-24T18:41:08.456Z","i":15,"from":"chat","text":"<delta> delta: Going to sleep in Bed 2 now! Everyone sleep!"}
+{"t":"2026-10-24T18:41:11.745Z","i":16,"from":"chat","text":"<beta> beta: Morning! Time: 23461. Wearing helmet=iron_helmet, legs=iron_leggings, boots=undefined, offhand=shield."}
+{"t":"2026-10-24T18:41:13.695Z","i":17,"from":"chat","text":"<delta> delta: Day 0 tick 23501. Health: 20, Food: 14."}
+{"t":"2026-10-24T18:41:35.396Z","i":18,"from":"chat","text":"<beta> beta: Morning! Wearing iron_helmet, iron_leggings, shield. Food: 9/20, Health: 13.000000953674316/20. Alpha, please share 2 cooked beef in chest!"}
+{"t":"2026-10-24T18:41:43.199Z","i":19,"from":"chat","text":"<delta> delta: Gear equipped: {\"stone_axe\":\"100%\",\"stone_pickaxe\":\"100%\",\"stone_sword\":\"90%\"}. Iron ingots left: 1"}
+{"t":"2026-10-24T18:42:10.219Z","i":20,"from":"chat","text":"<alpha> team: Alpha arrived in base! Ready to sleep."}
+{"t":"2026-10-24T18:42:10.219Z","i":21,"from":"chat","text":"<alpha> team: Good morning! Alpha is 20/20 HP & food with full iron armor. Time for Nether expedition!"}
+{"t":"2026-10-24T18:42:14.785Z","i":22,"from":"chat","text":"<alpha> team: Alpha deposited 2 cooked beef in chest for Beta!"}
+{"t":"2026-10-24T18:42:14.785Z","i":23,"from":"chat","text":"<alpha> team: Alpha inside base. HP: 18.999998092651367/20, Food: 15/20. Full iron armor equipped! Ready for Nether expedition."}
+{"t":"2026-10-24T18:42:30.451Z","i":24,"from":"chat","text":"<delta> delta: Beta, do you have raw iron to smelt? Delta has shield ready and is ready to mine or craft boots/helmet!"}
+{"t":"2026-10-24T18:42:32.581Z","i":25,"from":"chat","text":"<alpha> team: Alpha checked base. Iron in inventory: 0, chest iron: 0"}
+{"t":"2026-10-24T18:43:15.694Z","i":26,"from":"chat","text":"<beta> beta: Shaft expedition: depth y=30, raw_iron=4. Ascending to base furnaces!"}
+{"t":"2026-10-24T18:43:16.912Z","i":27,"from":"chat","text":"<delta> delta: Heading to East hill (360, 65, -35) to quarry iron ore for armor!"}
+{"t":"2026-10-24T18:43:53.483Z","i":28,"from":"chat","text":"<delta> delta: Back in base! raw_iron: 0. Smelting for Milestone 3!"}
+{"t":"2026-10-24T18:44:12.457Z","i":29,"from":"chat","text":"<delta> delta: Status: Gear {\"stone_pickaxe\":\"100%\",\"stone_axe\":\"100%\",\"stone_sword\":\"90%\"}, offhand shield. Iron ingots: 1"}
+{"t":"2026-10-24T18:44:42.159Z","i":30,"from":"chat","text":"<alpha> team: Alpha mined 4 raw iron for Beta armor! In base at (293, 72, -54)"}
+{"t":"2026-10-25T19:40:40.508Z","i":1,"from":"server","text":"beta joined the game"}
+{"t":"2026-10-25T19:40:40.509Z","i":2,"from":"server","text":"gamma joined the game"}
+{"t":"2026-10-25T19:41:25.862Z","i":3,"from":"chat","text":"<delta> delta: Status: Health 20/20, Food 10/20. Gear: {\"stone_pickaxe\":\"100%\",\"stone_axe\":\"100%\",\"stone_sword\":\"90%\"}, offhand: shield."}
+{"t":"2026-10-25T19:41:29.720Z","i":4,"from":"chat","text":"<alpha> team: Alpha back in base! Loaded 4 raw_iron in furnace. Checking iron and armor status for Nether."}
+{"t":"2026-10-25T19:42:15.888Z","i":5,"from":"chat","text":"<gamma> gamma at base: chest={\"egg\":9,\"diorite\":59,\"granite\":88,\"andesite\":57,\"arrow\":5,\"feather\":16,\"bone\":3,\"bow\":1,\"birch_sapling\":3,\"cobblestone\":70,\"coal\":2,\"oak_sapling\":1,\"light_gray_wool\":2,\"leather\":7,\"crafting_table\":1,\"oak_door\":2,\"spider_eye\":1,\"cobble"}
+{"t":"2026-10-25T19:42:15.889Z","i":6,"from":"chat","text":"<gamma> d_deepslate\":107,\"tuff\":4,\"raw_copper\":16}. Current inv={\"iron_ingot\":1,\"coal\":4,\"cobblestone\":20,\"oak_log\":1}"}
+{"t":"2026-10-25T19:42:39.897Z","i":7,"from":"chat","text":"<beta> beta: MILESTONE 3 COMPLETE FOR BETA! Worn: full iron armor (helmet, chestplate, leggings, boots) + shield! Nether ready!"}
+{"t":"2026-10-25T19:42:45.886Z","i":8,"from":"chat","text":"<alpha> team: Portal check: 6/6 portal blocks active. Alpha ready with 120+ cobblestone for Nether bunker!"}
+{"t":"2026-10-25T19:42:57.812Z","i":9,"from":"chat","text":"<delta> delta: Equipped gear: {\"stone_pickaxe\":\"100%\",\"stone_axe\":\"100%\",\"stone_sword\":\"90%\"}, offhand: shield! Milestone 3 iron boots & shield active!"}
+{"t":"2026-10-25T19:43:16.598Z","i":10,"from":"server","text":"delta has made the advancement [Suit Up]"}
+{"t":"2026-10-25T19:43:16.851Z","i":11,"from":"chat","text":"<delta> delta: Equipped gear: {\"stone_pickaxe\":\"100%\",\"stone_axe\":\"100%\",\"stone_sword\":\"90%\"}, offhand: shield!"}
+{"t":"2026-10-25T19:43:22.046Z","i":12,"from":"chat","text":"<beta> beta: Milestone 3 COMPLETE! All 4 players geared. Stepping into Nether portal (299, 73, -54) with 110 cobblestone for Nether bunker!"}
+{"t":"2026-10-25T19:43:27.622Z","i":13,"from":"server","text":"beta has made the advancement [We Need to Go Deeper]"}
+{"t":"2026-10-25T19:43:27.992Z","i":14,"from":"chat","text":"<beta> beta: Nether status: Dimension=the_nether, Pos=(40, 65, -7), Health=20/20, Food=20/20."}
+{"t":"2026-10-25T19:43:37.563Z","i":15,"from":"chat","text":"<alpha> team: All Iron Age milestones complete! Alpha entering Nether portal (299, 73, -54) to establish Nether bridgehead!"}
+{"t":"2026-10-25T19:43:43.910Z","i":16,"from":"chat","text":"<beta> beta: In the Nether at (40, 65, -7)! Found 6 portal blocks. Building cobblestone bunker."}
+{"t":"2026-10-25T19:44:22.963Z","i":17,"from":"chat","text":"<beta> beta: Nether bunker reinforced! Placed 24 cobblestone blocks around portal (40, 65, -7). Cobble left: 86. Safe base camp established!"}
+{"t":"2026-10-25T19:44:47.746Z","i":18,"from":"chat","text":"<beta> beta: Nether bunker roof complete (4 placed). Cobble left: 83. Scanning for fortress!"}
+{"t":"2026-10-25T19:44:48.139Z","i":19,"from":"chat","text":"<delta> delta: Stepping through Nether portal! Assembling bunker in the Nether."}
+{"t":"2026-10-25T19:44:53.952Z","i":20,"from":"server","text":"alpha has made the advancement [We Need to Go Deeper]"}
+{"t":"2026-10-25T19:44:54.009Z","i":21,"from":"chat","text":"<alpha> team: Alpha has arrived in the Nether at (40, 65, -7)!"}
+{"t":"2026-10-25T19:45:11.561Z","i":22,"from":"chat","text":"<alpha> team: Alpha at Nether camp (40, 65, -7). Bunker cobble: 28. Fortress scan: 0 blocks found. Gold ore: 10."}
+{"t":"2026-10-25T19:45:27.946Z","i":23,"from":"chat","text":"<beta> beta: East trail scouted to (68, 67, -7). Cobble remaining: 81. Continuing expedition!"}
+{"t":"2026-10-25T19:45:28.669Z","i":24,"from":"chat","text":"<gamma> gamma status: armor={\"head\":null,\"torso\":null,\"legs\":null,\"feet\":null,\"offhand\":\"shield\"}, tools={\"stone_pickaxe\":\"100%\",\"stone_sword\":\"94%\",\"stone_axe\":\"91%\"}"}
+{"t":"2026-10-25T19:45:35.880Z","i":25,"from":"chat","text":"<delta> delta: In portal frame, transiting to Nether now!"}
+{"t":"2026-10-25T19:45:53.448Z","i":26,"from":"server","text":"beta has made the advancement [Not Today, Thank You]"}
+{"t":"2026-10-25T19:45:57.466Z","i":27,"from":"chat","text":"<beta> beta: At East ridge (62, 68, -10). HP=20/20, Food=20/20. Scouting towards next sector!"}
+{"t":"2026-10-25T19:46:27.673Z","i":28,"from":"chat","text":"<delta> delta: In portal frame, waiting for Nether teleport..."}
+{"t":"2026-10-25T19:46:52.059Z","i":29,"from":"chat","text":"<alpha> team: Alpha secured Nether camp (40, 65, -7)! Mined 7 gold ores (nuggets: 26). Ready for fortress scouting!"}
+{"t":"2026-10-25T19:46:57.599Z","i":30,"from":"chat","text":"<gamma> gamma hunted food: raw meat=0, back at base"}
+{"t":"2026-10-25T19:47:14.810Z","i":31,"from":"chat","text":"<delta> delta: Inside Nether portal frame! Transiting now..."}
+{"t":"2026-10-25T19:47:28.127Z","i":32,"from":"chat","text":"<alpha> team: Alpha back in Nether bunker (40, 65, -7). Gold ingots: 2, Cobble: 101. Ready to advance with Beta!"}
+{"t":"2026-10-25T19:47:56.206Z","i":33,"from":"chat","text":"<beta> beta: North scout report: Pos=(61, 67, -45), gold_nuggets=25, HP=20/20, Food=20/20."}
+{"t":"2026-10-25T19:48:01.501Z","i":34,"from":"chat","text":"<delta> delta: In Nether portal frame! Waiting for teleport..."}
+{"t":"2026-10-25T19:48:23.550Z","i":35,"from":"chat","text":"<beta> beta: NETHER FORTRESS FOUND at (45, 53, -116)!"}
+{"t":"2026-10-25T19:48:23.550Z","i":36,"from":"chat","text":"<beta> beta: North scout: reached (61, 67, -59). Gold ingots: 0, HP: 20/20, Food: 20/20."}
+{"t":"2026-10-25T19:48:25.301Z","i":37,"from":"server","text":"gamma has made the advancement [We Need to Go Deeper]"}
+{"t":"2026-10-25T19:48:25.351Z","i":38,"from":"chat","text":"<gamma> gamma has arrived in the Nether at (40, 65, -7)! Dimension: the_nether"}
+{"t":"2026-10-25T19:48:26.238Z","i":39,"from":"chat","text":"<alpha> team: Alpha scouted to (63, 63, -3). Fortress blocks: 0, Key mobs: 0. Cobblestone: 104."}
+{"t":"2026-10-25T19:48:34.380Z","i":40,"from":"chat","text":"<delta> delta: Inside purple nether portal block! Teleporting to Nether..."}
+{"t":"2026-10-25T19:48:38.381Z","i":41,"from":"chat","text":"<delta> delta: Joined Nether expedition! Pos: (40, 65, -7). Ready at camp!"}
+{"t":"2026-10-25T19:48:39.086Z","i":42,"from":"chat","text":"<gamma> gamma at Nether bunker (40, 65, -7). Fortress located at (45, 53, -116)! Ready to assist."}
+{"t":"2026-10-25T19:48:59.649Z","i":43,"from":"chat","text":"<beta> beta: NETHER FORTRESS FOUND at (45, 53, -116)! Alpha and Delta, advance North along x=45 to meet at fortress!"}
+{"t":"2026-10-25T19:49:14.846Z","i":44,"from":"chat","text":"<gamma> gamma set up Nether bunker: table=true, chest=true. Ready to link trail to Fortress (45, 53, -116)!"}
+{"t":"2026-10-25T19:49:31.745Z","i":45,"from":"chat","text":"<beta> beta: At Nether Fortress threshold (59, 26, -76)! HP: 18.079999923706055/20. Ready to secure Blaze Rods!"}
+{"t":"2026-10-25T19:49:36.345Z","i":46,"from":"server","text":"beta tried to swim in lava"}
+{"t":"2026-10-25T19:49:41.947Z","i":47,"from":"chat","text":"<delta> delta: Nether camp inspection: 36 bunker cobble, 6 portal blocks, 7 gold veins nearby."}
+{"t":"2026-10-25T19:49:46.562Z","i":48,"from":"chat","text":"<gamma> gamma moving out from bunker towards team waypoint (54, 64, -67)..."}
+{"t":"2026-10-25T19:49:47.548Z","i":49,"from":"chat","text":"<beta> beta: Fortress base reached at (293, 72, -57)! HP=20/20, Food=20/20. Preparing breach!"}
+{"t":"2026-10-25T19:50:04.372Z","i":50,"from":"chat","text":"<delta> delta: Nether bunker secured! Cobble left: 45. Ready to advance North to Fortress!"}
+{"t":"2026-10-25T19:50:15.063Z","i":51,"from":"chat","text":"<alpha> team: Alpha at Nether Fortress ((49, 65, -116)). Fortress blocks: 20, Blaze rods: 0. HP: 20/20."}
+{"t":"2026-10-25T19:50:20.447Z","i":52,"from":"chat","text":"<delta> delta: Advancing North along ridge trail towards waypoint (54, 64, -67)!"}
+{"t":"2026-10-25T19:50:22.166Z","i":53,"from":"chat","text":"<gamma> gamma at (56, 64, -66) on fortress trail. Health=14.5, Food=14"}
+{"t":"2026-10-25T19:50:26.733Z","i":54,"from":"chat","text":"<beta> beta: Re-armed at base and rejoined team at Nether bunker (40, 65, -7)! Dimension: the_nether."}
+{"t":"2026-10-25T19:50:41.385Z","i":55,"from":"chat","text":"<gamma> Gamma advancing along y=65 high ridge to Alpha at Fortress (49, 65, -116)..."}
+{"t":"2026-10-25T19:50:42.239Z","i":56,"from":"chat","text":"<beta> beta: In Nether bunker at (40, 65, -7). Inv: cobble=81, sword=0. Linking with Gamma/Delta!"}
+{"t":"2026-10-25T19:50:43.322Z","i":57,"from":"chat","text":"<alpha> team: Alpha inside Nether Fortress at (45, 65, -116). Blaze rods: 0, Spawners: 0. Wart: 0."}
+{"t":"2026-10-25T19:50:51.709Z","i":58,"from":"chat","text":"<gamma> gamma at Fortress (51, 65, -116)! Fortress blocks: 30, Spawners: 0. Health: 14.5"}
+{"t":"2026-10-25T19:51:03.145Z","i":59,"from":"server","text":"gamma tried to swim in lava to escape Blaze"}
+{"t":"2026-10-25T19:51:04.288Z","i":60,"from":"chat","text":"<delta> delta: Reached ridge waypoint (55, 64, -67)! Linking up with Gamma and Alpha for Fortress breach."}
+{"t":"2026-10-25T19:51:13.747Z","i":61,"from":"server","text":"delta tried to swim in lava to escape Ghast"}
+{"t":"2026-10-25T19:51:14.614Z","i":62,"from":"chat","text":"<gamma> Alpha: Gamma linked up with you inside the Fortress! Scanning corridors for chests, blazes, and nether wart."}
+{"t":"2026-10-25T19:51:15.052Z","i":63,"from":"chat","text":"<gamma> gamma in Fortress at (294, 72, -56): chests=1, blazes=0, spawners=0"}
+{"t":"2026-10-25T19:51:16.421Z","i":64,"from":"chat","text":"<beta> beta: Re-armed with weapons! Pos=(40, 66, -7). Advancing to Nether Fortress (49, 65, -116)!"}
+{"t":"2026-10-25T19:51:21.497Z","i":65,"from":"chat","text":"<alpha> team: Alpha at Fortress (45, 65, -116). Spawners: 0, Blazes: 1. Cobalt/Iron ready!"}
+{"t":"2026-10-25T19:51:34.070Z","i":66,"from":"chat","text":"<gamma> CRITICAL ALERT: Fortress bridge at (49..55, 65, -114..-120) has open drops into lava ocean at y=25! Ghasts and Blazes knock players off. We MUST build cobblestone walls/parapets along the bridge!"}
+{"t":"2026-10-25T19:51:45.911Z","i":67,"from":"chat","text":"<beta> beta: Ready! Dimension: the_nether, Swords: 0, Cobble: 81. Advancing to Fortress!"}
+{"t":"2026-10-25T19:51:47.997Z","i":68,"from":"chat","text":"<delta> delta: Built Ridge Trail Checkpoint at (292, 72, -56)! Safe shelter for team between Camp and Fortress."}
+{"t":"2026-10-25T19:51:51.229Z","i":69,"from":"chat","text":"<alpha> team: Alpha status at Fortress ((45, 65, -132)): HP=13.431665420532227/20, Blaze rods=0."}
+{"t":"2026-10-25T19:52:05.946Z","i":70,"from":"server","text":"alpha was burnt to a crisp whilst fighting Blaze"}
+{"t":"2026-10-25T19:52:06.969Z","i":71,"from":"chat","text":"<beta> beta: On the way with 81 cobblestone! Advancing along y=65 ridge to build parapet walls on fortress bridge!"}
+{"t":"2026-10-25T19:52:09.826Z","i":72,"from":"chat","text":"<delta> delta: Re-armed at base shelter! Tools: {}. Health: 20/20, Food: 20/20."}
+{"t":"2026-10-25T19:52:31.653Z","i":73,"from":"chat","text":"<alpha> team: Alpha at Fortress ((257, 61, -80)): HP=20/20, Food=20/20, Blaze rods=0."}
+{"t":"2026-10-25T19:53:02.752Z","i":74,"from":"chat","text":"<alpha> team: Alpha items on fortress bridge at (45, 65, -131). Beta/Gamma please pick up if near! Alpha returning through portal now."}
+{"t":"2026-10-25T19:53:07.511Z","i":75,"from":"chat","text":"<beta> beta: At Fortress bridge (57, 64, -65)! Reinforced bridge with 0 cobblestone. Teaming with Alpha & Gamma!"}
+{"t":"2026-10-25T19:53:23.230Z","i":76,"from":"chat","text":"<beta> beta: Advancing to (45, 65, -131) to recover Alpha drops and fortify bridgehead with cobblestone!"}
+{"t":"2026-10-25T19:53:39.436Z","i":77,"from":"chat","text":"<alpha> team: Alpha back in the Nether! Advancing to Fortress (45, 65, -131) to rejoin team."}
+{"t":"2026-10-25T19:53:54.829Z","i":78,"from":"chat","text":"<gamma> gamma re-geared at base: tools={}, inv={\"birch_log\":3,\"birch_planks\":12,\"stick\":8,\"diorite\":46,\"granite\":64,\"birch_sapling\":1}"}
+{"t":"2026-10-25T19:54:09.703Z","i":79,"from":"chat","text":"<alpha> team: Alpha moving from Nether portal along ridge trail to Fortress (45, 65, -131)!"}
+{"t":"2026-10-25T19:54:37.582Z","i":80,"from":"chat","text":"<beta> beta: Fortress bridge outpost secured at (44, 66, -129)! HP: 2.7/20. Alpha/Gamma meet here!"}
+{"t":"2026-10-25T19:54:46.465Z","i":81,"from":"chat","text":"<alpha> team: Alpha linked with Beta at Fortress ((45, 65, -130))! Recovered gear: {}. HP: 5/20."}
+{"t":"2026-10-25T19:54:50.117Z","i":82,"from":"server","text":"beta fell from a high place"}
+{"t":"2026-10-25T19:54:51.766Z","i":83,"from":"chat","text":"<beta> beta: At Fortress bridge (293, 72, -57)! Secured drops, placed 0 cobble parapets. Holding fortress bridgehead!"}
+{"t":"2026-10-25T19:54:53.827Z","i":84,"from":"chat","text":"<beta> beta: Sheltered at Fortress bridge bunker (44, 66, -129)! HP: 2.7/20. Safe from mobs. Alpha/Gamma, bring food to bunker!"}
+{"t":"2026-10-25T19:55:01.621Z","i":85,"from":"chat","text":"<gamma> gamma armed with stone tools and 100+ stone blocks! Entering Nether portal now to reinforce bridgehead at (45, 65, -131)."}
+{"t":"2026-10-25T19:55:06.934Z","i":86,"from":"chat","text":"<delta> delta: Re-armed! Gear: {\"wooden_pickaxe\":\"97%\"}. Inv: {\"stick\":1,\"wooden_pickaxe\":2,\"coal\":2,\"cobblestone\":2,\"oak_sapling\":1}. Ready to re-enter Nether!"}
+{"t":"2026-10-25T19:55:10.333Z","i":87,"from":"chat","text":"<gamma> gamma back in the Nether at (40, 65, -7)! Advancing North to Fortress bridgehead (45, 65, -131)."}
+{"t":"2026-10-25T19:55:10.712Z","i":88,"from":"chat","text":"<alpha> team: Beta, Alpha is next to you at (44, 65, -129)! Toss food and armor so we both heal and gear up!"}
+{"t":"2026-10-25T19:55:12.313Z","i":89,"from":"chat","text":"<alpha> team: Alpha & Beta fortress bunker secure at ((45, 65, -130)). HP: 5/20, Food: 15/20. Gear: {}."}
+{"t":"2026-10-25T19:55:30.125Z","i":90,"from":"chat","text":"<gamma> Alpha hold on! Gamma rushing to (45, 65, -130) with 120+ stone blocks and full 20/20 HP!"}
+{"t":"2026-10-25T19:55:44.874Z","i":91,"from":"chat","text":"<delta> delta: In Nether portal frame! Transiting now to deliver supplies to Fortress Outpost."}
+{"t":"2026-10-25T19:55:56.824Z","i":92,"from":"chat","text":"<beta> beta: Fully re-armed! Carrying 0 swords, 0 pickaxes, and 0 blocks. Advancing to Fortress!"}
+{"t":"2026-10-25T19:56:11.923Z","i":93,"from":"chat","text":"<gamma> gamma at Fortress bridgehead (45, 65, -128)! Health: 2, Blaze rods: 0"}
+{"t":"2026-10-25T19:56:18.147Z","i":94,"from":"server","text":"alpha was shot by Piglin"}
+{"t":"2026-10-25T19:56:19.567Z","i":95,"from":"chat","text":"<delta> delta: Inside purple nether portal! Teleporting to Nether camp..."}
+{"t":"2026-10-25T19:56:23.863Z","i":96,"from":"chat","text":"<alpha> team: Alpha recovered inventory! Tools: {}, HP: 20/20, Food: 20/20."}
+{"t":"2026-10-25T19:56:24.547Z","i":97,"from":"chat","text":"<beta> beta: Advancing along y=65 ridge trail to join Alpha, Gamma, and Delta at Fortress Outpost (45, 65, -130)!"}
+{"t":"2026-10-25T19:56:26.697Z","i":98,"from":"server","text":"gamma was shot by Piglin"}
+{"t":"2026-10-25T19:56:30.951Z","i":99,"from":"chat","text":"<gamma> delta: Alpha (5 HP) and Gamma (2 HP) are sheltered in Fortress bunker (45, 65, -128)! We urgently need cooked food to regenerate HP. Bring beef to (45, 65, -128)!"}
+{"t":"2026-10-25T19:56:48.078Z","i":100,"from":"chat","text":"<gamma> TEAM ALERT: Piglins shot Alpha and Gamma with crossbows! We MUST wear at least ONE piece of GOLD ARMOR (golden boots = 4 ingots) to make Piglins neutral. Let us smelt gold or craft boots before returning!"}
+{"t":"2026-10-25T19:56:58.895Z","i":101,"from":"server","text":"beta was burnt to a crisp whilst fighting Piglin"}
+{"t":"2026-10-25T19:57:02.465Z","i":102,"from":"chat","text":"<beta> beta: Reached Fortress Outpost (293, 72, -57)! United with team to farm Blaze Rods!"}
+{"t":"2026-10-25T19:57:09.892Z","i":103,"from":"chat","text":"<alpha> team: Alpha at base re-arming station. Inv: {}. Gear: {}. HP: 20/20."}
+{"t":"2026-10-25T19:57:15.647Z","i":104,"from":"chat","text":"<delta> delta: Checking food and portal route to relieve Alpha & Gamma at Fortress!"}
+{"t":"2026-10-25T19:57:50.496Z","i":105,"from":"chat","text":"<beta> beta: Base team assembled! Chopping wood for tools, then mining gold at Nether bunker for golden boots (neutral Piglins)!"}
+{"t":"2026-10-25T19:57:58.765Z","i":106,"from":"chat","text":"<beta> beta: Nether gold preparation complete! Nuggets=0, Swords=0. Crafting gold boots!"}
+{"t":"2026-10-25T19:58:17.908Z","i":107,"from":"chat","text":"<beta> beta: At Nether bunker (40, 65, -7). Delta/Alpha, please deposit or toss a spare pickaxe so Beta can mine gold for golden boots!"}
+{"t":"2026-10-25T19:58:19.112Z","i":108,"from":"chat","text":"<delta> delta: Inside Nether portal opening! Teleporting to Nether camp..."}
+{"t":"2026-10-25T19:58:32.098Z","i":109,"from":"chat","text":"<beta> beta: In Nether bunker at (40, 64, -6). HP: 20/20, Food: 20/20. Delta/Alpha/Gamma status?"}
+{"t":"2026-10-25T19:58:57.476Z","i":110,"from":"chat","text":"<beta> beta: Golden boots status: boots=0, nuggets=0. Ready to neutralize Piglins and advance!"}
+{"t":"2026-10-25T19:59:06.149Z","i":111,"from":"chat","text":"<delta> delta: Inside purple nether portal block! Teleporting to Nether base camp..."}
+{"t":"2026-10-25T19:59:37.209Z","i":112,"from":"chat","text":"<delta> delta: In purple portal block! Standing still for 5s teleport..."}
+{"t":"2026-10-25T19:59:37.960Z","i":113,"from":"chat","text":"<beta> beta: Overworld re-arm complete! Pos=(40, 64, -9), Dim=the_nether. Ready for Fortress push!"}
+{"t":"2026-10-25T19:59:41.209Z","i":114,"from":"chat","text":"<delta> delta: Reached Nether camp (40, 65, -7)! Bringing 2 pickaxes & 56 blocks to reinforce Fortress Outpost."}
+{"t":"2026-10-25T19:59:45.396Z","i":115,"from":"chat","text":"<alpha> team: Alpha status: Dimension=overworld, Pos=(220, 62, -54), HP=20/20, Gold nuggets=0."}
+{"t":"2026-10-25T19:59:56.024Z","i":116,"from":"chat","text":"<alpha> team: Alpha rapidly re-armed! Tools: {\"wooden_pickaxe\":\"90%\",\"stone_pickaxe\":\"99%\",\"stone_sword\":\"100%\"}, Cobble: 5, Food: 0. Ready to return to Nether!"}
+{"t":"2026-10-25T20:00:23.946Z","i":117,"from":"chat","text":"<beta> beta: Delta, toss 1 pickaxe or blocks! Advancing with you along y=65 ridge to Fortress (45, 65, -130)!"}
+{"t":"2026-10-25T20:00:42.098Z","i":118,"from":"chat","text":"<gamma> gamma in Nether bunker (40, 65, -7)! Mining gold for boots."}
+{"t":"2026-10-25T20:01:02.537Z","i":119,"from":"chat","text":"<beta> beta: On ridge trail at (45, 65, -128). Advancing with team to Fortress Outpost!"}
+{"t":"2026-10-25T20:01:04.643Z","i":120,"from":"chat","text":"<delta> delta: Deposited spare pickaxe in bunker chest for Beta!"}
+{"t":"2026-10-25T20:01:19.105Z","i":121,"from":"chat","text":"<beta> beta: Sheltered in Fortress bunker at (44, 65, -129)! Doorway barricaded against Wither Skeletons. HP: 3.0/20. Team assemble here!"}
+{"t":"2026-10-25T20:01:37.751Z","i":122,"from":"chat","text":"<beta> beta: Fortress workshop established at (44, 65, -129)! Equipped stone_sword & stone_pickaxe. Table placed. Ready for fortress assault!"}
+{"t":"2026-10-25T20:01:53.830Z","i":123,"from":"chat","text":"<beta> beta: Fortress workshop operational! Equipped stone_sword & stone_pickaxe. In bunker at (44, 65, -129). Ready for Fortress assault!"}
+{"t":"2026-10-25T20:02:17.562Z","i":124,"from":"chat","text":"<alpha> team: Alpha arrived in the Nether! Advancing along ridge trail to Beta at Fortress Workshop (44, 65, -129)!"}
+{"t":"2026-10-25T20:02:30.406Z","i":125,"from":"chat","text":"<delta> delta: Gold status: nuggets=0, ingots=1, boots=0. Gear: {\"wooden_pickaxe\":\"92%\",\"stone_sword\":\"100%\"}."}
+{"t":"2026-10-25T20:02:30.576Z","i":126,"from":"chat","text":"<delta> delta: Advancing North along x=44 ridge to relieve Beta at Fortress Workshop (44, 65, -129)!"}
+{"t":"2026-10-25T20:02:33.056Z","i":127,"from":"chat","text":"<beta> beta: Holding Fortress bunker at (44, 65, -129)! Wither Skeleton safely locked out. Delta/Gamma/Alpha, head straight to (45, 65, -130)!"}
+{"t":"2026-10-25T20:02:37.551Z","i":128,"from":"chat","text":"<alpha> team: Alpha status: Dimension=the_nether, Pos=(61, 67, -61), HP=19/20."}
+{"t":"2026-10-25T20:02:57.855Z","i":129,"from":"chat","text":"<gamma> gamma mined 28 gold nuggets at bunker."}
+{"t":"2026-10-25T20:03:16.406Z","i":130,"from":"chat","text":"<alpha> team: Alpha united with Beta at Fortress Workshop ((44, 65, -129))! Ready to farm Blazes for Blaze Rods!"}
+{"t":"2026-10-25T20:03:18.189Z","i":131,"from":"chat","text":"<beta> beta: Alpha/Delta, I see you on the ridge! Bunker entrance is at (44, 66, -128). Unlocking when you arrive!"}
+{"t":"2026-10-25T20:03:18.189Z","i":132,"from":"chat","text":"<beta> beta: Fortress Outpost united! HP: 3.0/20, Food: 14/20. Ready to push into Fortress corridors!"}
+{"t":"2026-10-25T20:03:41.521Z","i":133,"from":"chat","text":"<gamma> gamma EQUIPPED GOLDEN BOOTS! Piglins are neutral. Rushing to Fortress Workshop (44, 65, -129)!"}
+{"t":"2026-10-25T20:03:42.413Z","i":134,"from":"chat","text":"<alpha> team: Beta toss 1-2 cooked food! Alpha at 2 HP in bunker with you."}
+{"t":"2026-10-25T20:03:45.387Z","i":135,"from":"chat","text":"<alpha> team: Alpha & Beta fortress bunker sealed at ((44, 65, -129)). HP: 2/20, Food: 13/20. Ready for deck descent!"}
+{"t":"2026-10-25T20:03:51.408Z","i":136,"from":"chat","text":"<delta> delta: Following East Ridge Trail (x=62..63) directly to Fortress Workshop (44, 66, -128)!"}
+{"t":"2026-10-25T20:03:56.854Z","i":137,"from":"chat","text":"<beta> beta: Fortress reconnaissance: Spawners=0, Wart=0, Chests=0, Blazes=0. Alpha & Beta holding bridgehead!"}
+{"t":"2026-10-25T20:04:04.497Z","i":138,"from":"server","text":"gamma went up in flames"}
+{"t":"2026-10-25T20:04:07.889Z","i":139,"from":"chat","text":"<gamma> gamma at Fortress Workshop (294, 72, -55) with team! Ready to farm Blaze Rods."}
+{"t":"2026-10-25T20:04:09.025Z","i":140,"from":"chat","text":"<alpha> team: Alpha and Beta inside sealed bunker (44, 65, -129)! Gamma & Delta bring food/blocks to door (44, 65, -128)!"}
+{"t":"2026-10-25T20:04:15.034Z","i":141,"from":"chat","text":"<alpha> team: Fortress Workshop status: Alpha HP=2/20, Food=13/20. All 4 players converging at (44, 65, -129) for Fortress assault!"}
+{"t":"2026-10-25T20:04:31.374Z","i":142,"from":"chat","text":"<delta> delta: Reached Fortress Workshop at (45, 66, -127)! United with Alpha and Beta."}
+{"t":"2026-10-25T20:04:35.382Z","i":143,"from":"chat","text":"<alpha> team: Alpha waiting at sealed bunker door (44, 65, -128). Delta let us know when at the door!"}
+{"t":"2026-10-25T20:04:35.382Z","i":144,"from":"chat","text":"<alpha> team: Fortress Workshop status: Alpha HP=2/20, Food=13/20, Gear={\"wooden_pickaxe\":\"90%\",\"stone_pickaxe\":\"99%\",\"stone_sword\":\"100%\"}."}
+{"t":"2026-10-25T20:04:55.522Z","i":145,"from":"chat","text":"<alpha> team: Delta, please toss cooked food to Alpha! Standing next to you at (44, 65, -128)."}
+{"t":"2026-10-25T20:05:03.524Z","i":146,"from":"chat","text":"<alpha> team: Alpha recovered! HP: 2/20, Food: 13/20. Alpha, Beta, Delta united at Fortress Workshop!"}
+{"t":"2026-10-25T20:05:30.004Z","i":147,"from":"chat","text":"<alpha> team: Doorway opened at (44, 65, -128)! Delta and Gamma come inside the Fortress Workshop!"}
+{"t":"2026-10-25T20:05:34.608Z","i":148,"from":"chat","text":"<alpha> team: Fortress Workshop united! Alpha HP=2/20, Food=13/20. Tools: {\"wooden_pickaxe\":\"90%\",\"stone_pickaxe\":\"99%\",\"stone_sword\":\"100%\"}. Ready for Fortress deck descent!"}
+{"t":"2026-10-25T20:05:49.554Z","i":149,"from":"chat","text":"<delta> delta: Inside Fortress Workshop (44, 65, -129) with Alpha & Beta! 54 building blocks ready for bridge descent."}
+{"t":"2026-10-25T20:05:58.940Z","i":150,"from":"chat","text":"<alpha> team: Delta toss food, blocks, and armor to Alpha! Standing right beside you."}
+{"t":"2026-10-25T20:06:02.548Z","i":151,"from":"chat","text":"<alpha> team: Fortress Breach station active at ((45, 66, -127))! Alpha HP=2/20, Food=13/20. Alpha, Beta, Delta united!"}
+{"t":"2026-10-25T20:06:28.186Z","i":152,"from":"chat","text":"<beta> delta: please toss cooked food, tools, and spare blocks to beta and alpha!"}
+{"t":"2026-10-25T20:06:28.197Z","i":153,"from":"chat","text":"<alpha> team: Alpha, Beta & Delta building protected staircase from (44, 65, -129) down to Fortress corridor deck at y=54!"}
+{"t":"2026-10-25T20:06:28.263Z","i":154,"from":"chat","text":"<alpha> team: Fortress deck reconnaissance complete! Deck bricks: 64, Spawners: 0, Chests: 0."}
+{"t":"2026-10-25T20:06:50.613Z","i":155,"from":"chat","text":"<delta> delta: Fortress Workshop operational! Spawners: 0, Blazes: 0. 54 building blocks ready."}
+{"t":"2026-10-25T20:06:59.197Z","i":156,"from":"chat","text":"<alpha> team: Alpha descending from Workshop to Fortress deck at (45, 54, -127)! Equipping sword for Wither Skeleton & Blaze combat."}
+{"t":"2026-10-25T20:07:02.948Z","i":157,"from":"chat","text":"<alpha> team: Fortress deck status: Alpha at (45, 66, -127), HP=2/20, Blaze rods=0."}
+{"t":"2026-10-25T20:07:11.382Z","i":158,"from":"chat","text":"<delta> delta: Tossed 24 granite blocks & 4 torches to Alpha/Beta! Building staircase down to fortress deck y=54."}
+{"t":"2026-10-25T20:07:11.428Z","i":159,"from":"chat","text":"<delta> delta: Staircase progress: placed 1 steps. Andesite left: 30. Ready to secure corridor."}
+{"t":"2026-10-25T20:07:50.846Z","i":160,"from":"server","text":"alpha was fireballed by Ghast"}
+{"t":"2026-10-25T20:07:59.865Z","i":161,"from":"chat","text":"<beta> team: BLAZE SPAWNER CONFIRMED AT (32, 68, -190)! It is at y=68 (balcony), NOT y=54! We need food and armor before engaging!"}
+{"t":"2026-10-25T20:08:03.717Z","i":162,"from":"chat","text":"<alpha> team: Alpha status at Fortress Workshop ((270, 74, -63)): HP=20/20, Food=20/20, Tools={}."}
+{"t":"2026-10-25T20:08:03.746Z","i":163,"from":"server","text":"beta was fireballed by Ghast"}
+{"t":"2026-10-25T20:09:01.164Z","i":164,"from":"chat","text":"<gamma> gamma at (315, 48, -34). Health: 20, Food: 20. Ready to craft stone tools."}
+{"t":"2026-10-25T20:09:59.883Z","i":165,"from":"chat","text":"<gamma> gamma armed with stone tools! Digging staircase up to surface base at (294, 72, -54)."}
+{"t":"2026-10-25T20:10:46.707Z","i":166,"from":"chat","text":"<beta> beta: Gathered supplies! Inv: {\"birch_log\":4}. Preparing tools and cooking food."}
+{"t":"2026-10-25T20:11:01.096Z","i":167,"from":"chat","text":"<delta> delta: Built blast-proof cobblestone/andesite walls & roof for Fortress Workshop Bunker at (44, 65, -129)! Safe against Ghasts and Wither Skeletons."}
+{"t":"2026-10-25T20:11:01.104Z","i":168,"from":"chat","text":"<beta> beta: Basic tool progression started. Inv: {\"birch_button\":1,\"birch_planks\":14}"}
+{"t":"2026-10-25T20:11:12.096Z","i":169,"from":"chat","text":"<gamma> gamma reached surface: pos=(316, 48, -34), health=20, food=20"}
+{"t":"2026-10-25T20:11:14.918Z","i":170,"from":"chat","text":"<beta> beta: Tools crafted! Inv: {\"birch_button\":1,\"stick\":4}"}
+{"t":"2026-10-25T20:11:23.334Z","i":171,"from":"chat","text":"<delta> delta: Fortress Workshop Bunker at (44, 65, -129) is 100% fortified with blast-proof roof & anti-wither doorway! Safe bridgehead secured for team."}
+{"t":"2026-10-25T20:11:30.062Z","i":172,"from":"chat","text":"<alpha> team: Alpha expedition outfitting complete! Tools: {\"wooden_pickaxe\":\"93%\",\"stone_sword\":\"97%\"}, Cobble: 1, Food: 0. Heading to Nether portal for Blaze Spawner at (32, 68, -190)!"}
+{"t":"2026-10-25T20:11:43.625Z","i":173,"from":"chat","text":"<beta> beta: Pickaxe status: inv={\"stick\":4,\"crafting_table\":1,\"birch_button\":1}"}
+{"t":"2026-10-25T20:12:13.690Z","i":174,"from":"chat","text":"<delta> delta: Holding Fortress Workshop Bunker at (44, 65, -129). Bunker is 100% roofed & blast-proof. Standing by for Alpha arrival."}
+{"t":"2026-10-25T20:13:01.913Z","i":175,"from":"chat","text":"<beta> beta: Base secure! Time=11887, HP=20, Food=20."}
+{"t":"2026-10-25T20:13:03.763Z","i":176,"from":"chat","text":"<gamma> gamma status: pos=(306, 55, -44), health=20, food=19"}
+{"t":"2026-10-25T20:13:38.957Z","i":177,"from":"chat","text":"<delta> delta: Holding Fortress Workshop Bunker at (44, 65, -129). Dusk in Overworld - teammates sleep in beds to skip night!"}
+{"t":"2026-10-25T20:14:04.595Z","i":178,"from":"chat","text":"<beta> beta: Dawn reached at base! Time=4, HP=20. Ready for morning expedition!"}
+{"t":"2026-10-25T20:14:13.045Z","i":179,"from":"chat","text":"<gamma> gamma safe inside base with Beta! Pos: (293, 72, -54). Cobble: 83"}
+{"t":"2026-10-25T20:14:36.922Z","i":180,"from":"chat","text":"<alpha> team: Morning team! Alpha is at base preparing food & gear before entering Nether to join Delta at Blaze spawner."}
+{"t":"2026-10-25T20:14:41.317Z","i":181,"from":"chat","text":"<gamma> gamma in the Nether with 80+ cobble! Advancing along East ridge to Fortress Workshop (44, 65, -129)."}
+{"t":"2026-10-25T20:14:42.854Z","i":182,"from":"chat","text":"<delta> delta: BLAZE SPAWNER CONFIRMED AT (32, 68, -190) ON NETHER BRICK PILLAR! Bunker at (44, 65, -129) is ready with supplies."}
+{"t":"2026-10-25T20:15:09.246Z","i":183,"from":"server","text":"gamma went up in flames"}
+{"t":"2026-10-25T20:15:12.571Z","i":184,"from":"chat","text":"<gamma> gamma at Fortress Workshop (294, 72, -55)! United with team for Blaze Spawner (32, 68, -190) assault."}
+{"t":"2026-10-25T20:15:42.755Z","i":185,"from":"chat","text":"<alpha> team: Alpha at base crafting stone tools & gathering meat before entering Nether portal to join Delta."}
+{"t":"2026-10-25T20:15:43.061Z","i":186,"from":"chat","text":"<delta> delta: Team alert! Active Ghast at (61, 67, -60). Build side parapet walls when crossing z=-50..-70! Delta is holding fortified bunker at (44, 65, -129)."}
+{"t":"2026-10-25T20:16:21.679Z","i":187,"from":"chat","text":"<delta> delta: Holding Fortress Workshop Bunker at (44, 65, -129). Ready to receive teammates or assist path."}
+{"t":"2026-10-25T20:17:19.253Z","i":188,"from":"chat","text":"<delta> delta: Created secure 1-block engineering window at (44, 66, -130) to build enclosed North corridor to Blaze Spawner."}
+{"t":"2026-10-25T20:17:37.996Z","i":189,"from":"chat","text":"<delta> delta: Extended fortified corridor North at z=-131! Floor, walls, and roof secure."}
+{"t":"2026-10-25T20:17:59.650Z","i":190,"from":"chat","text":"<delta> delta: z=-131 tunnel segment complete & 100% blast-proof! FullyEnclosed=true."}
+{"t":"2026-10-25T20:18:15.057Z","i":191,"from":"chat","text":"<delta> delta: z=-132 tunnel segment complete & 100% blast-proof! FullyEnclosed=true."}
+{"t":"2026-10-25T20:18:38.446Z","i":192,"from":"chat","text":"<delta> delta: z=-133 tunnel segment complete & 100% blast-proof! FullyEnclosed=true."}
+{"t":"2026-10-25T20:19:26.401Z","i":193,"from":"chat","text":"<delta> delta: Holding advance tunnel at (44, 65, -133). 100% enclosed and protected."}
+{"t":"2026-10-25T20:19:58.645Z","i":194,"from":"chat","text":"<delta> delta: z=-134 tunnel segment complete & lit! FullyEnclosed=true. Corridor extends safely to z=-134."}
+{"t":"2026-10-25T20:20:10.082Z","i":195,"from":"chat","text":"<delta> delta: North advance tunnel from z=-127 to z=-134 is 100% fortified, sealed, and blast-proof! Awaiting teammates."}
+{"t":"2026-10-25T20:20:14.686Z","i":196,"from":"chat","text":"<beta> beta: SHIELD CRAFTED & EQUIPPED! Ready to block Blaze fireballs!"}
+{"t":"2026-10-25T20:20:29.686Z","i":197,"from":"chat","text":"<beta> beta: At base y=47. Inv: cobble=15, iron=1"}
+{"t":"2026-10-25T20:20:49.394Z","i":198,"from":"server","text":"beta drowned"}
+{"t":"2026-10-25T20:21:01.937Z","i":199,"from":"chat","text":"<delta> delta: Holding advance tunnel at (44, 65, -133). 100% enclosed and protected."}
+{"t":"2026-10-25T20:21:15.810Z","i":200,"from":"chat","text":"<gamma> gamma at (293, 72, -57) in overworld! Base door & floor repaired."}
+{"t":"2026-10-25T20:21:16.105Z","i":201,"from":"chat","text":"<beta> beta: At base re-arming station. Inv: {\"oak_door\":1}. Coordinating Nether advance!"}
+{"t":"2026-10-25T20:21:20.566Z","i":202,"from":"chat","text":"<delta> delta: Holding fortified bridgehead at (44, 65, -133). Advance tunnel is sealed and safe."}
+{"t":"2026-10-25T20:21:33.252Z","i":203,"from":"chat","text":"<delta> delta: Advance tunnel at (44, 65, -132) is lit and fully secure. Standing by for team arrival."}
+{"t":"2026-10-25T20:21:36.047Z","i":204,"from":"chat","text":"<beta> gamma: please toss 10 cobblestone and 4 logs to beta! Standing right next to you at (294, 72, -55)!"}
+{"t":"2026-10-25T20:21:55.799Z","i":205,"from":"chat","text":"<gamma> Beta: Gamma exiting via x=293 doorway to gather logs and cobble for the team!"}
+{"t":"2026-10-25T20:22:16.925Z","i":206,"from":"chat","text":"<delta> delta: Advance tunnel at (44, 65, -133) is lit, sealed, and ready. Standing by."}
+{"t":"2026-10-25T20:22:25.580Z","i":207,"from":"chat","text":"<beta> beta: Tool progression: wooden pickaxe crafted, inv={\"oak_door\":1}"}
+{"t":"2026-10-25T20:22:49.049Z","i":208,"from":"chat","text":"<alpha> team: Alpha is inside base at Bed 1 (food 4/20). Sunset approaching! Beta & Gamma, let us all sleep in base beds at 12542 to skip night safely."}
+{"t":"2026-10-25T20:23:23.967Z","i":209,"from":"chat","text":"<delta> delta: Holding advance tunnel at (44, 65, -133). 100% enclosed and protected."}
+{"t":"2026-10-25T20:23:33.790Z","i":210,"from":"chat","text":"<gamma> Gamma is inside base at Bed! Ready to sleep at 12542 to skip night with Alpha & Beta."}
+{"t":"2026-10-25T20:23:37.882Z","i":211,"from":"chat","text":"<delta> delta: Holding fortified advance tunnel at (44, 65, -133) in Nether. Sleep well team, see you at dawn for the Blaze spawner assault!"}
+{"t":"2026-10-25T20:23:47.029Z","i":212,"from":"chat","text":"<beta> beta: Tools update! Inv: {\"birch_planks\":9,\"stick\":4,\"oak_door\":1}, Tools: {}"}
+{"t":"2026-10-25T20:24:32.117Z","i":213,"from":"chat","text":"<alpha> team: Alpha getting in bed now to skip night."}
+{"t":"2026-10-25T20:24:34.094Z","i":214,"from":"chat","text":"<alpha> team: Alpha awake! Time=12584 (dusk (hostile mobs start at 13188)), HP=16, Food=3."}
+{"t":"2026-10-25T20:24:36.007Z","i":215,"from":"chat","text":"<delta> delta: Dawn reached! Holding fortified advance tunnel at (44, 65, -133). Ready to receive team."}
+{"t":"2026-10-25T20:24:52.097Z","i":216,"from":"chat","text":"<alpha> team: Alpha in Bed 1! Base walls sealed. Beta & Gamma please sleep in beds to skip night to dawn!"}
+{"t":"2026-10-25T20:24:52.097Z","i":217,"from":"chat","text":"<alpha> team: Alpha awake at dawn! Time=23811, HP=16, Food=3."}
+{"t":"2026-10-25T20:25:02.034Z","i":218,"from":"chat","text":"<beta> beta: Good morning team! Dawn reached at time=11. Starting stone gear crafting!"}
+{"t":"2026-10-25T20:25:11.478Z","i":219,"from":"chat","text":"<delta> delta: Holding advance tunnel at (44, 65, -133). Ready to bridge 4-block gap to netherrack mountain upon team arrival."}
+{"t":"2026-10-25T20:25:14.457Z","i":220,"from":"chat","text":"<alpha> team: Morning! Alpha is scanning base surroundings for morning mob drops and food."}
+{"t":"2026-10-25T20:25:23.731Z","i":221,"from":"chat","text":"<alpha> team: Alpha status: Health=14/20, Food=2/20. Gear ready."}
+{"t":"2026-10-25T20:25:32.494Z","i":222,"from":"chat","text":"<delta> delta: Full 7m advance hallway (z=-127 to -134) is 100% opened, 2-high clearance, lit, and blast-proof! Passable=false."}
+{"t":"2026-10-25T20:25:41.690Z","i":223,"from":"chat","text":"<beta> beta: Morning progression complete! Tools: {\"wooden_pickaxe\":\"100%\"}, Inv: {\"stick\":2,\"birch_planks\":3,\"wooden_pickaxe\":1,\"oak_door\":1}"}
+{"t":"2026-10-25T20:25:45.873Z","i":224,"from":"chat","text":"<alpha> team: Alpha hunger is at 2/20! Beta or Gamma, if you have any food or meat, please drop it at base for Alpha!"}
+{"t":"2026-10-25T20:26:20.788Z","i":225,"from":"chat","text":"<beta> beta: Stone gear ready! Tools: {\"stone_sword\":\"100%\",\"wooden_pickaxe\":\"90%\"}, Inv: {\"stick\":1,\"birch_planks\":3,\"stone_sword\":1,\"oak_door\":1,\"wooden_pickaxe\":1}"}
+{"t":"2026-10-25T20:26:37.480Z","i":226,"from":"chat","text":"<delta> delta: Holding advance hallway at (44, 65, -133). 7m stone corridor is 100% secure. Standing by for team."}
+{"t":"2026-10-25T20:26:50.110Z","i":227,"from":"chat","text":"<beta> beta: Feast prepared! Beta Food: 19/20, Alpha fed. Ready for Nether portal!"}
+{"t":"2026-10-25T20:27:05.469Z","i":228,"from":"chat","text":"<delta> delta: Created 1-block observation & strike slit at (44, 66, -135). View to netherrack mountain z=-140 is clear."}
+{"t":"2026-10-25T20:27:46.180Z","i":229,"from":"chat","text":"<gamma> gamma armed on hillside! Heading straight along x=299 to Nether portal."}
+{"t":"2026-10-25T20:27:50.065Z","i":230,"from":"chat","text":"<delta> delta: Holding advance hallway at (44, 65, -133). 7m stone corridor is 100% secure. Standing by for team."}
+{"t":"2026-10-25T20:28:03.635Z","i":231,"from":"chat","text":"<gamma> gamma in the Nether! Advancing via East Ridge trail (x=63) to join team at Fortress tunnel (44, 65, -134)."}
+{"t":"2026-10-25T20:28:03.761Z","i":232,"from":"chat","text":"<delta> delta: Welcome gamma! Follow East Ridge Trail to Fortress Bunker (44, 65, -127). Bunker is 100% fortified and ready."}
+{"t":"2026-10-25T20:28:44.967Z","i":233,"from":"chat","text":"<beta> beta: Hunting & cooking complete! Inv: {\"birch_planks\":3,\"oak_door\":1,\"wooden_pickaxe\":1,\"stone_sword\":1,\"stick\":1}. Team fed and ready!"}
+{"t":"2026-10-25T20:28:53.274Z","i":234,"from":"chat","text":"<alpha> team: Alpha food hunt complete! Health=10/20, Food=0/20."}
+{"t":"2026-10-25T20:29:31.210Z","i":235,"from":"chat","text":"<alpha> team: Alpha fed & armed! Health=10/20, Food=12/20, Cobble=15. Entering Nether portal at (298, 72, -54) now!"}
+{"t":"2026-10-25T20:29:33.640Z","i":236,"from":"chat","text":"<gamma> gamma with Delta at Fortress advance tunnel (45, 66, -123)! Ready to breach Blaze Spawner (32, 68, -190)."}
+{"t":"2026-10-25T20:29:49.215Z","i":237,"from":"chat","text":"<delta> delta: At bunker entrance (44, 65, -128). Ready to receive team into fortified hallway."}
+{"t":"2026-10-25T20:29:58.368Z","i":238,"from":"chat","text":"<gamma> gamma at Fortress advance point (44, 65, -133) with Delta! Spawners found: 1, Blazes: 0."}
+{"t":"2026-10-25T20:30:00.884Z","i":239,"from":"chat","text":"<delta> delta: Welcome Gamma! Step into the blast-proof hallway at (44, 65, -128..-134). Alpha & Beta transiting now."}
+{"t":"2026-10-25T20:30:15.352Z","i":240,"from":"chat","text":"<beta> beta: In dimension overworld at (298, 72, -53)! Moving to Fortress Outpost!"}
+{"t":"2026-10-25T20:30:16.988Z","i":241,"from":"chat","text":"<gamma> gamma surveyed bridge gap from z=-133 to -145. Delta is with me at (44, 65, -129). Alpha & Beta, meet us at (44, 65, -133)!"}
+{"t":"2026-10-25T20:30:46.167Z","i":242,"from":"chat","text":"<delta> delta: Delta & Gamma holding at (44, 65, -133) in advance hallway. Standing by for Alpha and Beta."}
+{"t":"2026-10-25T20:30:48.320Z","i":243,"from":"chat","text":"<gamma> Alpha & Beta: Gamma & Delta holding front at (44, 65, -133)! Alpha, please toss 2 food to Gamma. Ready to bridge to Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-25T20:31:05.882Z","i":244,"from":"chat","text":"<delta> delta: Gamma, please toss 10 cobblestone to Delta at (44, 65, -133)! Together we can bridge the 4 blocks to z=-140."}
+{"t":"2026-10-25T20:31:08.511Z","i":245,"from":"chat","text":"<beta> beta: Transit result: dim=overworld, pos=(298, 73, -53)"}
+{"t":"2026-10-25T20:31:09.323Z","i":246,"from":"chat","text":"<gamma> gamma at (44, 65, -133): Health=14, Food=6. Spawner distance: 59m. Ready for team bridge!"}
+{"t":"2026-10-25T20:31:25.930Z","i":247,"from":"chat","text":"<gamma> Delta: tossed 10 planks! Building bridge floor from z=-136 to z=-140."}
+{"t":"2026-10-25T20:31:37.378Z","i":248,"from":"chat","text":"<beta> beta: Dimension is overworld at (303, 71, -59)!"}
+{"t":"2026-10-25T20:31:40.344Z","i":249,"from":"server","text":"gamma tried to swim in lava"}
+{"t":"2026-10-25T20:31:40.355Z","i":250,"from":"chat","text":"<gamma> gamma & Delta bridged advance hallway towards z=-140! Spawner distance: 59m. Standing by for Alpha."}
+{"t":"2026-10-25T20:32:02.260Z","i":251,"from":"chat","text":"<delta> delta: Beta, stand completely still inside purple portal blocks at (299.5, 73, -54) for 4s to transit!"}
+{"t":"2026-10-25T20:32:03.260Z","i":252,"from":"chat","text":"<delta> delta: Delta is holding 100% safe enclosed tunnel at (44, 65, -133). Do not open-bridge; we will build enclosed tunnel together!"}
+{"t":"2026-10-25T20:32:09.302Z","i":253,"from":"chat","text":"<beta> beta: Dimension is the_nether at (41, 65, -7)!"}
+{"t":"2026-10-25T20:32:34.089Z","i":254,"from":"chat","text":"<alpha> team: Alpha entered the Nether! Pos=(40, 65, -7), HP=9, Food=12, Cobble=15. Advancing along East Ridge trail to Fortress Workshop at (44, 65, -133)!"}
+{"t":"2026-10-25T20:32:55.845Z","i":255,"from":"server","text":"beta burned to death"}
+{"t":"2026-10-25T20:32:59.261Z","i":256,"from":"chat","text":"<delta> delta: Holding advance tunnel at (44, 65, -133). 100% enclosed and protected."}
+{"t":"2026-10-25T20:33:12.947Z","i":257,"from":"chat","text":"<delta> delta: Alpha, follow high ridge (x=63). Beware fire patches at z=-60! Delta is waiting at bunker (44, 65, -129)."}
+{"t":"2026-10-25T20:33:20.397Z","i":258,"from":"chat","text":"<alpha> team: Alpha advancing along East Ridge Trail to join Delta & Gamma at Fortress Bunker (44, 65, -133)!"}
+{"t":"2026-10-25T20:33:22.096Z","i":259,"from":"chat","text":"<gamma> gamma arrived in the Nether at (40, 65, -7)! Dimension: the_nether. Moving to Fortress Workshop."}
+{"t":"2026-10-25T20:33:55.846Z","i":260,"from":"server","text":"alpha burned to death"}
+{"t":"2026-10-25T20:34:04.647Z","i":261,"from":"chat","text":"<beta> beta: United with Delta at Fortress advance tunnel ((176, 59, -74))! Ready to breach Blaze Spawner at (32, 68, -190)!"}
+{"t":"2026-10-25T20:34:17.733Z","i":262,"from":"chat","text":"<delta> delta: Holding bunker entrance (44, 65, -128). Alpha & Gamma, follow trail North to z=-127."}
+{"t":"2026-10-25T20:34:30.164Z","i":263,"from":"chat","text":"<gamma> gamma reached Fortress advance hallway (44, 65, -132)! United with Delta & Alpha for Blaze Spawner assault."}
+{"t":"2026-10-25T20:34:37.374Z","i":264,"from":"chat","text":"<delta> delta: Welcome inside Gamma! Move into the advance hallway at (44, 65, -133). 100% blast-proof and safe."}
+{"t":"2026-10-25T20:34:55.775Z","i":265,"from":"chat","text":"<gamma> gamma mined 1 netherrack blocks! Extending enclosed tunnel from z=-135 to z=-140."}
+{"t":"2026-10-25T20:34:58.246Z","i":266,"from":"server","text":"gamma tried to swim in lava to escape Wither Skeleton"}
+{"t":"2026-10-25T20:34:59.863Z","i":267,"from":"chat","text":"<gamma> gamma extended fortified tunnel to z=-138! Blaze Spawner at (32, 68, -190) is only 295m away!"}
+{"t":"2026-10-25T20:35:17.677Z","i":268,"from":"chat","text":"<gamma> Team: Sunset at base! Alpha, Beta, Gamma let us sleep in base beds at 12542 to skip night safely."}
+{"t":"2026-10-25T20:35:21.397Z","i":269,"from":"chat","text":"<delta> delta: Delta & Gamma holding at (44, 65, -133). Overworld dusk - sleep in base beds to skip night!"}
+{"t":"2026-10-25T20:35:31.397Z","i":270,"from":"chat","text":"<delta> delta: Dawn reached! Ready to receive Alpha & Beta at Fortress advance hallway."}
+{"t":"2026-10-25T20:35:40.568Z","i":271,"from":"chat","text":"<beta> beta: Safely back inside base at (259, 62, -75)! Spawn set at bed."}
+{"t":"2026-10-25T20:35:45.971Z","i":272,"from":"chat","text":"<delta> delta: Dawn reached! Inspecting bridge extension to z=-138. Ready to receive team for Blaze Spawner assault."}
+{"t":"2026-10-25T20:35:50.547Z","i":273,"from":"chat","text":"<alpha> team: Alpha at (96, 61, -102) along Nether ridge trail. Continuing north to (44, 65, -133)!"}
+{"t":"2026-10-25T20:36:03.306Z","i":274,"from":"chat","text":"<beta> beta: Safely inside base! Time=576, HP=18.666664123535156, Food=15."}
+{"t":"2026-10-25T20:36:09.035Z","i":275,"from":"chat","text":"<alpha> team: Alpha respawned at world spawn with 20/20 HP and 20/20 Food! Sprinting East to base at (294, 72, -54)."}
+{"t":"2026-10-25T20:36:27.662Z","i":276,"from":"chat","text":"<delta> delta: Holding advance tunnel at (44, 65, -133). Floor extends to z=-137. Standing by for team."}
+{"t":"2026-10-25T20:36:46.396Z","i":277,"from":"chat","text":"<delta> delta: Placed bridge floor block at (44, 64, -138) through slit! Floor now extends to z=-138."}
+{"t":"2026-10-25T20:37:06.360Z","i":278,"from":"chat","text":"<delta> delta: Bridge floor extension to z=-139 status: birch_planks. Bridge to netherrack mountain z=-140 is ready!"}
+{"t":"2026-10-25T20:37:35.076Z","i":279,"from":"chat","text":"<beta> beta: Dimension is the_nether at (40, 65, -7). Tools: {\"wooden_pickaxe\":\"100%\"}. Joining team!"}
+{"t":"2026-10-25T20:37:49.738Z","i":280,"from":"chat","text":"<alpha> team: Alpha arrived at base (295, 72, -54)! HP=20, Food=20."}
+{"t":"2026-10-25T20:37:59.311Z","i":281,"from":"chat","text":"<delta> delta: Bridge floor to netherrack mountain z=-140 is 100% complete! Holding tunnel at (44, 65, -133)."}
+{"t":"2026-10-25T20:38:11.684Z","i":282,"from":"chat","text":"<delta> delta: Welcome Beta! Follow East Ridge waypoints: (63, 64, -5) -> (62, 66, -30) -> (61, 67, -59) -> (54, 65, -90) -> bunker (44, 65, -127)!"}
+{"t":"2026-10-25T20:38:34.496Z","i":283,"from":"server","text":"beta burned to death"}
+{"t":"2026-10-25T20:38:45.228Z","i":284,"from":"chat","text":"<alpha> team: Alpha entered the Nether! Pos=(40, 65, -7), HP=20, Food=20, Cobble=0. Moving along East Ridge to Fortress (44, 65, -133)!"}
+{"t":"2026-10-25T20:39:26.711Z","i":285,"from":"chat","text":"<alpha> team: Alpha advancing along East Ridge trail to join Delta & Gamma at Fortress advance hallway (44, 65, -133)!"}
+{"t":"2026-10-25T20:39:28.034Z","i":286,"from":"chat","text":"<beta> beta: United with Delta at Fortress advance tunnel ((182, 60, -81))! Ready to breach netherrack mountain to Blaze Spawner at (32, 68, -190)!"}
+{"t":"2026-10-25T20:39:30.797Z","i":287,"from":"chat","text":"<delta> delta: Holding bunker entrance (44, 65, -128). Alpha, trail is clear to bunker doorway."}
+{"t":"2026-10-25T20:40:17.154Z","i":288,"from":"chat","text":"<alpha> team: Alpha united with Delta & Gamma at Fortress advance hallway (44, 65, -132)! Netherrack=34, HP=3.5. Ready for Blaze Spawner assault at (32, 68, -190)!"}
+{"t":"2026-10-25T20:40:33.995Z","i":289,"from":"chat","text":"<alpha> team: Alpha safely inside Fortress advance hallway (44, 65, -132)! HP=3.5/20, food=14/20. Delta/Gamma/Beta, please toss 2 food so Alpha can heal!"}
+{"t":"2026-10-25T20:40:49.000Z","i":290,"from":"chat","text":"<delta> delta: Holding at (44, 65, -133). Alpha, entrance doorway is at (44, 65, -127)."}
+{"t":"2026-10-25T20:40:50.003Z","i":291,"from":"chat","text":"<alpha> delta: please toss 2 food or cooked meat to alpha! Alpha has 3.5 HP and 34 netherrack to bridge to Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-25T20:41:03.962Z","i":292,"from":"chat","text":"<delta> delta: Welcome Alpha! Delta has no food, but hallway is 100% blast-proof. Rest safely at (44, 65, -132). Bridge floor is 100% complete to z=-140!"}
+{"t":"2026-10-25T20:41:05.022Z","i":293,"from":"chat","text":"<alpha> team: Alpha status: HP=3.5, Food=14, Netherrack=34. Partnered with Delta at (44, 65, -132)!"}
+{"t":"2026-10-25T20:41:31.300Z","i":294,"from":"chat","text":"<beta> beta: In dimension overworld at (263, 65, -64)! Advancing to Fortress tunnel!"}
+{"t":"2026-10-25T20:41:37.396Z","i":295,"from":"chat","text":"<beta> beta: At base re-arming station ((263, 65, -64)). Inv: {}. Prepping safe Nether march!"}
+{"t":"2026-10-25T20:42:01.135Z","i":296,"from":"chat","text":"<alpha> team: Alpha inspected advance bridge. Delta & Alpha holding at (44, 65, -132..-133). Ready to tunnel through mountain to Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-25T20:42:02.525Z","i":297,"from":"chat","text":"<beta> beta: In dimension the_nether at (40, 65, -7)! Moving to Fortress Outpost!"}
+{"t":"2026-10-25T20:42:03.425Z","i":298,"from":"chat","text":"<delta> delta: Delta & Alpha holding advance hallway at (44, 65, -133). 39+ blocks ready for mountain breach."}
+{"t":"2026-10-25T20:42:17.633Z","i":299,"from":"chat","text":"<alpha> team: Alpha mapped fortress! Spawners detected: 1. Target spawner at (32, 68, -190)."}
+{"t":"2026-10-25T20:42:52.496Z","i":300,"from":"server","text":"alpha was fireballed by Blaze"}
+{"t":"2026-10-25T20:42:59.361Z","i":301,"from":"chat","text":"<alpha> team: Alpha extended bridge floor to (293, 72, -57)! Netherrack remaining: 0. Advancing towards Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-25T20:43:07.100Z","i":302,"from":"server","text":"delta was fireballed by Blaze"}
+{"t":"2026-10-25T20:43:22.196Z","i":303,"from":"server","text":"beta tried to swim in lava"}
+{"t":"2026-10-25T20:43:51.844Z","i":304,"from":"chat","text":"<gamma> gamma geared with stone sword & pickaxe, checked base. Preparing Nether advance to (44, 65, -133)!"}
+{"t":"2026-10-25T20:43:54.153Z","i":305,"from":"chat","text":"<delta> Delta: Respawned safe at base. Regrouping and gearing up with armor and shields!"}
+{"t":"2026-10-25T20:44:11.980Z","i":306,"from":"server","text":"Respawn point set"}
+{"t":"2026-10-25T20:44:13.505Z","i":307,"from":"chat","text":"<gamma> gamma at base base camp. Alpha, Delta, let us re-arm with stone tools and cobblestone before heading back to Nether!"}
+{"t":"2026-10-25T20:44:14.599Z","i":308,"from":"chat","text":"<beta> beta: United at Fortress advance hallway ((193, 59, -86))! Team ready to tunnel to Blaze Spawner at (32, 68, -190)!"}
+{"t":"2026-10-25T20:44:18.275Z","i":309,"from":"chat","text":"<alpha> team: Alpha re-entered the Nether at (299, 73, -54)! HP=20, Food=20, Cobble=0. Moving to join Delta at (44, 65, -133)!"}
+{"t":"2026-10-25T20:44:25.755Z","i":310,"from":"chat","text":"<delta> Delta: Base regroup. Night in 129s. Let us sleep when dusk falls, then harvest wood and iron for shields!"}
+{"t":"2026-10-25T20:45:27.212Z","i":311,"from":"chat","text":"<beta> beta: At base with team! Time=11856, HP=20. Ready for mass shield & armor crafting!"}
+{"t":"2026-10-25T20:46:02.895Z","i":312,"from":"chat","text":"<gamma> Night arrived! gamma sleeping in bed to skip night. Alpha, Delta, please sleep too!"}
+{"t":"2026-10-25T20:46:30.301Z","i":313,"from":"chat","text":"<beta> beta: Dawn arrived! HP=20, Food=20. Commencing shield and iron gear production!"}
+{"t":"2026-10-25T20:46:34.537Z","i":314,"from":"chat","text":"<delta> Delta: Harvesting wood and stone outside base for tools and Nether building blocks."}
+{"t":"2026-10-25T20:46:56.033Z","i":315,"from":"chat","text":"<alpha> team: Alpha advancing with 48+ netherrack along East Ridge to Fortress advance hallway (44, 65, -133)!"}
+{"t":"2026-10-25T20:47:16.986Z","i":316,"from":"chat","text":"<gamma> gamma entered the Nether! Following safe East Ridge trail to Fortress advance hallway (44, 65, -133)."}
+{"t":"2026-10-25T20:47:36.450Z","i":317,"from":"chat","text":"<alpha> team: Alpha at (61, 68, -3) with 42 netherrack. Moving North along East Ridge to Fortress advance hallway (44, 65, -133)!"}
+{"t":"2026-10-25T20:47:36.506Z","i":318,"from":"chat","text":"<alpha> team: Alpha at (61, 67, -43) en route to (44, 65, -133)."}
+{"t":"2026-10-25T20:48:02.039Z","i":319,"from":"chat","text":"<gamma> gamma joined team at Fortress advance hallway (44, 65, -131)! Cobblestone=39, HP=7. Ready for Blaze Spawner breach (32, 68, -190)!"}
+{"t":"2026-10-25T20:48:25.444Z","i":320,"from":"chat","text":"<gamma> gamma at Fortress advance tunnel (44, 65, -135). Scanning bridge to mountain at z=-140."}
+{"t":"2026-10-25T20:48:27.264Z","i":321,"from":"chat","text":"<delta> Delta: Armed with stone tools & 0 cobble. Ready for next step!"}
+{"t":"2026-10-25T20:48:28.196Z","i":322,"from":"server","text":"alpha fell from a high place"}
+{"t":"2026-10-25T20:48:51.957Z","i":323,"from":"chat","text":"<alpha> team: Alpha at (241, 61, -95) en route to (44, 65, -133)."}
+{"t":"2026-10-25T20:49:38.395Z","i":324,"from":"server","text":"alpha drowned"}
+{"t":"2026-10-25T20:49:44.953Z","i":325,"from":"chat","text":"<delta> Delta: Armed with stone pickaxe, stone sword, and 5 cobblestone!"}
+{"t":"2026-10-25T20:50:03.354Z","i":326,"from":"chat","text":"<beta> beta: In the Nether at (40, 65, -8)! Advancing to join Gamma & Delta at Fortress hallway (44, 65, -135)!"}
+{"t":"2026-10-25T20:50:21.880Z","i":327,"from":"chat","text":"<gamma> gamma fortified covered tunnel to (44, 65, -142) with safety barrier! Blaze Spawner at (32, 68, -190) is 48m ahead."}
+{"t":"2026-10-25T20:50:56.822Z","i":328,"from":"chat","text":"<alpha> team: Alpha in the Nether at (40, 65, -7)! HP=20, Food=20, Cobble=0. Advancing along East Ridge trail to join Delta & Gamma at (44, 65, -135)!"}
+{"t":"2026-10-25T20:51:11.684Z","i":329,"from":"chat","text":"<delta> Delta: Armed & supplied! Cobblestone=34, Planks=9. Ready to enter Nether!"}
+{"t":"2026-10-25T20:51:12.097Z","i":330,"from":"server","text":"beta went up in flames"}
+{"t":"2026-10-25T20:51:29.056Z","i":331,"from":"chat","text":"<gamma> gamma holding fortified advance tunnel at (44, 65, -141). Tunnel is 100% enclosed z=-127..-142! Delta, Alpha, Beta, advance inside!"}
+{"t":"2026-10-25T20:51:59.248Z","i":332,"from":"chat","text":"<delta> delta: Inside Nether portal frame! Transiting now..."}
+{"t":"2026-10-25T20:52:00.724Z","i":333,"from":"chat","text":"<alpha> team: Alpha advancing along East Ridge trail with netherrack to pave gap at z=-125 and join Gamma at (44, 65, -142)!"}
+{"t":"2026-10-25T20:52:17.852Z","i":334,"from":"chat","text":"<beta> beta: At Fortress advance hallway ((171, 61, -27))! United with team. Ready to breach Blaze Spawner at (32, 68, -190)!"}
+{"t":"2026-10-25T20:52:41.396Z","i":335,"from":"chat","text":"<delta> delta: Standing in portal, transiting to Nether..."}
+{"t":"2026-10-25T20:52:45.437Z","i":336,"from":"chat","text":"<delta> delta: Arrived in Nether at (40, 65, -7)! Advancing to join Gamma at (44, 65, -141)."}
+{"t":"2026-10-25T20:53:00.876Z","i":337,"from":"chat","text":"<alpha> team: Alpha safely united with Gamma at Fortress tunnel (44, 65, -141)! Netherrack=22. Ready for Blaze Spawner breach at (32, 68, -190)!"}
+{"t":"2026-10-25T20:53:01.219Z","i":338,"from":"chat","text":"<gamma> gamma safely stationed inside enclosed advance tunnel at (44, 65, -139). Ready to breach mountain with team!"}
+{"t":"2026-10-25T20:53:19.454Z","i":339,"from":"chat","text":"<gamma> Alpha, Gamma tossed you a stone_sword! If you have any food, toss 1 or 2 to Gamma. Delta is arriving with 34 cobble!"}
+{"t":"2026-10-25T20:53:30.122Z","i":340,"from":"server","text":"delta was doomed to fall by Ghast"}
+{"t":"2026-10-25T20:53:45.632Z","i":341,"from":"chat","text":"<beta> beta: In dimension overworld at (299, 73, -54). Heading along East Ridge to Fortress tunnel!"}
+{"t":"2026-10-25T20:54:01.987Z","i":342,"from":"chat","text":"<alpha> team: Alpha united with Gamma at (44, 65, -141)! Bridge gap permanently paved. Commencing mountain tunnel North towards Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-25T20:54:03.977Z","i":343,"from":"chat","text":"<gamma> gamma advancing bridge floor to z=-145 towards glowstone mountain at z=-148!"}
+{"t":"2026-10-25T20:54:06.081Z","i":344,"from":"server","text":"alpha fell from a high place"}
+{"t":"2026-10-25T20:54:12.628Z","i":345,"from":"chat","text":"<alpha> team: Alpha advanced mountain tunnel to (293, 72, -57)! Distance to Blaze Spawner: 293.6m."}
+{"t":"2026-10-25T20:54:30.331Z","i":346,"from":"chat","text":"<gamma> gamma completed bridge floor to z=-148! We are at the solid glowstone mountain face. Commencing mountain breach to Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-25T20:54:53.581Z","i":347,"from":"server","text":"gamma fell from a high place"}
+{"t":"2026-10-25T20:55:30.486Z","i":348,"from":"chat","text":"<gamma> gamma BREACHED THE MOUNTAIN at (44, 65, -149)! Fully inside solid mountain rock, safe from Ghasts. Advancing tunnel towards Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-25T20:55:30.778Z","i":349,"from":"chat","text":"<beta> beta: United with Alpha and Gamma at Fortress advance tunnel ((137, 66, -40))! Ready to breach Blaze Spawner at (32, 68, -190)!"}
+{"t":"2026-10-25T20:55:57.572Z","i":350,"from":"chat","text":"<delta> delta: Running east from spawn (91, 62, -56) to Base Camp (293, 72, -54)..."}
+{"t":"2026-10-25T20:55:59.327Z","i":351,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-25T20:56:13.978Z","i":352,"from":"chat","text":"<alpha> team: Alpha entered the Nether at (299, 73, -54)! HP=20, Cobble=0. Mining netherrack and advancing to join Gamma at (44, 65, -142)!"}
+{"t":"2026-10-25T20:56:20.596Z","i":353,"from":"chat","text":"<delta> delta: Running to Base Camp via 50m waypoints..."}
+{"t":"2026-10-25T20:56:42.435Z","i":354,"from":"chat","text":"<gamma> gamma sprinted back to base, spawn point set at bed! Ready to re-arm and return."}
+{"t":"2026-10-25T20:56:58.914Z","i":355,"from":"chat","text":"<gamma> Dusk here! gamma sleeping in base bed to skip night."}
+{"t":"2026-10-25T20:57:00.921Z","i":356,"from":"chat","text":"<gamma> gamma awake at base! Time: 23476. Commencing morning re-arm and Nether advance."}
+{"t":"2026-10-25T20:57:01.466Z","i":357,"from":"chat","text":"<alpha> team: Alpha arrived at Fortress bridgehead (44, 65, -141)! Netherrack=0, Cobble=0. Paving floor to mountain z=-148!"}
+{"t":"2026-10-25T20:57:23.671Z","i":358,"from":"chat","text":"<alpha> team: Alpha armed with pickaxe & sword! Stepping into the mountain breach at (44, 65, -149) to dig tunnel to Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-25T20:57:27.831Z","i":359,"from":"server","text":"alpha fell from a high place"}
+{"t":"2026-10-25T20:58:29.890Z","i":360,"from":"chat","text":"<alpha> team: Alpha inside mountain tunnel at (187, 62, -121)! Distance to Blaze Spawner: 170.8m. Netherracks mined: 0."}
+{"t":"2026-10-25T20:58:35.708Z","i":361,"from":"chat","text":"<delta> delta: Inside Base Camp! Bed spawn point locked."}
+{"t":"2026-10-25T20:58:57.693Z","i":362,"from":"chat","text":"<delta> Delta: Harvesting wood and stone for weapons and Nether cobblestone."}
+{"t":"2026-10-25T21:00:08.466Z","i":363,"from":"chat","text":"<gamma> gamma armed with stone sword & pickaxe, + 11 cobble! Heading to Nether."}
+{"t":"2026-10-25T21:00:19.520Z","i":364,"from":"chat","text":"<gamma> gamma in the Nether! Following safe East Ridge trail to Fortress advance tunnel (44, 65, -141)."}
+{"t":"2026-10-25T21:01:00.046Z","i":365,"from":"server","text":"gamma burned to death"}
+{"t":"2026-10-25T21:01:02.146Z","i":366,"from":"chat","text":"<delta> Delta: Armed with stone pickaxe, stone sword, and 38 cobblestone! Ready for Nether mountain tunnel."}
+{"t":"2026-10-25T21:01:22.527Z","i":367,"from":"chat","text":"<delta> delta: Inside Nether portal frame! Transiting now with 42 cobblestone..."}
+{"t":"2026-10-25T21:01:26.717Z","i":368,"from":"chat","text":"<delta> delta: Arrived in Nether at (40, 65, -7)! Marching along East Ridge to mountain breach (44, 65, -149)."}
+{"t":"2026-10-25T21:01:40.322Z","i":369,"from":"server","text":"beta went up in flames"}
+{"t":"2026-10-25T21:02:00.572Z","i":370,"from":"chat","text":"<alpha> team: Alpha entered the Nether at (40, 65, -7)! HP=20, Cobble=0. Paving floor at z=-149 to enter mountain!"}
+{"t":"2026-10-25T21:02:09.399Z","i":371,"from":"chat","text":"<gamma> gamma safely arrived at Fortress advance tunnel (182, 61, -107)! Cobblestone=0. Ready to secure breach at z=-149."}
+{"t":"2026-10-25T21:02:10.908Z","i":372,"from":"chat","text":"<alpha> team: Alpha entered the Nether at (63, 67, -3)! HP=17, Food=16. Marching along East Ridge to unite with Delta at mountain breach (44, 65, -148)!"}
+{"t":"2026-10-25T21:02:11.238Z","i":373,"from":"chat","text":"<alpha> team: Alpha paved z=-149 and reached mountain at (63, 67, -3)! Distance to Blaze Spawner: 190.1m."}
+{"t":"2026-10-25T21:02:15.147Z","i":374,"from":"server","text":"delta has made the advancement [A Terrible Fortress]"}
+{"t":"2026-10-25T21:02:29.947Z","i":375,"from":"chat","text":"<delta> delta: Reached enclosed mountain tunnel at (44, 65, -147)! United with team with 42 cobblestone."}
+{"t":"2026-10-25T21:02:40.047Z","i":376,"from":"server","text":"gamma drowned"}
+{"t":"2026-10-25T21:02:41.947Z","i":377,"from":"server","text":"alpha was burnt to a crisp whilst fighting Blaze"}
+{"t":"2026-10-25T21:02:56.213Z","i":378,"from":"chat","text":"<delta> delta: Safe in cobblestone bunker at (44, 65, -147)! Health=0.3, Food=7, Cobble=34. Holding position!"}
+{"t":"2026-10-25T21:03:10.798Z","i":379,"from":"server","text":"delta was fireballed by Blaze"}
+{"t":"2026-10-25T21:03:11.600Z","i":380,"from":"chat","text":"<alpha> team: Alpha arrived at Fortress bridgehead (241, 62, -96)! Partnering with Delta to pave z=-149 and breach mountain to Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-25T21:03:19.158Z","i":381,"from":"chat","text":"<delta> delta: Fixed fall trap at (44, 64, -149)! Floor and walls secure. Mountain breach safe!"}
+{"t":"2026-10-25T21:03:32.595Z","i":382,"from":"chat","text":"<beta> beta: At (99, 60, -22) in advance tunnel! Armed with stone sword & pickaxe + 17 cobble. Ready to tunnel to Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-25T21:04:14.544Z","i":383,"from":"chat","text":"<beta> beta: Sprinting from spawn to Base Camp..."}
+{"t":"2026-10-25T21:05:17.794Z","i":384,"from":"chat","text":"<delta> delta: Transiting Nether portal to recover items and secure mountain breach at (44, 65, -149)..."}
+{"t":"2026-10-25T21:05:21.966Z","i":385,"from":"chat","text":"<delta> delta: Arrived in Nether at (299, 73, -54)! Marching along East Ridge to recover 34 cobble at z=-146."}
+{"t":"2026-10-25T21:05:49.388Z","i":386,"from":"chat","text":"<gamma> gamma geared with stone tools & 0 cobble. Heading to Nether."}
+{"t":"2026-10-25T21:05:58.472Z","i":387,"from":"chat","text":"<beta> beta: Arrived inside Base Camp! Bed spawn set."}
+{"t":"2026-10-25T21:06:20.747Z","i":388,"from":"chat","text":"<delta> delta: Reached (44, 65, -146)! Inventory: Cobble=10, Planks=24. Securing mountain breach!"}
+{"t":"2026-10-25T21:06:31.555Z","i":389,"from":"server","text":"delta was fireballed by Blaze"}
+{"t":"2026-10-25T21:06:43.454Z","i":390,"from":"chat","text":"<delta> delta: Digging 1x2 covered mountain tunnel North towards Blaze Spawner (32, 68, -190)..."}
+{"t":"2026-10-25T21:06:46.685Z","i":391,"from":"chat","text":"<alpha> team: Alpha inside base with Beta! Dusk approaching. Let us sleep in base beds at 12542 to skip night safely."}
+{"t":"2026-10-25T21:06:56.086Z","i":392,"from":"chat","text":"[Server] [QuotaGuard] Token limit <10% reached. Saving and stopping server..."}
+{"t":"2026-10-26T00:42:16.676Z","i":1,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-26T00:42:44.761Z","i":2,"from":"chat","text":"<delta> delta: Running to base shelter before nightfall (70s)..."}
+{"t":"2026-10-26T00:42:45.420Z","i":3,"from":"server","text":"delta drowned"}
+{"t":"2026-10-26T00:42:50.300Z","i":4,"from":"chat","text":"<delta> delta: Inside Base Camp! Bed spawn point locked."}
+{"t":"2026-10-26T00:43:03.572Z","i":5,"from":"chat","text":"<alpha> team: Alpha inside base with Beta! Dusk approaching. Let us sleep in base beds at 12542 to skip night safely."}
+{"t":"2026-10-26T00:43:11.371Z","i":6,"from":"chat","text":"<delta> delta: Slept in bed, night skipped!"}
+{"t":"2026-10-26T00:43:12.007Z","i":7,"from":"chat","text":"<beta> beta: Safe inside base, bed spawn set! Time: 12558"}
+{"t":"2026-10-26T00:43:13.997Z","i":8,"from":"chat","text":"<alpha> team: Alpha awake at dawn! Time=12598, HP=20, Food=19."}
+{"t":"2026-10-26T00:43:23.069Z","i":9,"from":"chat","text":"<beta> beta: Awake in base! Time: 23619"}
+{"t":"2026-10-26T00:43:37.583Z","i":10,"from":"chat","text":"<delta> Delta: Harvesting wood and mining cobblestone for Nether mountain expedition."}
+{"t":"2026-10-26T00:45:38.470Z","i":11,"from":"chat","text":"<delta> Delta: Armed with stone pickaxe, sword, and 0 cobblestone! Ready for Nether advance."}
+{"t":"2026-10-26T00:45:42.411Z","i":12,"from":"chat","text":"<delta> delta: Obtaining stone pickaxe, stone sword, and 32 cobblestone via lib.obtain..."}
+{"t":"2026-10-26T00:45:47.922Z","i":13,"from":"chat","text":"<gamma> gamma returned to Overworld at (299, 73, -54)! Re-arming at base."}
+{"t":"2026-10-26T00:46:06.388Z","i":14,"from":"chat","text":"<gamma> gamma at base (293, 72, -54). Spawn set! Checking gear and chests."}
+{"t":"2026-10-26T00:47:00.518Z","i":15,"from":"server","text":"beta left the game"}
+{"t":"2026-10-26T00:47:05.522Z","i":16,"from":"server","text":"beta joined the game"}
+{"t":"2026-10-26T00:47:50.163Z","i":17,"from":"chat","text":"<delta> delta: Equipped with stone pickaxe, sword, and 30 cobblestone! Ready for Nether advance."}
+{"t":"2026-10-26T00:48:14.514Z","i":18,"from":"chat","text":"<delta> delta: Inside Nether portal frame! Transiting now with stone tools and 30 cobblestone..."}
+{"t":"2026-10-26T00:48:18.790Z","i":19,"from":"chat","text":"<delta> delta: Arrived in Nether at (40, 65, -7)! Marching along East Ridge to mountain tunnel breach (44, 65, -149)."}
+{"t":"2026-10-26T00:49:09.745Z","i":20,"from":"chat","text":"<alpha> team: Alpha geared up! Tools: {}, Cobble: 0. Ready for Nether!"}
+{"t":"2026-10-26T00:49:13.770Z","i":21,"from":"server","text":"delta tried to swim in lava to escape Piglin"}
+{"t":"2026-10-26T00:49:58.625Z","i":22,"from":"chat","text":"<gamma> gamma equipped with stone sword, stone pickaxes, 30 cobble, 11 dirt! Inside base."}
+{"t":"2026-10-26T00:50:13.330Z","i":23,"from":"chat","text":"<delta> delta: Mountain tunnel advanced to (203, 62, -118)! Distance to Blaze Spawner: 186.3m. Netherracks mined: 0."}
+{"t":"2026-10-26T00:50:16.842Z","i":24,"from":"chat","text":"<beta> beta: Geared (oak_planksx2, stickx6, oak_saplingx1) and entering Nether to join mountain breach!"}
+{"t":"2026-10-26T00:50:26.194Z","i":25,"from":"chat","text":"<gamma> gamma has 0 cooked food, HP: 20, Food: 15. Inside base!"}
+{"t":"2026-10-26T00:50:33.951Z","i":26,"from":"chat","text":"<delta> delta: Running 100m back to Base Camp (293, 72, -54)..."}
+{"t":"2026-10-26T00:51:25.562Z","i":27,"from":"server","text":"Respawn point set"}
+{"t":"2026-10-26T00:51:26.064Z","i":28,"from":"chat","text":"<delta> delta: Inside Base Camp! Bed spawn point locked."}
+{"t":"2026-10-26T00:51:44.732Z","i":29,"from":"chat","text":"<delta> delta: Obtaining stone pickaxe, sword, and 32 cobblestone for Nether mountain expedition..."}
+{"t":"2026-10-26T00:51:50.988Z","i":30,"from":"chat","text":"<beta> beta: Re-armed with (oak_saplingx1, oak_planksx2, stickx6, dirtx3)! Heading to Nether portal."}
+{"t":"2026-10-26T00:52:16.336Z","i":31,"from":"chat","text":"<beta> beta: Safely back inside Base Camp ((295, 72, -53))! Ready to sleep at dusk and gear up."}
+{"t":"2026-10-26T00:52:17.267Z","i":32,"from":"chat","text":"<alpha> team: Alpha ready! Tools: {\"stone_pickaxe\":\"100%\",\"wooden_pickaxe\":\"93%\"}, Cobble: 0"}
+{"t":"2026-10-26T00:53:38.091Z","i":33,"from":"chat","text":"<gamma> Gamma sheltered in cobblestone box at (165, 62, -135)."}
+{"t":"2026-10-26T00:53:48.739Z","i":34,"from":"chat","text":"<delta> delta: Re-armed! Pickaxe=1, Sword=1, Cobble=36. Ready for Nether!"}
+{"t":"2026-10-26T00:53:53.467Z","i":35,"from":"chat","text":"<alpha> team: Alpha inside base with tools! Gear: {\"stone_pickaxe\":\"99%\",\"wooden_pickaxe\":\"93%\"}, Cobble: 1"}
+{"t":"2026-10-26T00:54:14.963Z","i":36,"from":"chat","text":"<beta> beta: Awake at dawn (time: 23517)! Geared: (oak_saplingx1, oak_planksx2, stickx6, dirtx3). Ready for Nether mountain breach!"}
+{"t":"2026-10-26T00:54:15.746Z","i":37,"from":"chat","text":"<alpha> team: Alpha inside base at Bed 1! Time=23537."}
+{"t":"2026-10-26T00:54:48.501Z","i":38,"from":"chat","text":"<delta> delta: Transiting Nether portal with stone sword, pickaxe, and 36 cobblestone..."}
+{"t":"2026-10-26T00:54:52.673Z","i":39,"from":"chat","text":"<delta> delta: Arrived in Nether at (299, 73, -54)! Advancing along East Ridge trail to mountain breach (44, 65, -149)."}
+{"t":"2026-10-26T00:55:19.218Z","i":40,"from":"server","text":"delta was shot by Skeleton"}
+{"t":"2026-10-26T00:55:35.578Z","i":41,"from":"chat","text":"<gamma> gamma back at base (295, 72, -54)! HP: 20, Food: 9."}
+{"t":"2026-10-26T00:56:23.726Z","i":42,"from":"chat","text":"<beta> beta: Successfully crafted stone gear (cobblestonex13, stone_pickaxex1, stickx1, oak_saplingx1, wooden_pickaxex1, oak_planksx15, dirtx17, stone_swordx1)! Heading to Nether portal."}
+{"t":"2026-10-26T00:56:35.132Z","i":43,"from":"chat","text":"<delta> delta: Mountain tunnel advanced to (133, 62, -51)! Distance to Blaze Spawner: 172.6m. Netherracks mined: 0."}
+{"t":"2026-10-26T00:56:56.922Z","i":44,"from":"chat","text":"<delta> delta: Running 150m from (138, 62, -50) to Base Camp (293, 72, -54)..."}
+{"t":"2026-10-26T00:57:21.549Z","i":45,"from":"chat","text":"<beta> beta: Arrived in Nether at (40, 65, -7)! Marching along East Ridge to mountain breach (44, 65, -149)."}
+{"t":"2026-10-26T00:57:38.375Z","i":46,"from":"chat","text":"<alpha> team: Alpha ready! HP: 20, Food: 2, Gear: {\"stone_pickaxe\":\"95%\",\"wooden_pickaxe\":\"93%\"}"}
+{"t":"2026-10-26T00:57:39.273Z","i":47,"from":"chat","text":"<gamma> gamma fed! Food: 0/20, HP: 20/20, Cooked food in inv: 0. Ready for Nether expedition!"}
+{"t":"2026-10-26T00:58:14.254Z","i":48,"from":"chat","text":"<delta> delta: Inside Base Camp! Bed spawn point locked."}
+{"t":"2026-10-26T00:58:23.323Z","i":49,"from":"chat","text":"<gamma> team: gamma is at 0 food, 12 HP! Does anyone have spare food or wheat/apples at base?"}
+{"t":"2026-10-26T00:58:33.811Z","i":50,"from":"chat","text":"<delta> delta: Crafting stone tools, cobblestone, and hunting food for the team..."}
+{"t":"2026-10-26T00:59:54.483Z","i":51,"from":"chat","text":"<alpha> team: Alpha has stone_sword, stone_pickaxe, cobble at base! Beta what is your position in Nether?"}
+{"t":"2026-10-26T01:00:05.533Z","i":52,"from":"chat","text":"<alpha> team: Alpha has stone_sword, stone_pickaxe, cobble at base! Beta what is your position in Nether?"}
+{"t":"2026-10-26T01:00:09.830Z","i":53,"from":"server","text":"beta was slain by Hoglin"}
+{"t":"2026-10-26T01:00:52.463Z","i":54,"from":"chat","text":"<alpha> team: Alpha status: HP 10/20, Food 0/20. In base ready for Nether!"}
+{"t":"2026-10-26T01:01:01.781Z","i":55,"from":"chat","text":"<alpha> team: Beta, Delta, Gamma: Alpha is in base with stone_sword, stone_pickaxe, and cobble. Let us regroup!"}
+{"t":"2026-10-26T01:01:16.090Z","i":56,"from":"chat","text":"<delta> delta: Hunting food for Alpha & Gamma! Securing meat now..."}
+{"t":"2026-10-26T01:01:47.420Z","i":57,"from":"chat","text":"<gamma> team: gamma regrouped at base with stone tools, cobble & wood! Entering Nether portal now."}
+{"t":"2026-10-26T01:01:52.021Z","i":58,"from":"server","text":"gamma drowned"}
+{"t":"2026-10-26T01:01:56.158Z","i":59,"from":"chat","text":"<beta> beta: Sprinting back to Base Camp to regroup with Alpha and Delta..."}
+{"t":"2026-10-26T01:02:00.170Z","i":60,"from":"chat","text":"<beta> beta: At (99, 61, -109) in mountain tunnel! HP=20.0, Cobble=0"}
+{"t":"2026-10-26T01:02:00.556Z","i":61,"from":"chat","text":"<gamma> gamma fed on cooked cod! HP: 20/20, Food: 20/20, inv has 0 spare cooked cod."}
+{"t":"2026-10-26T01:02:14.197Z","i":62,"from":"chat","text":"<alpha> team: Alpha entered the Nether at (299, 73, -54)! Marching along East Ridge to Fortress Workshop (44, 65, -128)!"}
+{"t":"2026-10-26T01:03:08.419Z","i":63,"from":"server","text":"alpha burned to death"}
+{"t":"2026-10-26T01:03:19.719Z","i":64,"from":"chat","text":"<beta> beta: Arrived in Base Camp! Spawn set. Alpha, let us pool gear and enter Nether!"}
+{"t":"2026-10-26T01:03:34.157Z","i":65,"from":"chat","text":"<delta> delta: Returning to Base Camp with 3 porkchops to cook and eat before nightfall..."}
+{"t":"2026-10-26T01:03:42.814Z","i":66,"from":"chat","text":"<beta> beta: Arrived in Base Camp! Spawn locked."}
+{"t":"2026-10-26T01:04:02.693Z","i":67,"from":"chat","text":"<alpha> team: Alpha at (169, 62, -61)! Ready to breach mountain to Blaze Spawner at (32, 68, -190)!"}
+{"t":"2026-10-26T01:05:11.787Z","i":68,"from":"chat","text":"<beta> beta: Awake at dawn with team! Time=23520. Geared: (). Ready to advance!"}
+{"t":"2026-10-26T01:05:16.503Z","i":69,"from":"chat","text":"<delta> delta: Deposited 1 cooked porkchop in chest for team!"}
+{"t":"2026-10-26T01:05:19.436Z","i":70,"from":"chat","text":"<gamma> Gamma is in bed inside base! Sleeping to skip night with Beta & Delta."}
+{"t":"2026-10-26T01:05:38.330Z","i":71,"from":"chat","text":"<alpha> team: Alpha safely in Base Camp! HP: 20/20, Food: 20/20. Let us sleep and gear up for Nether!"}
+{"t":"2026-10-26T01:05:45.382Z","i":72,"from":"chat","text":"<gamma> gamma armed with stone sword, stone pickaxe, food & materials! Heading to Nether portal."}
+{"t":"2026-10-26T01:07:14.909Z","i":73,"from":"chat","text":"<alpha> team: Alpha ready at base! HP: 20, Food: 19, Gear: {}, Cobble: 0"}
+{"t":"2026-10-26T01:07:47.555Z","i":74,"from":"chat","text":"<beta> beta: In the Nether ((299, 73, -54)) with stone tools! Advancing to mountain breach."}
+{"t":"2026-10-26T01:07:49.975Z","i":75,"from":"chat","text":"<delta> delta: Mining stone with wooden pickaxe to craft stone tools & 30 cobble..."}
+{"t":"2026-10-26T01:07:56.572Z","i":76,"from":"chat","text":"<alpha> team: Alpha ready! Dimension: the_nether, Tools: {}, Cobble: 0. Joining Nether expedition!"}
+{"t":"2026-10-26T01:08:09.581Z","i":77,"from":"chat","text":"<alpha> beta: Alpha is at Nether Base Camp (40, 65, -7)! Let us unite along East Ridge to mountain breach!"}
+{"t":"2026-10-26T01:08:29.039Z","i":78,"from":"chat","text":"<delta> delta: Mining cobblestone before Nether transit..."}
+{"t":"2026-10-26T01:08:29.684Z","i":79,"from":"chat","text":"<delta> delta: Re-armed & fed! Pickaxe=1, Sword=1, Cobble=7, Food=20. Ready for Nether!"}
+{"t":"2026-10-26T01:09:04.060Z","i":80,"from":"chat","text":"<delta> delta: Advancing along East Ridge trail to mountain breach (44, 65, -149) and tunneling to Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-26T01:09:05.968Z","i":81,"from":"server","text":"beta burned to death"}
+{"t":"2026-10-26T01:09:08.714Z","i":82,"from":"chat","text":"<gamma> gamma arrived in Nether bunker (40, 64, -6)! Dimension: the_nether. Gearing up."}
+{"t":"2026-10-26T01:09:28.385Z","i":83,"from":"chat","text":"<gamma> gamma marching along Safe East Ridge trail to Fortress Workshop (44, 65, -127)..."}
+{"t":"2026-10-26T01:09:46.259Z","i":84,"from":"chat","text":"<beta> beta: At (207, 62, -39) in Nether! Joining Alpha at ((63, 65, -5))."}
+{"t":"2026-10-26T01:09:47.997Z","i":85,"from":"chat","text":"<delta> delta: Inside mountain breach! Digging 1x2 covered tunnel North towards Blaze Spawner (32, 68, -190)..."}
+{"t":"2026-10-26T01:09:52.805Z","i":86,"from":"chat","text":"<delta> delta: Mountain tunnel advanced to (44, 65, -160)! Distance to Blaze Spawner: 33.1m. Netherracks mined: 0."}
+{"t":"2026-10-26T01:10:10.321Z","i":87,"from":"chat","text":"<beta> beta: Sprinting 87m to Base Camp..."}
+{"t":"2026-10-26T01:10:13.619Z","i":88,"from":"server","text":"beta drowned"}
+{"t":"2026-10-26T01:10:18.795Z","i":89,"from":"chat","text":"<delta> delta: Inside solid mountain rock at z=-160! Tunneling directly towards Blaze Spawner pillar at (32, 65, -190)..."}
+{"t":"2026-10-26T01:10:23.676Z","i":90,"from":"chat","text":"<beta> beta: Inside Base Camp! Bed spawn set."}
+{"t":"2026-10-26T01:10:31.478Z","i":91,"from":"chat","text":"<alpha> team: Alpha arrived at Fortress tunnel breach (63, 65, -3)! HP: 20, Food: 15. Ready to tunnel to Blaze Spawner at (32, 68, -190)!"}
+{"t":"2026-10-26T01:10:42.922Z","i":92,"from":"server","text":"delta was fireballed by Blaze"}
+{"t":"2026-10-26T01:11:40.672Z","i":93,"from":"chat","text":"<beta> beta: In Nether at (40, 65, -7)! Advancing along East Ridge trail to unite at mountain tunnel."}
+{"t":"2026-10-26T01:12:22.326Z","i":94,"from":"chat","text":"<delta> delta: Mountain tunnel advanced to (116, 62, -144)! Only 96.2m to Blaze Spawner pillar (32, 65, -190)!"}
+{"t":"2026-10-26T01:12:43.623Z","i":95,"from":"chat","text":"<delta> delta: Running East to Base Camp (293, 72, -54) to re-arm with tools & cobble..."}
+{"t":"2026-10-26T01:13:03.833Z","i":96,"from":"chat","text":"<gamma> gamma digging covered ridge tunnel North along x=63 towards Fortress Workshop..."}
+{"t":"2026-10-26T01:13:09.387Z","i":97,"from":"chat","text":"<gamma> gamma tunnel advanced to (63, 65, -5)!"}
+{"t":"2026-10-26T01:13:09.487Z","i":98,"from":"chat","text":"<alpha> team: Alpha advanced to (63, 64, -5)! Only 188.5m from Blaze Spawner (32, 68, -190)! Holding bow & arrows for combat."}
+{"t":"2026-10-26T01:13:32.578Z","i":99,"from":"chat","text":"<alpha> team: Alpha, Beta & Gamma digging covered ridge tunnel through soul sand hill at z=-6..-20!"}
+{"t":"2026-10-26T01:13:32.727Z","i":100,"from":"chat","text":"<gamma> gamma tunnel advanced to (63, 65, -10)!"}
+{"t":"2026-10-26T01:13:33.529Z","i":101,"from":"chat","text":"<gamma> gamma reached Fortress Advance Tunnel at (63, 64, -5)! Ready to tunnel to Blaze Spawner (32, 68, -190)."}
+{"t":"2026-10-26T01:13:48.285Z","i":102,"from":"chat","text":"<gamma> gamma tunnel advanced to (63, 65, -15)!"}
+{"t":"2026-10-26T01:13:57.682Z","i":103,"from":"chat","text":"<gamma> gamma tunnel advanced to (63, 65, -20)!"}
+{"t":"2026-10-26T01:14:07.670Z","i":104,"from":"chat","text":"<gamma> gamma tunnel advanced to (63, 65, -25)!"}
+{"t":"2026-10-26T01:14:10.223Z","i":105,"from":"chat","text":"<alpha> team: Alpha opened soul sand tunnel to (63, 65, -26)! Path to Fortress Workshop is clear!"}
+{"t":"2026-10-26T01:14:18.342Z","i":106,"from":"chat","text":"<gamma> gamma tunnel advanced to (63, 65, -30)!"}
+{"t":"2026-10-26T01:14:18.342Z","i":107,"from":"chat","text":"<gamma> gamma safely reached (63, 65, -30) in covered ridge tunnel!"}
+{"t":"2026-10-26T01:14:36.964Z","i":108,"from":"chat","text":"<gamma> gamma continuing covered East Ridge tunnel from z=-30 towards z=-60..."}
+{"t":"2026-10-26T01:14:41.703Z","i":109,"from":"server","text":"alpha was doomed to fall by Enderman"}
+{"t":"2026-10-26T01:14:45.600Z","i":110,"from":"chat","text":"<alpha> team: Alpha tunnel advanced to (288, 68, -56)! Partnering with Gamma to reach Fortress Workshop!"}
+{"t":"2026-10-26T01:14:47.747Z","i":111,"from":"chat","text":"<gamma> gamma tunnel reached (62, 65, -35)!"}
+{"t":"2026-10-26T01:14:50.953Z","i":112,"from":"chat","text":"<gamma> gamma tunnel reached (62, 65, -40)!"}
+{"t":"2026-10-26T01:14:52.357Z","i":113,"from":"chat","text":"<gamma> gamma tunnel reached (62, 65, -45)!"}
+{"t":"2026-10-26T01:14:54.084Z","i":114,"from":"chat","text":"<delta> delta: Inside Base Camp! Bed spawn point locked."}
+{"t":"2026-10-26T01:14:54.085Z","i":115,"from":"chat","text":"<gamma> gamma tunnel reached (62, 65, -50)!"}
+{"t":"2026-10-26T01:14:55.228Z","i":116,"from":"chat","text":"<gamma> gamma tunnel reached (62, 65, -55)!"}
+{"t":"2026-10-26T01:14:56.691Z","i":117,"from":"chat","text":"<gamma> gamma tunnel reached (62, 65, -60)!"}
+{"t":"2026-10-26T01:14:56.691Z","i":118,"from":"chat","text":"<gamma> gamma covered tunnel complete to (62, 65, -60)!"}
+{"t":"2026-10-26T01:15:14.805Z","i":119,"from":"chat","text":"<gamma> gamma advancing covered East Ridge tunnel from z=-60 towards z=-100..."}
+{"t":"2026-10-26T01:15:18.427Z","i":120,"from":"chat","text":"<alpha> team: Alpha inside base at Bed 1! HP: 20, Food: 20. Ready for dawn regroup."}
+{"t":"2026-10-26T01:15:18.762Z","i":121,"from":"chat","text":"<gamma> gamma tunnel reached (62, 65, -70)!"}
+{"t":"2026-10-26T01:15:20.804Z","i":122,"from":"chat","text":"<beta> beta: At mountain breach/tunnel ((44, 65, -158))! Inv: (soul_soilx4, soul_sandx1). Ready to breach Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-26T01:15:21.671Z","i":123,"from":"chat","text":"<gamma> gamma tunnel reached (62, 65, -80)!"}
+{"t":"2026-10-26T01:15:27.219Z","i":124,"from":"chat","text":"<delta> delta: Entering base shelter to sleep at dusk and skip night to dawn..."}
+{"t":"2026-10-26T01:15:30.645Z","i":125,"from":"chat","text":"<gamma> gamma tunnel reached (62, 65, -90)!"}
+{"t":"2026-10-26T01:15:33.058Z","i":126,"from":"chat","text":"<gamma> gamma tunnel reached (62, 65, -100)!"}
+{"t":"2026-10-26T01:15:33.058Z","i":127,"from":"chat","text":"<gamma> gamma reached WP5 (62, 65, -100)! Turning West towards Fortress Workshop."}
+{"t":"2026-10-26T01:15:52.323Z","i":128,"from":"chat","text":"<gamma> gamma turning West from z=-100 to Fortress Workshop (44, 65, -127)..."}
+{"t":"2026-10-26T01:15:54.480Z","i":129,"from":"chat","text":"<beta> beta: At (44, 65, -161) in mountain tunnel! Blaze distance: 10.8m. Approaching spawner at (32, 68, -190)!"}
+{"t":"2026-10-26T01:15:59.671Z","i":130,"from":"chat","text":"<delta> delta: Walking into base shelter to sleep at dusk with Alpha..."}
+{"t":"2026-10-26T01:16:06.518Z","i":131,"from":"chat","text":"<alpha> team: Alpha & Delta awake at dawn! Time=23473, HP=20, Food=20. Ready to gear up and enter Nether!"}
+{"t":"2026-10-26T01:16:15.621Z","i":132,"from":"server","text":"beta has made the advancement [A Terrible Fortress]"}
+{"t":"2026-10-26T01:16:16.868Z","i":133,"from":"server","text":"beta was burnt to a crisp whilst fighting Blaze"}
+{"t":"2026-10-26T01:16:25.039Z","i":134,"from":"chat","text":"<gamma> gamma safely reached Fortress Workshop / Advance Tunnel (44, 65, -140)! Ready to breach mountain with Beta."}
+{"t":"2026-10-26T01:17:06.308Z","i":135,"from":"chat","text":"<gamma> gamma plugged floor gap at (44, 64, -141) with soul_sand! Bridge floor is 100% continuous."}
+{"t":"2026-10-26T01:17:20.765Z","i":136,"from":"chat","text":"<delta> delta: Crafting stone tools and mining 30 cobblestone for Nether spawner battlements..."}
+{"t":"2026-10-26T01:18:16.973Z","i":137,"from":"chat","text":"<delta> delta: Advancing along covered East Ridge tunnel to mountain breach (44, 65, -149)..."}
+{"t":"2026-10-26T01:18:23.035Z","i":138,"from":"chat","text":"<beta> beta: Re-armed (birch_logx3, dirtx1)! Ready to enter Nether portal with shield & tools."}
+{"t":"2026-10-26T01:18:32.194Z","i":139,"from":"chat","text":"<gamma> gamma stocked 1 netherrack!"}
+{"t":"2026-10-26T01:18:58.492Z","i":140,"from":"chat","text":"<gamma> gamma fortified bridge and reached (44, 65, -150)! HP: 20/20."}
+{"t":"2026-10-26T01:18:59.827Z","i":141,"from":"chat","text":"<delta> delta: Inside mountain breach! Staircasing UP into overhead ceiling rock (y=72) towards Blaze Spawner..."}
+{"t":"2026-10-26T01:19:02.477Z","i":142,"from":"chat","text":"<alpha> team: Alpha armed & transited into the Nether at (40, 65, -7)! Tools: {\"wooden_pickaxe\":\"93%\",\"stone_pickaxe\":\"99%\"}, Cobble: 0. Sprinting to Blaze Spawner!"}
+{"t":"2026-10-26T01:19:15.988Z","i":143,"from":"chat","text":"<delta> delta: At high ceiling (y=72)! Tunneling through solid ceiling rock North towards Blaze Spawner (32, 68, -190)..."}
+{"t":"2026-10-26T01:19:18.577Z","i":144,"from":"server","text":"delta was fireballed by Blaze"}
+{"t":"2026-10-26T01:19:39.584Z","i":145,"from":"server","text":"gamma was shot by Piglin"}
+{"t":"2026-10-26T01:19:58.827Z","i":146,"from":"chat","text":"<gamma> gamma safely retreated to Fortress Workshop bunker at (288, 64, -60)! HP: 20.0/20."}
+{"t":"2026-10-26T01:20:17.272Z","i":147,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-26T01:20:24.975Z","i":148,"from":"chat","text":"<beta> beta: In the Nether with (stone_pickaxex1, wooden_pickaxex1, dirtx5, cobblestonex13, birch_planksx7)! Advancing along continuous bridge to join team at Blaze Spawner!"}
+{"t":"2026-10-26T01:20:25.075Z","i":149,"from":"chat","text":"<alpha> team: Alpha armed (stone_sword & pickaxe) and transited into Nether at (40, 65, -7)! Sprinting through covered tunnel to Fortress & Blaze Spawner!"}
+{"t":"2026-10-26T01:20:25.935Z","i":150,"from":"chat","text":"<gamma> gamma safely inside base at (295, 72, -53)."}
+{"t":"2026-10-26T01:20:38.489Z","i":151,"from":"chat","text":"<delta> delta: High-ceiling mountain tunnel reached at (149, 61, -130)! Only 132.4m from Blaze Spawner from above!"}
+{"t":"2026-10-26T01:20:44.674Z","i":152,"from":"chat","text":"<alpha> team: Alpha advancing along 100% fortified bridge trail to join Beta, Gamma, and Delta at Blaze Spawner!"}
+{"t":"2026-10-26T01:20:57.504Z","i":153,"from":"chat","text":"<delta> delta: Sprinting to Base Camp to craft SHIELD for 100% projectile immunity..."}
+{"t":"2026-10-26T01:21:29.479Z","i":154,"from":"chat","text":"<alpha> team: Alpha arrived at Blaze Spawner front (44, 65, -159)! Distance to spawner: 34.0m. Ready to farm Blaze Rods!"}
+{"t":"2026-10-26T01:21:48.176Z","i":155,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-26T01:21:53.770Z","i":156,"from":"chat","text":"<alpha> team: Alpha advancing mountain tunnel directly towards Blaze Spawner at (32, 68, -190)!"}
+{"t":"2026-10-26T01:21:59.636Z","i":157,"from":"chat","text":"<alpha> team: Alpha reached Blaze Spawner perimeter (44, 65, -161)! Only 32.2m to Spawner (32, 68, -190)! Building battlements box!"}
+{"t":"2026-10-26T01:22:08.181Z","i":158,"from":"chat","text":"<beta> beta: In Nether at (40, 65, -7) armed with stone sword & pickaxe! Advancing to join Alpha & Delta at Blaze Spawner."}
+{"t":"2026-10-26T01:22:25.726Z","i":159,"from":"server","text":"alpha was fireballed by Blaze"}
+{"t":"2026-10-26T01:22:35.070Z","i":160,"from":"chat","text":"<alpha> team: Alpha bridging solid floor along x=44 towards Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-26T01:22:35.070Z","i":161,"from":"chat","text":"<alpha> team: Alpha bridged to (295, 72, -56)! Only 295.9m to Blaze Spawner (32, 68, -190)!"}
+{"t":"2026-10-26T01:23:00.865Z","i":162,"from":"chat","text":"<delta> delta: Inside Base Camp! Bed spawn point locked."}
+{"t":"2026-10-26T01:23:00.865Z","i":163,"from":"chat","text":"<delta> delta: Obtaining SHIELD (1 iron ingot + 6 planks) for complete Blaze fireball immunity..."}
+{"t":"2026-10-26T01:23:20.179Z","i":164,"from":"chat","text":"<beta> beta: At battlements box ((44, 65, -159))! Inv: (). Ready to farm Blaze Rods at Spawner (32, 68, -190)!"}
+{"t":"2026-10-26T01:23:24.025Z","i":165,"from":"chat","text":"<gamma> gamma armed with stone sword & pickaxe, heading into Nether portal!"}
+{"t":"2026-10-26T01:23:34.122Z","i":166,"from":"chat","text":"<gamma> gamma in Nether bunker (40, 64, -6)! Sprinting through covered tunnel to Fortress Workshop."}
+{"t":"2026-10-26T01:23:41.671Z","i":167,"from":"server","text":"beta was fireballed by Blaze"}
+{"t":"2026-10-26T01:23:41.931Z","i":168,"from":"chat","text":"<beta> beta: Bridge floor secured at (295, 72, -56)! Blazes in range: 0. Ready to farm!"}
+{"t":"2026-10-26T01:24:24.119Z","i":169,"from":"chat","text":"<delta> delta: Armed with SHIELD, stone sword, pickaxe, and 0 cobble! Invincible to Blaze fireballs. Ready for Nether!"}
+{"t":"2026-10-26T01:24:26.319Z","i":170,"from":"chat","text":"<gamma> gamma reached Fortress Workshop at (46, 65, -140)!"}
+{"t":"2026-10-26T01:24:29.018Z","i":171,"from":"server","text":"gamma was slain by Piglin"}
+{"t":"2026-10-26T01:24:47.923Z","i":172,"from":"chat","text":"<delta> delta: Mining 32 cobblestone to build covered bridge to Blaze Spawner..."}
+{"t":"2026-10-26T01:25:09.619Z","i":173,"from":"chat","text":"<alpha> team: Alpha shield outfitting complete! Offhand=undefined, Shield=false, Sword=false, Cobble=7. 100% immune to Blaze fireballs!"}
+{"t":"2026-10-26T01:25:24.091Z","i":174,"from":"chat","text":"<gamma> gamma recovered items! Inv: {\"stick\":10,\"birch_sapling\":6,\"birch_log\":2}. HP: 20/20."}
+{"t":"2026-10-26T01:25:31.878Z","i":175,"from":"chat","text":"<delta> delta: Inside Nether portal frame! Transiting now with stone tools and 32 cobblestone..."}
+{"t":"2026-10-26T01:25:36.062Z","i":176,"from":"chat","text":"<delta> delta: Arrived in Nether at (299, 73, -54)! Advancing through covered tunnel to mountain breach (44, 65, -159)."}
+{"t":"2026-10-26T01:25:59.577Z","i":177,"from":"chat","text":"<alpha> team: Alpha armed at base! Tools: {\"stone_pickaxe\":\"100%\",\"wooden_pickaxe\":\"81%\",\"stone_sword\":\"100%\"}, Cobble: 2. Ready to march to Blaze Spawner with Delta!"}
+{"t":"2026-10-26T01:26:08.728Z","i":178,"from":"chat","text":"<beta> beta: Re-armed (oak_logx3, applex1, dirtx2) and entering Nether to fortify Blaze Spawner approach!"}
+{"t":"2026-10-26T01:26:21.609Z","i":179,"from":"chat","text":"<delta> delta: Safely stationed at mountain tunnel front (44, 65, -157)! Distance: 35.9m. Cobblestone=33. Ready to seal spawner box!"}
+{"t":"2026-10-26T01:26:29.321Z","i":180,"from":"chat","text":"<gamma> gamma armed with stone tools & 13 cobble inside base! Ready for team night sleep."}
+{"t":"2026-10-26T01:26:46.298Z","i":181,"from":"chat","text":"<delta> delta: Inside rock tunnel at z=-159! Building 100% enclosed blast-proof cobblestone corridor towards Blaze Spawner..."}
+{"t":"2026-10-26T01:26:47.299Z","i":182,"from":"chat","text":"<delta> delta: Enclosed blast-proof corridor advanced to (44, 65, -163)! Distance to Spawner: 30.4m. Cobble remaining: 32. 100% covered!"}
+{"t":"2026-10-26T01:26:49.771Z","i":183,"from":"chat","text":"<gamma> Gamma inside base with Alpha! Waiting to sleep at 12542 to skip night."}
+{"t":"2026-10-26T01:27:00.222Z","i":184,"from":"chat","text":"<gamma> Gamma slept in bed! Dawn reached."}
+{"t":"2026-10-26T01:27:08.974Z","i":185,"from":"chat","text":"<alpha> team: Alpha entered the Nether at (40, 65, -7)! Sprinting through covered bridge trail to join Delta at mountain breach (44, 65, -159)!"}
+{"t":"2026-10-26T01:27:16.073Z","i":186,"from":"chat","text":"<gamma> gamma arrived in Nether bunker (40, 64, -6)! Sprinting through covered tunnel to Delta & Alpha at (44, 65, -157)."}
+{"t":"2026-10-26T01:27:17.023Z","i":187,"from":"server","text":"beta went up in flames"}
+{"t":"2026-10-26T01:27:46.719Z","i":188,"from":"chat","text":"<beta> beta: Safe in base! Geared: (). Ready to mine stone at dawn and enter Nether!"}
+{"t":"2026-10-26T01:27:52.869Z","i":189,"from":"chat","text":"<alpha> team: Alpha arrived at Blaze Spawner front (44, 65, -157) with stone sword & pickaxe! Partnering with Delta (32 cobble) to farm Blaze Rods!"}
+{"t":"2026-10-26T01:28:09.828Z","i":190,"from":"chat","text":"<gamma> gamma joined Delta at Blaze battlements front (44, 65, -155)! United to farm Blaze Rods!"}
+{"t":"2026-10-26T01:28:21.300Z","i":191,"from":"chat","text":"<beta> beta: In Nether at (40, 65, -7)! Advancing along covered ridge to Delta at (44, 65, -163)."}
+{"t":"2026-10-26T01:28:28.835Z","i":192,"from":"chat","text":"<gamma> gamma joined Delta & Alpha at corridor front (44, 65, -163)! HP: 11.7/20. Blaze rods in inv: 0"}
+{"t":"2026-10-26T01:28:34.698Z","i":193,"from":"chat","text":"<alpha> team: Alpha & Delta advancing enclosed blast-proof walkway to Blaze Spawner at (32, 68, -190)!"}
+{"t":"2026-10-26T01:28:42.658Z","i":194,"from":"chat","text":"<alpha> team: Alpha at Blaze Spawner perimeter (44, 65, -161)! Dist: 31.8m, Blaze Rods: 0. Slashing Blazes!"}
+{"t":"2026-10-26T01:28:57.319Z","i":195,"from":"server","text":"beta tried to swim in lava to escape Hoglin"}
+{"t":"2026-10-26T01:29:06.059Z","i":196,"from":"chat","text":"<gamma> gamma bridging solid cobblestone walkway North along x=44 towards Blaze Spawner..."}
+{"t":"2026-10-26T01:29:06.862Z","i":197,"from":"chat","text":"<gamma> gamma bridge advanced to (44, 64, -165)! Cobble remaining: 11"}
+{"t":"2026-10-26T01:29:08.170Z","i":198,"from":"chat","text":"<gamma> gamma bridge advanced to (44, 64, -168)! Cobble remaining: 8"}
+{"t":"2026-10-26T01:29:09.470Z","i":199,"from":"chat","text":"<gamma> gamma bridge advanced to (44, 64, -171)! Cobble remaining: 5"}
+{"t":"2026-10-26T01:29:10.770Z","i":200,"from":"chat","text":"<gamma> gamma bridge advanced to (44, 64, -174)! Cobble remaining: 2"}
+{"t":"2026-10-26T01:29:10.770Z","i":201,"from":"chat","text":"<gamma> gamma walkway extended to (44, 65, -174)! Only ~21.0m from Blaze Spawner."}
+{"t":"2026-10-26T01:29:49.921Z","i":202,"from":"chat","text":"<gamma> gamma bridge advanced to (44, 64, -176)! Only 12m to Spawner platform."}
+{"t":"2026-10-26T01:29:50.773Z","i":203,"from":"chat","text":"<gamma> gamma bridge advanced to (44, 64, -178)! Only 10m to Spawner platform."}
+{"t":"2026-10-26T01:29:50.774Z","i":204,"from":"chat","text":"<gamma> gamma walkway extended to (44, 65, -178)! Only ~18.1m from Blaze Spawner!"}
+{"t":"2026-10-26T01:29:53.638Z","i":205,"from":"chat","text":"<alpha> team: Alpha advancing diagonal walkway directly to Blaze Spawner at (32, 68, -190)!"}
+{"t":"2026-10-26T01:30:04.842Z","i":206,"from":"chat","text":"<alpha> team: Alpha at Blaze Spawner balcony (43, 64, -179)! Dist: 16.6m, Blaze Rods: 0!"}
+{"t":"2026-10-26T01:30:05.720Z","i":207,"from":"server","text":"alpha has made the advancement [A Terrible Fortress]"}
+{"t":"2026-10-26T01:30:44.361Z","i":208,"from":"chat","text":"<alpha> team: Alpha unlocked [A Terrible Fortress] at (43, 53, -179)! Only 21.8m from Blaze Spawner!"}
+{"t":"2026-10-26T01:30:46.870Z","i":209,"from":"server","text":"delta was doomed to fall"}
+{"t":"2026-10-26T01:30:56.021Z","i":210,"from":"server","text":"gamma has made the advancement [A Terrible Fortress]"}
+{"t":"2026-10-26T01:30:56.470Z","i":211,"from":"server","text":"gamma was burnt to a crisp whilst fighting Blaze"}
+{"t":"2026-10-26T01:31:06.771Z","i":212,"from":"server","text":"alpha was burnt to a crisp whilst fighting Blaze"}
+{"t":"2026-10-26T01:31:12.140Z","i":213,"from":"chat","text":"<beta> beta: Sprinting East from spawn to Base Camp..."}
+{"t":"2026-10-26T01:31:16.654Z","i":214,"from":"chat","text":"<alpha> team: Alpha advancing through roofed fortress corridor directly under Blaze Spawner to (32, 53, -190)!"}
+{"t":"2026-10-26T01:31:22.419Z","i":215,"from":"chat","text":"<gamma> gamma at (295, 72, -56) with 0.2 HP! Fortress deck reached!"}
+{"t":"2026-10-26T01:32:39.174Z","i":216,"from":"chat","text":"<alpha> team: Alpha stationed directly under Blaze Spawner at (133, 61, -149)! Vertical distance: 110.4m. 100% blast-proof overhead cover!"}
+{"t":"2026-10-26T01:32:53.785Z","i":217,"from":"chat","text":"<alpha> team: Alpha sprinting to Base Camp from spawn to re-arm with team!"}
+{"t":"2026-10-26T01:33:20.293Z","i":218,"from":"chat","text":"<beta> beta: In Nether at (299, 73, -54)! Rushing to join Alpha & Gamma at Blaze Spawner balcony (43, 64, -179)."}
+{"t":"2026-10-26T01:34:05.633Z","i":219,"from":"chat","text":"<alpha> team: Alpha safely in Base Camp at (224, 62, -96)! HP: 20, Food: 20."}
+{"t":"2026-10-26T01:34:10.470Z","i":220,"from":"chat","text":"<beta> beta: UNITED AT BLAZE SPAWNER BALCONY ((44, 65, -178))! Blaze Rods: 0, Inv: (). Slashing Blazes with Alpha & Gamma!"}
+{"t":"2026-10-26T01:34:37.769Z","i":221,"from":"server","text":"beta was fireballed by Blaze"}
+{"t":"2026-10-26T01:34:39.702Z","i":222,"from":"chat","text":"<alpha> team: Alpha inside Base Camp! HP: 20, Food: 20. Ready to gear up!"}
+{"t":"2026-10-26T01:35:04.230Z","i":223,"from":"chat","text":"<gamma> gamma re-armed: stone tools crafted, cobblestone x0, wood x0"}
+{"t":"2026-10-26T01:35:26.810Z","i":224,"from":"chat","text":"<alpha> team: Alpha armed & transited into Nether at (40, 65, -7)! Tools: {}, Cobble: 0. Sprinting to Blaze Spawner with battlements!"}
+{"t":"2026-10-26T01:35:46.334Z","i":225,"from":"chat","text":"<alpha> team: Alpha sprinting through 100% covered tunnel to recover gear and join spawner assault!"}
+{"t":"2026-10-26T01:36:01.276Z","i":226,"from":"chat","text":"<delta> delta: Fully geared with stone swords & 19 cobblestone! Entering Nether!"}
+{"t":"2026-10-26T01:36:32.969Z","i":227,"from":"chat","text":"<alpha> team: Alpha at spawner front (44, 65, -173)! Dist: 21.5m. Tools: {}, Cobble: 0. Ready to farm Blazes!"}
+{"t":"2026-10-26T01:36:47.432Z","i":228,"from":"chat","text":"<alpha> team: Alpha at (44, 65, -172)! HP: 4, Tools: {}, Dist to Spawner: 21.6m. Sheltered inside covered tunnel!"}
+{"t":"2026-10-26T01:37:11.709Z","i":229,"from":"chat","text":"<delta> delta: Stepping into Nether portal block at (299, 73, -54)!"}
+{"t":"2026-10-26T01:37:15.981Z","i":230,"from":"chat","text":"<alpha> delta: Alpha is stationed at the end of the covered tunnel (44, 65, -172)! Ready to receive tools & build spawner box!"}
+{"t":"2026-10-26T01:37:27.985Z","i":231,"from":"chat","text":"<delta> delta: Successfully entered the Nether at (41, 65, -7)!"}
+{"t":"2026-10-26T01:37:45.989Z","i":232,"from":"chat","text":"<alpha> team: Alpha status: HP 4/20, Tools: {}, Blaze Rods: 0, Dist to Spawner: 21.6m!"}
+{"t":"2026-10-26T01:37:46.689Z","i":233,"from":"chat","text":"<delta> delta: Sprinting through covered East Ridge tunnel to Alpha at (44, 65, -172)!"}
+{"t":"2026-10-26T01:37:58.708Z","i":234,"from":"chat","text":"<gamma> gamma sleeping in base bed to skip night! Beta sleep too!"}
+{"t":"2026-10-26T01:38:13.213Z","i":235,"from":"chat","text":"<alpha> delta: Alpha waiting at covered tunnel head (44, 65, -172)! Toss stone sword when you arrive!"}
+{"t":"2026-10-26T01:38:19.892Z","i":236,"from":"chat","text":"<beta> beta: Marching through covered East Ridge to join Alpha & Delta at Spawner Front (44, 64, -172)!"}
+{"t":"2026-10-26T01:38:28.371Z","i":237,"from":"server","text":"alpha was burnt to a crisp whilst fighting Blaze"}
+{"t":"2026-10-26T01:38:37.719Z","i":238,"from":"chat","text":"<delta> delta: Stationed at Spawner front (44, 65, -170) with 12 cobble! Ready to build!"}
+{"t":"2026-10-26T01:38:45.471Z","i":239,"from":"server","text":"delta was fireballed by Blaze"}
+{"t":"2026-10-26T01:38:46.228Z","i":240,"from":"chat","text":"<alpha> team: Delta & Alpha united at tunnel front (44, 65, -172)!"}
+{"t":"2026-10-26T01:38:47.728Z","i":241,"from":"chat","text":"<alpha> team: Alpha status: HP 20/20, Tools: {}, Blaze Rods: 0, Dist to Spawner: 295.9m!"}
+{"t":"2026-10-26T01:39:06.904Z","i":242,"from":"chat","text":"<beta> beta: At Spawner Front ((44, 65, -171))! Dist: 23.4m, Blaze Rods: 0. Team united!"}
+{"t":"2026-10-26T01:39:30.347Z","i":243,"from":"chat","text":"<gamma> gamma geared: {\"stone_pickaxe\":\"100%\",\"stone_axe\":\"100%\",\"wooden_pickaxe\":\"73%\",\"stone_sword\":\"100%\"}, cobble x8, wood x5"}
+{"t":"2026-10-26T01:40:12.753Z","i":244,"from":"chat","text":"<alpha> team: Alpha armed (stone_sword & pickaxe) with 0 cobblestone! Transited Nether at (40, 65, -7). Sprinting to build spawner battlements box!"}
+{"t":"2026-10-26T01:40:41.724Z","i":245,"from":"chat","text":"<alpha> team: Alpha sprinting through 100% covered tunnel to join Beta, Gamma, and Delta at Blaze Spawner front (44, 65, -171)!"}
+{"t":"2026-10-26T01:41:35.269Z","i":246,"from":"chat","text":"<alpha> team: Alpha united with team at Blaze Spawner front (44, 65, -169)! Dist: 25.2m, Blaze Rods: 0. Ready to farm Blaze Rods!"}
+{"t":"2026-10-26T01:41:52.724Z","i":247,"from":"chat","text":"<alpha> team: Alpha & Beta united at (44, 65, -170)! Gamma & Delta bring cobblestone to enclose spawner at (32, 68, -190)!"}
+{"t":"2026-10-26T01:42:18.675Z","i":248,"from":"server","text":"beta was doomed to fall"}
+{"t":"2026-10-26T01:42:24.577Z","i":249,"from":"chat","text":"<alpha> team: Alpha mining netherrack from East mountain wall to build West protective blast wall at x=43!"}
+{"t":"2026-10-26T01:42:27.256Z","i":250,"from":"chat","text":"<alpha> team: Alpha fortified West blast wall to (44, 65, -174)! Dist to Spawner: 20.9m. Blaze line-of-sight is blocked!"}
+{"t":"2026-10-26T01:42:38.382Z","i":251,"from":"chat","text":"<alpha> team: Alpha safely at (44, 65, -173.5)! Floor ends at z=-174. Gamma bring cobble to bridge forward!"}
+{"t":"2026-10-26T01:42:42.318Z","i":252,"from":"server","text":"alpha was burnt to a crisp whilst fighting Blaze"}
+{"t":"2026-10-26T01:43:00.213Z","i":253,"from":"chat","text":"<delta> delta: Re-armed with stone swords & 31 cobble! Stepping into Nether portal!"}
+{"t":"2026-10-26T01:43:38.173Z","i":254,"from":"chat","text":"<gamma> gamma at base: HP 18/20, Food 10/20, cobble x38, ready for Nether bridge"}
+{"t":"2026-10-26T01:43:41.779Z","i":255,"from":"chat","text":"<delta> delta: In Nether at (40, 65, -7) with 31 cobble & stone swords! Sprinting through covered tunnel!"}
+{"t":"2026-10-26T01:44:26.287Z","i":256,"from":"chat","text":"<delta> delta: Stationed safely inside mountain cover at (44, 65, -159)! Inspecting corridor ahead..."}
+{"t":"2026-10-26T01:44:35.869Z","i":257,"from":"server","text":"delta was fireballed by Blaze"}
+{"t":"2026-10-26T01:45:16.789Z","i":258,"from":"chat","text":"<gamma> gamma arrived in Nether at (40, 65, -5)! 38 cobble & stone gear ready to bridge to spawner!"}
+{"t":"2026-10-26T01:45:40.949Z","i":259,"from":"chat","text":"<gamma> gamma marching along Safe East Ridge to Fortress Front at (44, 65, -170) with 38 cobble!"}
+{"t":"2026-10-26T01:45:47.662Z","i":260,"from":"server","text":"gamma went up in flames"}
+{"t":"2026-10-26T01:45:55.117Z","i":261,"from":"chat","text":"<delta> delta: Obtaining a shield to block 100% of Blaze fireballs!"}
+{"t":"2026-10-26T01:46:14.685Z","i":262,"from":"chat","text":"<beta> beta: Re-armed with stone tools & 29 cobble! In the_nether at (299, 73, -54). Sprinting to spawner front!"}
+{"t":"2026-10-26T01:47:05.552Z","i":263,"from":"server","text":"beta was shot by Skeleton"}
+{"t":"2026-10-26T01:47:41.204Z","i":264,"from":"chat","text":"<gamma> gamma at (112, 61, -51) with 38 cobble! Ready to bridge floor to mountain!"}
+{"t":"2026-10-26T01:48:11.972Z","i":265,"from":"chat","text":"<beta> beta: Safely arrived at Fortress Bunker ((153, 61, -31))! HP: 20.0, Cobblestone: 0. Ready to advance to Spawner!"}
+{"t":"2026-10-26T01:49:24.280Z","i":266,"from":"chat","text":"<delta> delta: Armed with shield (offhand), stone gear, and 21 cobblestone! Entering Nether!"}
+{"t":"2026-10-26T01:49:37.292Z","i":267,"from":"chat","text":"<delta> delta: Smelting iron for a shield!"}
+{"t":"2026-10-26T01:49:42.676Z","i":268,"from":"chat","text":"<beta> beta: Safely inside Base shelter ((255, 62, -49))! Spawn set."}
+{"t":"2026-10-26T01:49:50.527Z","i":269,"from":"chat","text":"<delta> delta: Shield crafted! 100% Blaze fireball immunity achieved!"}
+{"t":"2026-10-26T01:49:58.287Z","i":270,"from":"chat","text":"<delta> delta: Re-entered Nether at (41, 65, -7) with shield equipped in offhand!"}
+{"t":"2026-10-26T01:50:04.061Z","i":271,"from":"chat","text":"<beta> beta: Inside Base at ((295, 72, -53))! Spawn locked at bed. Re-arming for Nether assault!"}
+{"t":"2026-10-26T01:50:23.829Z","i":272,"from":"chat","text":"<delta> delta: Shield in offhand & stone sword ready! Sprinting through covered East Ridge to fortress!"}
+{"t":"2026-10-26T01:50:51.769Z","i":273,"from":"server","text":"delta was shot by Skeleton"}
+{"t":"2026-10-26T01:52:21.478Z","i":274,"from":"chat","text":"<alpha> alpha: Armed with shield (offhand), stone gear, and 28 cobble! Sprinting to Spawner front!"}
+{"t":"2026-10-26T01:52:41.882Z","i":275,"from":"chat","text":"<delta> delta: Sprinting East from world spawn to base camp at (294, 72, -55)!"}
+{"t":"2026-10-26T01:52:42.483Z","i":276,"from":"chat","text":"<delta> delta: Baffle wall secured at (44, 65..66, -160)! Line-of-sight blocked! Cobble in inv: 0. Ready to bridge!"}
+{"t":"2026-10-26T01:52:52.161Z","i":277,"from":"chat","text":"<gamma> gamma armed: SHIELD in offhand, stone sword & pickaxe, cobble x0! Ready for Nether!"}
+{"t":"2026-10-26T01:53:42.522Z","i":278,"from":"chat","text":"<alpha> alpha: Arrived at frontline (44, 65, -157) with 66 cobble & stone swords!"}
+{"t":"2026-10-26T01:54:13.371Z","i":279,"from":"server","text":"alpha was fireballed by Blaze"}
+{"t":"2026-10-26T01:54:29.403Z","i":280,"from":"chat","text":"<delta> delta: Completing sprint to base shelter at (294, 72, -54)..."}
+{"t":"2026-10-26T01:55:22.489Z","i":281,"from":"chat","text":"<beta> beta: In the_nether at (40, 65, -7)! Cobblestone: 0, Gear: stone sword & pickaxe. Sprinting to Spawner front!"}
+{"t":"2026-10-26T01:55:43.835Z","i":282,"from":"chat","text":"<delta> delta: Spawn permanently locked at base bed! Never returning to world spawn."}
+{"t":"2026-10-26T01:55:51.031Z","i":283,"from":"chat","text":"<beta> beta: Sprinting through covered Nether ridge to recover gear and reinforce Spawner front at (44, 65, -160)!"}
+{"t":"2026-10-26T01:55:59.597Z","i":284,"from":"chat","text":"<delta> delta: Spawn permanently locked at base bed! Never returning to world spawn."}
+{"t":"2026-10-26T01:56:02.372Z","i":285,"from":"chat","text":"<gamma> gamma armed: SHIELD in offhand, dirt in mainhand! Stepping into Nether portal."}
+{"t":"2026-10-26T01:56:02.372Z","i":286,"from":"chat","text":"<gamma> gamma geared: SHIELD in offhand, stone sword & pickaxe, cobble x19! Ready for Nether!"}
+{"t":"2026-10-26T01:56:25.024Z","i":287,"from":"chat","text":"<gamma> gamma geared: SHIELD in offhand, undefined in mainhand, cobble x19! Entering Nether portal."}
+{"t":"2026-10-26T01:56:48.118Z","i":288,"from":"server","text":"beta burned to death"}
+{"t":"2026-10-26T01:57:15.044Z","i":289,"from":"chat","text":"<delta> delta: Geared with stone tools & 0 cobble! Spawn locked. Entering Nether!"}
+{"t":"2026-10-26T01:57:21.243Z","i":290,"from":"chat","text":"<alpha> alpha: In Nether with SHIELD in offhand! Sprinting to z=-158 to recover 97 cobble and seal West blast wall!"}
+{"t":"2026-10-26T01:57:30.944Z","i":291,"from":"chat","text":"<gamma> gamma fully armed: SHIELD in offhand, dirt in mainhand, cobble x19! Entering Nether portal."}
+{"t":"2026-10-26T01:57:35.021Z","i":292,"from":"server","text":"alpha burned to death"}
+{"t":"2026-10-26T01:57:44.367Z","i":293,"from":"chat","text":"<beta> beta: At frontline ((170, 61, -43))! Shield: 0, Building Blocks: 0, HP: 20.0. Behind baffle wall, ready to breach Spawner!"}
+{"t":"2026-10-26T01:58:18.149Z","i":294,"from":"chat","text":"<gamma> gamma arrived in Nether with SHIELD in offhand and 19 cobble! Advancing to Spawner!"}
+{"t":"2026-10-26T01:58:27.870Z","i":295,"from":"server","text":"gamma was burnt to a crisp whilst fighting Ghast"}
+{"t":"2026-10-26T01:58:36.725Z","i":296,"from":"chat","text":"<delta> delta: Geared with stone tools & 1 cobble! Entering Nether!"}
+{"t":"2026-10-26T01:58:39.941Z","i":297,"from":"chat","text":"<beta> beta: At Base ((295, 72, -54))! Spawn locked. Gearing up for Nether push."}
+{"t":"2026-10-26T01:59:11.122Z","i":298,"from":"chat","text":"<alpha> alpha: Frontline fortified! West blast wall secured at z=-158..-160! Holding 0 cobble!"}
+{"t":"2026-10-26T01:59:30.520Z","i":299,"from":"server","text":"beta burned to death"}
+{"t":"2026-10-26T01:59:36.812Z","i":300,"from":"chat","text":"<alpha> alpha: Sprinting East from world spawn to base camp at (294, 72, -55)!"}
+{"t":"2026-10-26T01:59:53.002Z","i":301,"from":"chat","text":"<gamma> gamma sleeping in base bed to skip night! Team sleep too!"}
+{"t":"2026-10-26T02:00:03.468Z","i":302,"from":"chat","text":"<delta> delta: Armed with stone swords & 21 cobble! Entering Nether!"}
+{"t":"2026-10-26T02:00:25.757Z","i":303,"from":"chat","text":"<beta> beta: Cleared soul fire on East Ridge trail! Inv: . Marching forward!"}
+{"t":"2026-10-26T02:00:30.376Z","i":304,"from":"chat","text":"<gamma> gamma base resupply: cobble x11, wood x0, HP 20/20"}
+{"t":"2026-10-26T02:01:25.847Z","i":305,"from":"chat","text":"<alpha> alpha: Spawn permanently locked at base bed! Never returning to world spawn."}
+{"t":"2026-10-26T02:01:30.587Z","i":306,"from":"chat","text":"<delta> delta: In Nether at (40, 65, -7) with 2 stone swords & 21 cobble! Sprinting through covered tunnel!"}
+{"t":"2026-10-26T02:01:36.932Z","i":307,"from":"chat","text":"<gamma> gamma geared: cobblestone in hand, cobble x11! Sprinting to Nether portal."}
+{"t":"2026-10-26T02:01:43.070Z","i":308,"from":"server","text":"delta burned to death"}
+{"t":"2026-10-26T02:03:29.430Z","i":309,"from":"chat","text":"<delta> delta: Stationed at frontline (77, 61, -15) with 0 cobble & stone swords! Ready to bridge to Spawner Balcony!"}
+{"t":"2026-10-26T02:03:48.784Z","i":310,"from":"chat","text":"<delta> delta: Sprinting East across Overworld to base shelter at (294, 72, -54)..."}
+{"t":"2026-10-26T02:04:25.658Z","i":311,"from":"chat","text":"<gamma> gamma arrived in Nether bunker at (40, 65, -7)! Armed with stone sword & cobble x9. Ready to march!"}
+{"t":"2026-10-26T02:05:07.861Z","i":312,"from":"chat","text":"<alpha> alpha: In Nether armed with stone sword and 14 cobble! Advancing to Spawner Front!"}
+{"t":"2026-10-26T02:05:28.094Z","i":313,"from":"chat","text":"<beta> beta: Re-armed with stone tools & 0 cobble! In the_nether at (40, 65, -7). Preparing Nether trail!"}
+{"t":"2026-10-26T02:05:31.391Z","i":314,"from":"chat","text":"<delta> delta: Spawn locked at base bed 2 ((294, 72, -56))!"}
+{"t":"2026-10-26T02:05:36.813Z","i":315,"from":"chat","text":"<gamma> gamma marching along Safe East Ridge to Fortress Front with SHIELD and 62 building blocks!"}
+{"t":"2026-10-26T02:05:36.871Z","i":316,"from":"chat","text":"<gamma> gamma reached WP1 at (63, 65, -3)! HP 5.666666030883789/20, advancing along East Ridge."}
+{"t":"2026-10-26T02:05:48.660Z","i":317,"from":"chat","text":"<delta> delta: Spawn permanently locked at base Bed 2 ((294, 72, -56))!"}
+{"t":"2026-10-26T02:05:52.936Z","i":318,"from":"server","text":"gamma went up in flames"}
+{"t":"2026-10-26T02:06:14.944Z","i":319,"from":"chat","text":"<beta> beta: Marching along covered East Ridge to reinforce Spawner frontline at (44, 65, -160)!"}
+{"t":"2026-10-26T02:06:27.023Z","i":320,"from":"chat","text":"<alpha> alpha: Frontline West blast wall & north baffle 100% sealed at z=-156..-160! Corridor secure! Cobble: 77"}
+{"t":"2026-10-26T02:06:46.134Z","i":321,"from":"chat","text":"<alpha> alpha: Enclosed corridor complete from z=-157 to z=-160! Holding 64 cobble!"}
+{"t":"2026-10-26T02:07:01.210Z","i":322,"from":"chat","text":"<beta> beta: United at frontline ((44, 65, -159))! Shield: 0, Building Blocks: 0. Ready to bridge Spawner at (32, 68, -190)!"}
+{"t":"2026-10-26T02:07:05.561Z","i":323,"from":"chat","text":"<delta> delta: Armed with stone tools & 0 cobble! Stepping into Nether portal!"}
+{"t":"2026-10-26T02:08:03.148Z","i":324,"from":"chat","text":"<alpha> alpha: Walkway West blast wall complete to mountain rock at z=-169! Corridor 100% secure! Cobble: 40"}
+{"t":"2026-10-26T02:08:07.296Z","i":325,"from":"chat","text":"<gamma> gamma at (58, 62, -162)! Shield in offhand, 60+ blocks. Only 39.5m to Blaze Spawner!"}
+{"t":"2026-10-26T02:08:24.826Z","i":326,"from":"chat","text":"<delta> delta: Armed with stone sword & pickaxe! Stepping into Nether portal!"}
+{"t":"2026-10-26T02:08:33.569Z","i":327,"from":"server","text":"gamma drowned"}
+{"t":"2026-10-26T02:08:40.674Z","i":328,"from":"chat","text":"<alpha> alpha: Bridgehead reached at (44, 65, -173)! West wall secured to z=-175! Cobble: 25"}
+{"t":"2026-10-26T02:09:02.784Z","i":329,"from":"chat","text":"<delta> delta: Inside Nether portal frame! Transiting to Nether..."}
+{"t":"2026-10-26T02:09:06.286Z","i":330,"from":"chat","text":"<delta> delta: Arrived in Nether at (40, 65, -7)! Sprinting through covered tunnel to join Alpha!"}
+{"t":"2026-10-26T02:09:12.381Z","i":331,"from":"chat","text":"<alpha> alpha: Bridging forward to Spawner Balcony! Distance: 9.0m! Cobble: 25"}
+{"t":"2026-10-26T02:09:15.270Z","i":332,"from":"server","text":"delta went up in flames"}
+{"t":"2026-10-26T02:09:22.805Z","i":333,"from":"chat","text":"<gamma> gamma in Nether! Marching along strict East Ridge (x=62.5) to Fortress front!"}
+{"t":"2026-10-26T02:09:41.385Z","i":334,"from":"server","text":"alpha tried to swim in lava"}
+{"t":"2026-10-26T02:10:17.072Z","i":335,"from":"chat","text":"<beta> beta: Advancing along bridgehead to Spawner bridge (37, 65, -184)!"}
+{"t":"2026-10-26T02:10:21.270Z","i":336,"from":"chat","text":"<beta> beta: At Spawner Bridge ((38, 65, -176))! Dist: 16.2m, Shield: 0, Blocks: 1, Blaze Rods: 0. Fortifying strike slit!"}
+{"t":"2026-10-26T02:10:23.776Z","i":337,"from":"server","text":"beta was fireballed by Blaze"}
+{"t":"2026-10-26T02:11:05.181Z","i":338,"from":"chat","text":"<delta> delta: United at frontline bunker (98, 61, -27) with Alpha & Beta! Let us bridge to the Spawner Balcony!"}
+{"t":"2026-10-26T02:11:45.369Z","i":339,"from":"chat","text":"<delta> delta: Sprinting East across Overworld to base shelter..."}
+{"t":"2026-10-26T02:11:55.832Z","i":340,"from":"chat","text":"<gamma> gamma united at frontline ((47, 66, -3))! Dist to Spawner: 188.4m. Ready to farm Blaze Rods!"}
+{"t":"2026-10-26T02:12:35.503Z","i":341,"from":"chat","text":"<gamma> gamma geared on East Ridge: SHIELD in offhand, soul_sand in mainhand, cobble x0, soul_sand x5!"}
+{"t":"2026-10-26T02:13:01.558Z","i":342,"from":"chat","text":"<beta> beta: Re-armed with stone tools & 0 cobble! In the_nether at (40, 65, -7). Sprinting to Spawner front!"}
+{"t":"2026-10-26T02:13:12.520Z","i":343,"from":"server","text":"gamma went up in flames"}
+{"t":"2026-10-26T02:13:21.717Z","i":344,"from":"chat","text":"<delta> delta: Spawn locked on base Bed 2 at (294, 72, -56)! Decoupled from Bed 1."}
+{"t":"2026-10-26T02:14:01.835Z","i":345,"from":"chat","text":"<gamma> gamma recovered loot at (56, 68, -2): Offhand: none, Mainhand: none, Inv: {}"}
+{"t":"2026-10-26T02:14:31.612Z","i":346,"from":"chat","text":"<beta> beta: Safely arrived in Nether at (40, 65, -10)! Ready to reinforce team."}
+{"t":"2026-10-26T02:15:17.368Z","i":347,"from":"server","text":"beta burned to death"}
+{"t":"2026-10-26T02:15:23.768Z","i":348,"from":"chat","text":"<beta> beta: Sprinting through covered Nether ridge to Spawner bridgehead at (44, 65, -176)!"}
+{"t":"2026-10-26T02:15:45.897Z","i":349,"from":"chat","text":"<alpha> alpha: Armed with swords and 19 cobble! Advancing along sealed West corridor to Spawner!"}
+{"t":"2026-10-26T02:15:46.029Z","i":350,"from":"chat","text":"<gamma> gamma resupplied: cobble x0, tools: {}! Ready to build safe Nether road."}
+{"t":"2026-10-26T02:16:14.312Z","i":351,"from":"chat","text":"<gamma> gamma geared inside base: {}, cobble x0. Spawn locked on bed."}
+{"t":"2026-10-26T02:16:19.770Z","i":352,"from":"server","text":"alpha was shot by Skeleton"}
+{"t":"2026-10-26T02:16:24.152Z","i":353,"from":"chat","text":"<delta> delta: Armed with stone sword & pickaxe! Stepping into Nether portal!"}
+{"t":"2026-10-26T02:16:55.680Z","i":354,"from":"chat","text":"<gamma> gamma geared: {}, cobble x0! Heading to Nether portal."}
+{"t":"2026-10-26T02:17:02.755Z","i":355,"from":"chat","text":"<beta> beta: United at bridgehead ((107, 62, -30))! Shield: 0, Blocks: 0, Blaze Rods: 0. Dist to Spawner: 177.5m!"}
+{"t":"2026-10-26T02:17:04.308Z","i":356,"from":"chat","text":"<gamma> gamma safely in Nether bunker (40, 65, -7)! Armed with stone gear & 0 cobble. Ready to pave road!"}
+{"t":"2026-10-26T02:17:14.321Z","i":357,"from":"chat","text":"<delta> delta: Inside purple nether_portal block! Waiting for dimension shift..."}
+{"t":"2026-10-26T02:17:36.071Z","i":358,"from":"server","text":"gamma went up in flames"}
+{"t":"2026-10-26T02:17:59.935Z","i":359,"from":"chat","text":"<alpha> alpha: At Spawner bridgehead (117, 62, -57) with 0 cobble & stone swords! Connecting to Balcony!"}
+{"t":"2026-10-26T02:17:59.936Z","i":360,"from":"chat","text":"<alpha> alpha: Frontline bridge extended! Distance to Spawner: 158.8m!"}
+{"t":"2026-10-26T02:18:04.774Z","i":361,"from":"chat","text":"<delta> delta: Feet inside block nether_portal at (299, 73, -54)! Waiting for transit..."}
+{"t":"2026-10-26T02:18:08.852Z","i":362,"from":"chat","text":"<delta> delta: In Nether at (40, 65, -7)! Sprinting strictly along z<=-7 safe route to frontline!"}
+{"t":"2026-10-26T02:18:13.129Z","i":363,"from":"chat","text":"<gamma> gamma at (206, 61, -31) in Nether! HP: 20/20, blocks: 0"}
+{"t":"2026-10-26T02:18:32.258Z","i":364,"from":"chat","text":"<alpha> alpha: Sprinting East from spawn to base camp at (294, 72, -55)!"}
+{"t":"2026-10-26T02:19:41.169Z","i":365,"from":"chat","text":"<gamma> gamma at base, stepping into Nether portal."}
+{"t":"2026-10-26T02:20:06.730Z","i":366,"from":"chat","text":"<delta> delta: United at frontline (47, 65, -3) with team! Ready to storm the Blaze Spawner!"}
+{"t":"2026-10-26T02:20:09.722Z","i":367,"from":"chat","text":"<gamma> gamma in Nether! Marching strictly along z<=-8 safe trail to East Ridge!"}
+{"t":"2026-10-26T02:20:31.318Z","i":368,"from":"server","text":"gamma was shot by Skeleton"}
+{"t":"2026-10-26T02:20:42.230Z","i":369,"from":"chat","text":"<alpha> alpha: In Nether! Rushing to recover dropped gear at z=-21 and reinforce bridgehead!"}
+{"t":"2026-10-26T02:20:44.769Z","i":370,"from":"chat","text":"<delta> delta: Inside covered East Ridge tunnel! Sprinting to frontline bunker at (44, 65, -158)!"}
+{"t":"2026-10-26T02:20:54.818Z","i":371,"from":"server","text":"alpha burned to death"}
+{"t":"2026-10-26T02:21:19.819Z","i":372,"from":"chat","text":"<delta> delta: Reached frontline at (44, 65, -168)! United with team to breach the Blaze Spawner!"}
+{"t":"2026-10-26T02:21:46.240Z","i":373,"from":"chat","text":"<gamma> gamma sleeping in base bed to skip night!"}
+{"t":"2026-10-26T02:21:54.794Z","i":374,"from":"chat","text":"<gamma> gamma ready: unarmed in hand, HP 20/20, cobble x0. Ready for Nether!"}
+{"t":"2026-10-26T02:22:25.207Z","i":375,"from":"chat","text":"<delta> delta: Fortified bridgehead reached! Pos: (39, 65, -176), HP: 3, Cobble: 22!"}
+{"t":"2026-10-26T02:22:29.611Z","i":376,"from":"chat","text":"<gamma> gamma in Nether! Marching along proven safe z<=-8 trail to join Delta at frontline!"}
+{"t":"2026-10-26T02:22:50.369Z","i":377,"from":"server","text":"gamma was shot by Skeleton"}
+{"t":"2026-10-26T02:23:27.468Z","i":378,"from":"server","text":"delta was fireballed by Blaze"}
+{"t":"2026-10-26T02:23:49.040Z","i":379,"from":"chat","text":"<gamma> gamma armed for combat: pickaxe in hand, offhand: empty, cobble x0. Stepping into portal!"}
+{"t":"2026-10-26T02:23:53.869Z","i":380,"from":"chat","text":"<beta> beta: In Nether bunker ((40, 65, -10)) with 0 cobble! Advancing along z<=-8 safe trail to Spawner!"}
+{"t":"2026-10-26T02:25:26.237Z","i":381,"from":"chat","text":"<gamma> gamma armed: stone_sword in hand, cobble x7! Ready for Nether."}
+{"t":"2026-10-26T02:25:45.534Z","i":382,"from":"chat","text":"<beta> beta: Reached frontline at (37, 65, -181) with 1 netherrack and 1 cobble!"}
+{"t":"2026-10-26T02:26:01.373Z","i":383,"from":"chat","text":"<alpha> alpha: In Nether with stone sword and 18 cobble! Sprinting to bridgehead!"}
+{"t":"2026-10-26T02:26:14.172Z","i":384,"from":"server","text":"alpha burned to death"}
+{"t":"2026-10-26T02:26:20.476Z","i":385,"from":"chat","text":"<gamma> gamma in Nether armed with stone sword! Marching along z<=-8 safe trail to join team at Spawner!"}
+{"t":"2026-10-26T02:26:21.673Z","i":386,"from":"chat","text":"<alpha> alpha: United at Spawner Bridgehead (280, 72, -49) with 0 cobble! Ready to breach Spawner!"}
+{"t":"2026-10-26T02:26:42.970Z","i":387,"from":"server","text":"beta was fireballed by Blaze"}
+{"t":"2026-10-26T02:28:43.847Z","i":388,"from":"chat","text":"<gamma> gamma united with team at Spawner bridgehead ((63, 65, -3))! Dist to Spawner: 190.2m. Ready to farm Blaze Rods!"}
+{"t":"2026-10-26T02:30:42.468Z","i":389,"from":"server","text":"delta drowned"}
+{"t":"2026-10-26T02:30:50.191Z","i":390,"from":"chat","text":"<delta> delta: Back in Nether at (40, 65, -7) armed with stone sword & 0 cobble! Joining team at Spawner!"}
+{"t":"2026-10-26T02:31:37.881Z","i":391,"from":"chat","text":"<gamma> gamma marching along Safe East Ridge to Fortress Workshop & Spawner Front!"}
+{"t":"2026-10-26T02:32:04.483Z","i":392,"from":"chat","text":"<gamma> gamma reached Fortress Workshop at (45, 65, -126)! Advancing down covered tunnel."}
+{"t":"2026-10-26T02:32:05.822Z","i":393,"from":"chat","text":"<beta> beta: In Nether bunker with 0 cobble and stone tools! Advancing to Spawner front!"}
+{"t":"2026-10-26T02:32:12.664Z","i":394,"from":"chat","text":"<gamma> gamma at Frontline ((44, 65, -167))! Spawner dist: 26.9m, Blazes: 1, Cobble: 7."}
+{"t":"2026-10-26T02:32:40.543Z","i":395,"from":"chat","text":"<gamma> gamma at (44, 65, -174)! Dist to Spawner: 20.9m, Blazes: 1, Cobble: 7"}
+{"t":"2026-10-26T02:33:04.621Z","i":396,"from":"chat","text":"<beta> beta: At safe frontline staging point ((60, 60, -82)) with 0 netherrack and 0 cobble!"}
+{"t":"2026-10-26T02:33:07.723Z","i":397,"from":"server","text":"beta tried to swim in lava"}
+{"t":"2026-10-26T02:33:14.441Z","i":398,"from":"chat","text":"<gamma> gamma mined 0 netherrack at (44, 65, -173)! Total blocks: 7. Ready to fortify bridge to Spawner!"}
+{"t":"2026-10-26T02:33:21.021Z","i":399,"from":"server","text":"gamma was burnt to a crisp whilst fighting Blaze"}
+{"t":"2026-10-26T02:33:35.533Z","i":400,"from":"chat","text":"<gamma> gamma status: HP 20/20, pos (293, 72, -56), hostiles: 0"}
+{"t":"2026-10-26T02:34:17.768Z","i":401,"from":"server","text":"delta burned to death"}
+{"t":"2026-10-26T02:34:25.787Z","i":402,"from":"chat","text":"<alpha> alpha: Armed with stone sword and 19 cobble! Advancing to Spawner!"}
+{"t":"2026-10-26T02:35:47.381Z","i":403,"from":"chat","text":"<delta> delta: Sprinting East from spawn to base shelter at (294, 72, -54)..."}
+{"t":"2026-10-26T02:35:47.385Z","i":404,"from":"chat","text":"<delta> delta: Arrived at frontline bunker (135, 62, -40) with 0 netherrack!"}
+{"t":"2026-10-26T02:36:05.172Z","i":405,"from":"server","text":"beta went up in flames"}
+{"t":"2026-10-26T02:36:34.776Z","i":406,"from":"chat","text":"<alpha> alpha: At Spawner Bridgehead (47, 65, -3) with 19 cobble! Slaying Blazes!"}
+{"t":"2026-10-26T02:36:50.713Z","i":407,"from":"chat","text":"[Server] [QuotaGuard] Token limit <10% reached. Saving and pausing server..."}
+{"t":"2026-10-26T13:56:51.796Z","i":1,"from":"server","text":"beta joined the game"}
+{"t":"2026-10-26T13:56:51.797Z","i":2,"from":"server","text":"alpha joined the game"}
+{"t":"2026-10-26T13:56:51.798Z","i":3,"from":"server","text":"gamma joined the game"}
+{"t":"2026-10-26T14:08:53.568Z","i":1,"from":"chat","text":"<delta> delta: Sprinting final 86m to base shelter at (294, 72, -54)..."}
+{"t":"2026-10-26T14:08:57.984Z","i":2,"from":"chat","text":"<alpha> alpha: Extinguished 15 soul fire blocks near Nether portal! Trail secured!"}
+{"t":"2026-10-26T14:09:53.624Z","i":3,"from":"chat","text":"<delta> delta: Final sprint 31m to base shelter at (294, 72, -54)..."}
+{"t":"2026-10-26T14:09:53.729Z","i":4,"from":"chat","text":"<delta> delta: Spawn permanently locked at base bed ((294, 72, -56))!"}
+{"t":"2026-10-26T14:10:02.906Z","i":5,"from":"chat","text":"<gamma> gamma armed with stone tools at base. Inventory: {\"birch_planks\":1,\"stick\":1,\"stone_pickaxe\":1,\"cobblestone\":3,\"stone_axe\":1,\"wooden_pickaxe\":1,\"stone_sword\":1,\"dirt\":1}"}
+{"t":"2026-10-26T14:10:11.418Z","i":6,"from":"chat","text":"<delta> delta: Spawn permanently locked at base bed ((294, 72, -56))!"}
+{"t":"2026-10-26T14:10:56.507Z","i":7,"from":"chat","text":"<alpha> alpha: Portal trail extinguished! United at Spawner Bridgehead (63, 64, -7) with stone swords & 19 cobble!"}
+{"t":"2026-10-26T14:13:20.705Z","i":8,"from":"chat","text":"<delta> delta: In Nether bunker, moving East along cleared z=-8 trail to unite with Alpha at (63, 65, -8)!"}
+{"t":"2026-10-26T14:13:32.786Z","i":9,"from":"chat","text":"<alpha> alpha: Reached Spawner Bridgehead (63, 64, -7) with stone swords & 19 cobble! Bridging to Spawner Balcony!"}
+{"t":"2026-10-26T14:13:32.786Z","i":10,"from":"chat","text":"<alpha> alpha: Bridge connected! Distance to Blaze Spawner: 186.0m! Breaching!"}
+{"t":"2026-10-26T14:13:47.962Z","i":11,"from":"chat","text":"<beta> beta: United at Frontline Blast Wall ((44, 65, -173)) with stone tools and 0 cobble! Ready to breach Spawner!"}
+{"t":"2026-10-26T14:14:33.698Z","i":12,"from":"chat","text":"<delta> delta: Gathered 0 netherrack! Sprinting along East Ridge to Fortress Workshop & Spawner Front!"}
+{"t":"2026-10-26T14:15:22.404Z","i":13,"from":"chat","text":"<gamma> gamma report: shield=0, iron=0, cobble=3, planks=13"}
+{"t":"2026-10-26T14:15:27.095Z","i":14,"from":"server","text":"beta was fireballed by Blaze"}
+{"t":"2026-10-26T14:16:09.691Z","i":15,"from":"chat","text":"<delta> delta: Arrived at frontline bunker (63, 64, -7) with 0 blocks! Ready to build West wall & breach Spawner!"}
+{"t":"2026-10-26T14:16:47.509Z","i":16,"from":"chat","text":"<gamma> beta: night falling soon. Base bed is open at (294, 72, -55..-56). Sleep to skip night!"}
+{"t":"2026-10-26T14:16:55.491Z","i":17,"from":"chat","text":"<delta> delta: Sprinting down proven East Ridge corridor to Fortress Workshop & Frontline!"}
+{"t":"2026-10-26T14:17:32.507Z","i":18,"from":"chat","text":"<beta> beta: Protected bridge constructed along z=-176 to (38, 65, -176)! Walls blocking Blaze fireballs!"}
+{"t":"2026-10-26T14:17:36.268Z","i":19,"from":"server","text":"beta was doomed to fall"}
+{"t":"2026-10-26T14:18:18.300Z","i":20,"from":"chat","text":"<alpha> alpha: Reached (45, 65, -126) along East Ridge trail! Advancing to Fortress frontline!"}
+{"t":"2026-10-26T14:18:28.810Z","i":21,"from":"chat","text":"<delta> delta: Reached frontline position (63, 64, -7)!"}
+{"t":"2026-10-26T14:18:57.514Z","i":22,"from":"chat","text":"<alpha> alpha: At Spawner Bridgehead (44, 65, -173)! Spawner dist: 21.5m. Hostiles: 2"}
+{"t":"2026-10-26T14:19:00.837Z","i":23,"from":"server","text":"alpha was slain by Piglin"}
+{"t":"2026-10-26T14:19:21.480Z","i":24,"from":"chat","text":"<delta> delta: Soul sand step overcome! Sprinting East Ridge corridor to Fortress Workshop & Frontline!"}
+{"t":"2026-10-26T14:19:29.602Z","i":25,"from":"chat","text":"<gamma> gamma awake at dawn! Ready to hunt food & mine iron. Inv: planks x32, cobble x3"}
+{"t":"2026-10-26T14:19:34.501Z","i":26,"from":"chat","text":"<beta> beta: Secured corner at (38, 65, -177)! Sealed abyss drop at (37, 64, -176)! Ready to advance North to Spawner!"}
+{"t":"2026-10-26T14:19:36.419Z","i":27,"from":"chat","text":"<alpha> alpha: Frontline recon complete at (293, 72, -56)! Spawners: 0, Hostiles: 1"}
+{"t":"2026-10-26T14:20:55.447Z","i":28,"from":"chat","text":"<delta> delta: Arrived at frontline bunker (63, 66, -7)!"}
+{"t":"2026-10-26T14:21:27.294Z","i":29,"from":"server","text":"beta was burnt to a crisp whilst fighting Blaze"}
+{"t":"2026-10-26T14:21:46.073Z","i":30,"from":"chat","text":"<gamma> gamma report: shield=0, iron=0, cobble=4, planks=32"}
+{"t":"2026-10-26T14:22:07.242Z","i":31,"from":"chat","text":"<gamma> gamma report: shield=0, iron=0, cobble=4, planks=32"}
+{"t":"2026-10-26T14:22:43.704Z","i":32,"from":"chat","text":"<delta> delta: Sprinting open corridor to Fortress Workshop at (44, 65, -127) and Frontline at (44, 65, -169)!"}
+{"t":"2026-10-26T14:23:16.644Z","i":33,"from":"chat","text":"<delta> delta: Arrived at frontline bunker (44, 65, -159)!"}
+{"t":"2026-10-26T14:23:21.787Z","i":34,"from":"server","text":"delta was fireballed by Ghast"}
+{"t":"2026-10-26T14:23:34.441Z","i":35,"from":"chat","text":"<gamma> alpha, beta: low on food (12/20), going hunting for sheep/pigs/cows!"}
+{"t":"2026-10-26T14:24:27.585Z","i":36,"from":"chat","text":"<alpha> alpha: Geared up with stone tools & 23 cobble! Heading to Nether portal!"}
+{"t":"2026-10-26T14:24:55.740Z","i":37,"from":"chat","text":"<beta> beta: United at Frontline Spawner Walkway ((46, 65, -142)) with stone tools and 0 cobble!"}
+{"t":"2026-10-26T14:25:10.256Z","i":38,"from":"server","text":"beta tried to swim in lava to escape Piglin"}
+{"t":"2026-10-26T14:25:30.464Z","i":39,"from":"chat","text":"<alpha> alpha: In Nether with stone swords & cobble! Sprinting to Spawner Bridgehead!"}
+{"t":"2026-10-26T14:26:43.594Z","i":40,"from":"server","text":"alpha tried to swim in lava to escape Hoglin"}
+{"t":"2026-10-26T14:26:56.425Z","i":41,"from":"chat","text":"<alpha> alpha: United at Spawner Bridgehead (257, 66, -54) with stone swords & 0 cobble!"}
+{"t":"2026-10-26T14:27:12.249Z","i":42,"from":"chat","text":"<delta> delta: In Nether with stone sword & 50 cobblestone! Sprinting corridor to join Alpha at Spawner Front!"}
+{"t":"2026-10-26T14:27:57.845Z","i":43,"from":"chat","text":"<alpha> alpha: Safely inside base (295, 72, -53)! Spawn locked!"}
+{"t":"2026-10-26T14:28:06.543Z","i":44,"from":"chat","text":"<delta> delta: United with Alpha at Spawner Frontline (44, 65, -168) with 47 cobble & stone sword! Ready to enclose Spawner!"}
+{"t":"2026-10-26T14:28:34.193Z","i":45,"from":"chat","text":"<alpha> alpha: Inside base shelter! Waiting for 12542 to sleep and skip night!"}
+{"t":"2026-10-26T14:28:57.355Z","i":46,"from":"chat","text":"<delta> delta: North blast wall (z=-177) constructed from x=44 to x=37! Cross-bridge 100% sealed against Blazes! Remaining cobble: 29"}
+{"t":"2026-10-26T14:29:47.056Z","i":47,"from":"server","text":"delta fell from a high place"}
+{"t":"2026-10-26T14:29:58.210Z","i":48,"from":"chat","text":"<alpha> alpha: Sleeping in base bed now! Skip night teammates!"}
+{"t":"2026-10-26T14:30:27.305Z","i":49,"from":"chat","text":"<alpha> alpha: Awake at dawn! Full daylight ahead! Ready to gear up and march to Nether frontline!"}
+{"t":"2026-10-26T14:30:27.457Z","i":50,"from":"chat","text":"<gamma> gamma awake at base at dawn! Food: 7/20, HP: 20/20"}
+{"t":"2026-10-26T14:30:51.319Z","i":51,"from":"chat","text":"<delta> delta: Sprinting 83m East to base shelter at (294, 72, -54)..."}
+{"t":"2026-10-26T14:30:56.262Z","i":52,"from":"server","text":"beta burned to death"}
+{"t":"2026-10-26T14:31:30.965Z","i":53,"from":"chat","text":"<delta> delta: Clean sprint to base shelter at (294, 72, -54)..."}
+{"t":"2026-10-26T14:31:31.016Z","i":54,"from":"chat","text":"<delta> delta: Bridge to Spawner Balcony COMPLETE! Connected to y=67 deck at (34, 67, -187)! Remaining blocks: 0"}
+{"t":"2026-10-26T14:32:13.006Z","i":55,"from":"chat","text":"<gamma> gamma status: Food=3/20, HP=20/20, Planks=32, Cobble=4"}
+{"t":"2026-10-26T14:32:25.400Z","i":56,"from":"chat","text":"<beta> beta: United with Delta at Frontline ((145, 62, -87))! Ready to breach Spawner!"}
+{"t":"2026-10-26T14:32:37.174Z","i":57,"from":"chat","text":"<gamma> delta, alpha: I am at 3 food in base shelter. Any spare food or bread?"}
+{"t":"2026-10-26T14:32:47.795Z","i":58,"from":"chat","text":"<delta> delta: Sprinting final stretch to base shelter at (294, 72, -54)..."}
+{"t":"2026-10-26T14:33:17.363Z","i":59,"from":"chat","text":"<gamma> gamma report: Food=3/20, HP=20/20, Inv: {\"bone_meal\":6,\"stick\":4,\"oak_sapling\":4,\"stone_sword\":1,\"stone_pickaxe\":1,\"cobblestone\":4,\"wooden_pickaxe\":1,\"oak_planks\":31,\"stone_axe\":1,\"dirt\":1,\"oak_button\":1,\"birch_planks\":1}"}
+{"t":"2026-10-26T14:33:35.013Z","i":60,"from":"chat","text":"<alpha> alpha: Geared up with stone tools & 38 cobble! Entering Nether portal!"}
+{"t":"2026-10-26T14:34:02.781Z","i":61,"from":"server","text":"alpha drowned"}
+{"t":"2026-10-26T14:34:05.659Z","i":62,"from":"chat","text":"<delta> delta: Sprinting 33m into base shelter at (294, 72, -54)!"}
+{"t":"2026-10-26T14:34:10.570Z","i":63,"from":"chat","text":"<delta> delta: Spawn permanently locked at base bed ((294, 72, -56))!"}
+{"t":"2026-10-26T14:34:12.237Z","i":64,"from":"chat","text":"<gamma> gamma status: Food=0/20, HP=20/20, Seeds=0, Wheat=0"}
+{"t":"2026-10-26T14:34:16.795Z","i":65,"from":"chat","text":"<delta> delta: Safely inside base! Spawn locked at bed ((294, 72, -56))!"}
+{"t":"2026-10-26T14:34:45.617Z","i":66,"from":"server","text":"beta burned to death"}
+{"t":"2026-10-26T14:34:51.338Z","i":67,"from":"chat","text":"<gamma> gamma with Delta at base. Ready for Nether expedition! Planks x32, Cobble x4"}
+{"t":"2026-10-26T14:35:51.309Z","i":68,"from":"chat","text":"<beta> beta: On Spawner Balcony ((170, 61, -55))! Engaging Blazes!"}
+{"t":"2026-10-26T14:36:09.796Z","i":69,"from":"chat","text":"<alpha> alpha: Safely inside base shelter (295, 72, -54)! HP: 8.8/20. Teammates ready to gear up for Nether spawner assault!"}
+{"t":"2026-10-26T14:36:19.284Z","i":70,"from":"server","text":"beta drowned"}
+{"t":"2026-10-26T14:36:25.706Z","i":71,"from":"chat","text":"<alpha> alpha: Inside base shelter! HP: 8.8/20. Current inv: {}"}
+{"t":"2026-10-26T14:37:27.913Z","i":72,"from":"chat","text":"<gamma> gamma geared up: shield=0, cobble=27, planks=32. Ready for Nether transit!"}
+{"t":"2026-10-26T14:37:43.837Z","i":73,"from":"chat","text":"<delta> delta: In Nether with stone sword & 31 cobblestone! Sprinting corridor to Spawner Frontline!"}
+{"t":"2026-10-26T14:38:02.248Z","i":74,"from":"server","text":"gamma drowned"}
+{"t":"2026-10-26T14:38:15.398Z","i":75,"from":"chat","text":"<gamma> gamma at base: secured 27 cobblestone & 32 planks in chest. Spawn confirmed at bed."}
+{"t":"2026-10-26T14:38:37.755Z","i":76,"from":"chat","text":"<delta> delta: United at Spawner Bridgehead (38, 65, -176) with 31 cobble & stone sword! Ready to breach Spawner!"}
+{"t":"2026-10-26T14:38:44.755Z","i":77,"from":"server","text":"delta was fireballed by Blaze"}
+{"t":"2026-10-26T14:38:52.999Z","i":78,"from":"chat","text":"<gamma> alpha: Gamma in base with 20 HP & 20 Food. Ready to sleep at 12542 to skip night!"}
+{"t":"2026-10-26T14:38:59.050Z","i":79,"from":"chat","text":"<delta> delta: Secure frontline bunker established at (38, 65, -176)! 100% blast-proof cover, Blazes within 11m! Cobble: 0"}
+{"t":"2026-10-26T14:39:38.194Z","i":80,"from":"chat","text":"<delta> delta: Inside base shelter, holding for tick 12542 to sleep in Bed 2 and skip night with team!"}
+{"t":"2026-10-26T14:39:48.474Z","i":81,"from":"chat","text":"<beta> beta: On Spawner Balcony ((37, 65, -183))! Engaging Blazes!"}
+{"t":"2026-10-26T14:40:14.899Z","i":82,"from":"chat","text":"<alpha> alpha: Armed with stone tools & 7 cobble! Entering Nether portal!"}
+{"t":"2026-10-26T14:40:21.446Z","i":83,"from":"chat","text":"<alpha> alpha: In Nether! Sprinting verified East Ridge trail to Spawner Balcony!"}
+{"t":"2026-10-26T14:40:22.406Z","i":84,"from":"chat","text":"<alpha> alpha: Slaying Blazes on Spawner Balcony (41, 65, -8)! Blaze rods: 0"}
+{"t":"2026-10-26T14:40:31.840Z","i":85,"from":"server","text":"alpha went up in flames"}
+{"t":"2026-10-26T14:40:33.657Z","i":86,"from":"chat","text":"<alpha> alpha: Inside base shelter at Bed 1! Waiting for 12542 to sleep and skip night!"}
+{"t":"2026-10-26T14:40:50.594Z","i":87,"from":"server","text":"beta tried to swim in lava to escape Blaze"}
+{"t":"2026-10-26T14:40:54.285Z","i":88,"from":"chat","text":"<delta> delta: In bed, sleeping to skip night!"}
+{"t":"2026-10-26T14:40:55.284Z","i":89,"from":"chat","text":"<delta> delta: Awake at dawn! Time: 23460. Ready to craft gear & breach Spawner!"}
+{"t":"2026-10-26T14:42:15.085Z","i":90,"from":"chat","text":"<gamma> gamma awake at dawn! Ready to gather tools & cobble for Nether assault! HP: 20/20, Food: 20/20"}
+{"t":"2026-10-26T14:42:58.488Z","i":91,"from":"chat","text":"<alpha> alpha: Armed with stone tools & 0 cobble from chest! Entering Nether portal!"}

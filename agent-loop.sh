@@ -6,9 +6,15 @@
 # WARNING: --dangerously-skip-permissions lets the agent run any shell command as you.
 set -uo pipefail
 ROOT="$(cd "$(dirname "$0")" && pwd)"
-NAME=${1:?usage: ./agent-loop.sh alpha|beta}
+NAME=${1:?usage: ./agent-loop.sh alpha|beta|gamma|delta}
 MODEL=${MODEL:-gemini-3.8-flash-high}
-PORT=$([[ $NAME == alpha ]] && echo 3101 || echo 3102)
+case "$NAME" in
+  alpha) PORT=3101 ;;
+  beta)  PORT=3102 ;;
+  gamma) PORT=3103 ;;
+  delta) PORT=3104 ;;
+  *) echo "unknown agent: $NAME" >&2; exit 1 ;;
+esac
 LOGS="$ROOT/logs/$NAME"; RUN="$ROOT/run"; mkdir -p "$LOGS" "$RUN"
 CONV_FILE="$RUN/$NAME.conversation"
 STOP="$RUN/STOP-$NAME"; rm -f "$STOP"

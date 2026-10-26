@@ -1,0 +1,404 @@
+[2026-10-25T21:40:39+02:00] quota-guard started (PID 13078, threshold=0.10, interval=60s)
+[21:40:43] Quota OK: gemini-weekly=77.00% gemini-5h=100.00%
+[21:41:45] Quota OK: gemini-weekly=75.90% gemini-5h=97.60%
+[21:42:48] Quota OK: gemini-weekly=75.82% gemini-5h=97.31%
+[21:43:50] Quota OK: gemini-weekly=75.66% gemini-5h=95.74%
+[21:44:52] Quota OK: gemini-weekly=75.30% gemini-5h=94.07%
+[21:45:55] Quota OK: gemini-weekly=74.37% gemini-5h=93.02%
+[21:46:57] Quota OK: gemini-weekly=74.35% gemini-5h=92.94%
+[21:47:59] Quota OK: gemini-weekly=74.33% gemini-5h=90.69%
+[21:49:01] Quota OK: gemini-weekly=73.78% gemini-5h=89.13%
+[21:50:04] Quota OK: gemini-weekly=72.90% gemini-5h=88.18%
+[21:51:06] Quota OK: gemini-weekly=72.64% gemini-5h=87.94%
+[21:52:08] Quota OK: gemini-weekly=72.32% gemini-5h=86.16%
+[21:53:10] Quota OK: gemini-weekly=72.09% gemini-5h=84.34%
+[21:54:12] Quota OK: gemini-weekly=71.63% gemini-5h=83.91%
+[21:55:15] Quota OK: gemini-weekly=71.63% gemini-5h=82.73%
+[21:56:17] Quota OK: gemini-weekly=71.65% gemini-5h=81.46%
+[21:57:19] Quota OK: gemini-weekly=71.03% gemini-5h=80.64%
+[21:58:22] Quota OK: gemini-weekly=70.50% gemini-5h=78.94%
+[21:59:25] Quota OK: gemini-weekly=70.63% gemini-5h=77.73%
+[22:00:27] Quota OK: gemini-weekly=70.63% gemini-5h=77.73%
+[22:01:29] Quota OK: gemini-weekly=69.59% gemini-5h=75.51%
+[22:02:31] Quota OK: gemini-weekly=69.39% gemini-5h=73.81%
+[22:03:33] Quota OK: gemini-weekly=68.32% gemini-5h=73.26%
+[22:04:35] Quota OK: gemini-weekly=68.09% gemini-5h=72.02%
+[22:05:38] Quota OK: gemini-weekly=68.20% gemini-5h=70.86%
+[22:06:40] Quota OK: gemini-weekly=67.38% gemini-5h=68.52%
+[22:07:42] Quota OK: gemini-weekly=67.18% gemini-5h=67.79%
+[22:08:44] Quota OK: gemini-weekly=66.93% gemini-5h=65.95%
+[22:09:46] Quota OK: gemini-weekly=66.87% gemini-5h=64.75%
+[22:10:49] Quota OK: gemini-weekly=66.31% gemini-5h=63.74%
+[22:11:51] Quota OK: gemini-weekly=65.92% gemini-5h=62.54%
+[22:12:54] Quota OK: gemini-weekly=65.90% gemini-5h=62.13%
+[22:13:56] Quota OK: gemini-weekly=65.56% gemini-5h=61.12%
+[22:14:58] Quota OK: gemini-weekly=65.46% gemini-5h=59.77%
+[22:16:01] Quota OK: gemini-weekly=65.33% gemini-5h=59.30%
+[22:17:03] Quota OK: gemini-weekly=65.15% gemini-5h=57.61%
+[22:18:05] Quota OK: gemini-weekly=64.72% gemini-5h=57.40%
+[22:19:07] Quota OK: gemini-weekly=64.37% gemini-5h=56.33%
+[22:20:10] Quota OK: gemini-weekly=63.51% gemini-5h=54.70%
+[22:21:12] Quota OK: gemini-weekly=63.41% gemini-5h=54.37%
+[22:22:15] Quota OK: gemini-weekly=63.29% gemini-5h=52.66%
+[22:23:17] Quota OK: gemini-weekly=63.29% gemini-5h=51.39%
+[22:24:19] Quota OK: gemini-weekly=61.45% gemini-5h=50.52%
+[22:25:21] Quota OK: gemini-weekly=61.36% gemini-5h=49.07%
+[22:26:23] Quota OK: gemini-weekly=61.38% gemini-5h=48.38%
+[22:27:25] Quota OK: gemini-weekly=61.38% gemini-5h=46.38%
+[22:28:28] Quota OK: gemini-weekly=60.92% gemini-5h=45.80%
+[22:29:31] Quota OK: gemini-weekly=60.77% gemini-5h=45.29%
+[22:30:33] Quota OK: gemini-weekly=60.13% gemini-5h=43.97%
+[22:31:35] Quota OK: gemini-weekly=60.53% gemini-5h=42.42%
+[22:32:37] Quota OK: gemini-weekly=59.83% gemini-5h=40.91%
+[22:33:39] Quota OK: gemini-weekly=58.14% gemini-5h=38.78%
+[22:34:41] Quota OK: gemini-weekly=58.53% gemini-5h=37.88%
+[22:35:44] Quota OK: gemini-weekly=57.90% gemini-5h=36.97%
+[22:36:46] Quota OK: gemini-weekly=57.45% gemini-5h=34.26%
+[22:37:49] Quota OK: gemini-weekly=57.66% gemini-5h=34.11%
+[22:38:51] Quota OK: gemini-weekly=57.60% gemini-5h=32.89%
+[22:39:53] Quota OK: gemini-weekly=56.59% gemini-5h=31.30%
+[22:40:56] Quota OK: gemini-weekly=55.89% gemini-5h=29.41%
+[22:41:59] Quota OK: gemini-weekly=56.18% gemini-5h=26.86%
+[22:43:01] Quota OK: gemini-weekly=55.18% gemini-5h=25.86%
+[22:44:03] Quota OK: gemini-weekly=54.82% gemini-5h=24.75%
+[22:45:06] Quota OK: gemini-weekly=53.84% gemini-5h=24.13%
+[22:46:09] Quota OK: gemini-weekly=54.21% gemini-5h=22.62%
+[22:47:11] Quota OK: gemini-weekly=54.17% gemini-5h=21.71%
+[22:48:13] Quota OK: gemini-weekly=53.96% gemini-5h=21.73%
+[22:49:16] Quota OK: gemini-weekly=54.11% gemini-5h=20.49%
+[22:50:18] Quota OK: gemini-weekly=53.65% gemini-5h=20.65%
+[22:51:20] Quota OK: gemini-weekly=54.03% gemini-5h=19.22%
+[22:52:22] Quota OK: gemini-weekly=53.64% gemini-5h=18.02%
+[22:53:25] Quota OK: gemini-weekly=52.51% gemini-5h=17.53%
+[22:54:27] Quota OK: gemini-weekly=52.19% gemini-5h=16.33%
+[22:55:29] Quota OK: gemini-weekly=52.94% gemini-5h=15.34%
+[22:56:32] Quota OK: gemini-weekly=51.97% gemini-5h=14.71%
+[22:57:34] Quota OK: gemini-weekly=52.07% gemini-5h=14.13%
+[22:58:36] Quota OK: gemini-weekly=51.92% gemini-5h=14.22%
+[22:59:38] Quota OK: gemini-weekly=50.87% gemini-5h=12.98%
+[23:00:41] Quota OK: gemini-weekly=50.52% gemini-5h=12.54%
+[23:01:43] Quota OK: gemini-weekly=50.46% gemini-5h=12.32%
+[23:02:46] Quota OK: gemini-weekly=50.46% gemini-5h=11.21%
+[23:03:48] Quota OK: gemini-weekly=50.54% gemini-5h=10.73%
+[23:04:50] Quota OK: gemini-weekly=50.75% gemini-5h=10.39%
+[23:05:53] Quota OK: gemini-weekly=50.25% gemini-5h=10.48%
+[2026-10-25T23:06:55+02:00] ⚠️ QUOTA LIMIT REACHED (<10%): gemini-5h (9.25%) [gemini-weekly=50.68% gemini-5h=9.25%]. Saving and stopping game...
+stopped agent alpha
+stopped agent beta
+stopped agent gamma
+stopped agent delta
+stopped auto-skip-night
+stopped bot-alpha
+stopped bot-beta
+stopped bot-delta
+stopped bot-gamma
+stopped dashboard
+ Container mc-agents Stopping 
+ Container mc-agents Stopped 
+[2026-10-25T23:07:00+02:00] ✅ Game saved and stopped cleanly.
+[2026-10-25T23:19:14+02:00] quota-guard started (PID 90361, stop<0.10, resume>=0.50)
+[23:19:17] [WAITING FOR QUOTA] gemini-weekly=50.49% gemini-5h=8.65% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:21:20] [WAITING FOR QUOTA] gemini-weekly=50.11% gemini-5h=8.98% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:23:23] [WAITING FOR QUOTA] gemini-weekly=50.68% gemini-5h=9.25% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:25:25] [WAITING FOR QUOTA] gemini-weekly=50.68% gemini-5h=9.25% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:27:28] [WAITING FOR QUOTA] gemini-weekly=50.49% gemini-5h=8.65% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:29:30] [WAITING FOR QUOTA] gemini-weekly=50.68% gemini-5h=9.25% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:31:33] [WAITING FOR QUOTA] gemini-weekly=50.11% gemini-5h=8.98% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:33:36] [WAITING FOR QUOTA] gemini-weekly=50.11% gemini-5h=8.98% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:35:38] [WAITING FOR QUOTA] gemini-weekly=50.11% gemini-5h=8.98% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:37:41] [WAITING FOR QUOTA] gemini-weekly=50.68% gemini-5h=9.25% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:39:44] [WAITING FOR QUOTA] gemini-weekly=50.68% gemini-5h=9.25% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:41:48] [WAITING FOR QUOTA] gemini-weekly=50.11% gemini-5h=8.98% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:43:51] [WAITING FOR QUOTA] gemini-weekly=50.11% gemini-5h=8.98% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:45:54] [WAITING FOR QUOTA] gemini-weekly=50.68% gemini-5h=9.25% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:47:58] [WAITING FOR QUOTA] gemini-weekly=50.49% gemini-5h=8.65% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:50:01] [WAITING FOR QUOTA] gemini-weekly=50.68% gemini-5h=9.25% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:52:04] [WAITING FOR QUOTA] gemini-weekly=50.68% gemini-5h=9.25% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:54:07] [WAITING FOR QUOTA] gemini-weekly=50.11% gemini-5h=8.98% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:56:10] [WAITING FOR QUOTA] gemini-weekly=50.68% gemini-5h=9.25% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[23:58:12] [WAITING FOR QUOTA] gemini-weekly=50.68% gemini-5h=9.25% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:00:19] [WAITING FOR QUOTA] gemini-weekly=50.11% gemini-5h=8.98% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:02:22] [WAITING FOR QUOTA] gemini-weekly=50.11% gemini-5h=8.98% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:04:25] [WAITING FOR QUOTA] gemini-weekly=50.68% gemini-5h=9.25% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:06:28] [WAITING FOR QUOTA] gemini-weekly=50.49% gemini-5h=8.65% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:08:31] [WAITING FOR QUOTA] gemini-weekly=50.49% gemini-5h=8.65% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:10:34] [WAITING FOR QUOTA] gemini-weekly=50.49% gemini-5h=8.65% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:12:37] [WAITING FOR QUOTA] gemini-weekly=50.65% gemini-5h=9.36% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:14:39] [WAITING FOR QUOTA] gemini-weekly=50.84% gemini-5h=9.96% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:16:42] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:18:44] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:20:47] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:22:50] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:24:53] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:26:56] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:28:58] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:31:01] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:33:04] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:35:06] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:37:09] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:39:12] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:41:15] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:43:18] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:45:21] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:47:24] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:49:28] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:51:30] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:53:33] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:55:36] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:57:40] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[00:59:43] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:01:45] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:03:48] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:05:50] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:07:54] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:09:57] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:11:59] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:14:02] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:16:05] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:18:08] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:20:11] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:22:14] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:24:17] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:26:19] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:28:22] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:30:25] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:32:28] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:34:31] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:36:33] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:38:37] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:40:41] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:42:45] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:44:48] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:46:51] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:48:53] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:50:56] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:53:00] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:55:03] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:57:06] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[01:59:08] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:01:12] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:03:15] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:05:18] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:07:21] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:09:23] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:11:27] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:13:30] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:15:32] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:17:35] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:19:38] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:21:41] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:23:44] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:25:47] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:27:50] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:29:52] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:31:55] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:33:57] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:36:00] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:38:03] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[02:40:05] [WAITING FOR QUOTA] gemini-weekly=51.38% gemini-5h=10.34% (reset: 2026-10-26T00:40:52Z) (resumes at gemini-5h >= 50%)
+[2026-10-26T02:42:08+02:00] 🚀 QUOTA RECOVERED (gemini-weekly=51.38% gemini-5h=100.00% (reset: 2026-10-26T05:40:52Z)). Starting server and 4 agents...
+ Container mc-agents Starting 
+ Container mc-agents Started 
+server ok
+bot-alpha started
+bot-beta started
+bot-gamma started
+bot-delta started
+dashboard started
+auto-skip-night started
+quota-guard already running
+alpha ........online
+beta online
+gamma online
+delta online
+dashboard: http://localhost:3100
+[2026-10-26T02:42:17+02:00] ✅ Game and all 4 agents resumed.
+[02:43:19] [RUNNING] Quota OK: gemini-weekly=49.02% gemini-5h=96.66% (reset: 2026-10-26T05:40:52Z)
+[02:44:22] [RUNNING] Quota OK: gemini-weekly=49.24% gemini-5h=94.58% (reset: 2026-10-26T05:40:52Z)
+[02:45:24] [RUNNING] Quota OK: gemini-weekly=49.24% gemini-5h=94.58% (reset: 2026-10-26T05:40:52Z)
+[02:46:27] [RUNNING] Quota OK: gemini-weekly=48.94% gemini-5h=94.49% (reset: 2026-10-26T05:40:52Z)
+[02:47:29] [RUNNING] Quota OK: gemini-weekly=49.18% gemini-5h=94.38% (reset: 2026-10-26T05:40:52Z)
+[02:48:32] [RUNNING] Quota OK: gemini-weekly=48.59% gemini-5h=93.85% (reset: 2026-10-26T05:40:52Z)
+[02:49:34] [RUNNING] Quota OK: gemini-weekly=49.10% gemini-5h=93.30% (reset: 2026-10-26T05:40:52Z)
+[02:50:37] [RUNNING] Quota OK: gemini-weekly=49.08% gemini-5h=92.20% (reset: 2026-10-26T05:40:52Z)
+[02:51:39] [RUNNING] Quota OK: gemini-weekly=47.94% gemini-5h=91.90% (reset: 2026-10-26T05:40:52Z)
+[02:52:42] [RUNNING] Quota OK: gemini-weekly=48.32% gemini-5h=90.90% (reset: 2026-10-26T05:40:52Z)
+[02:53:45] [RUNNING] Quota OK: gemini-weekly=48.29% gemini-5h=90.81% (reset: 2026-10-26T05:40:52Z)
+[02:54:47] [RUNNING] Quota OK: gemini-weekly=48.17% gemini-5h=90.41% (reset: 2026-10-26T05:40:52Z)
+[02:55:49] [RUNNING] Quota OK: gemini-weekly=48.01% gemini-5h=89.92% (reset: 2026-10-26T05:40:52Z)
+[02:56:52] [RUNNING] Quota OK: gemini-weekly=47.93% gemini-5h=89.66% (reset: 2026-10-26T05:40:52Z)
+[02:57:54] [RUNNING] Quota OK: gemini-weekly=47.89% gemini-5h=88.52% (reset: 2026-10-26T05:40:52Z)
+[02:58:57] [RUNNING] Quota OK: gemini-weekly=47.94% gemini-5h=88.60% (reset: 2026-10-26T05:40:52Z)
+[02:59:59] [RUNNING] Quota OK: gemini-weekly=46.94% gemini-5h=87.60% (reset: 2026-10-26T05:40:52Z)
+[03:01:02] [RUNNING] Quota OK: gemini-weekly=47.52% gemini-5h=87.21% (reset: 2026-10-26T05:40:52Z)
+[03:02:04] [RUNNING] Quota OK: gemini-weekly=47.28% gemini-5h=86.38% (reset: 2026-10-26T05:40:52Z)
+[03:03:07] [RUNNING] Quota OK: gemini-weekly=47.21% gemini-5h=86.11% (reset: 2026-10-26T05:40:52Z)
+[03:04:09] [RUNNING] Quota OK: gemini-weekly=47.03% gemini-5h=85.49% (reset: 2026-10-26T05:40:52Z)
+[03:05:12] [RUNNING] Quota OK: gemini-weekly=46.94% gemini-5h=85.18% (reset: 2026-10-26T05:40:52Z)
+[03:06:14] [RUNNING] Quota OK: gemini-weekly=46.81% gemini-5h=84.72% (reset: 2026-10-26T05:40:52Z)
+[03:07:17] [RUNNING] Quota OK: gemini-weekly=46.79% gemini-5h=84.32% (reset: 2026-10-26T05:40:52Z)
+[03:08:19] [RUNNING] Quota OK: gemini-weekly=45.66% gemini-5h=82.87% (reset: 2026-10-26T05:40:52Z)
+[03:09:21] [RUNNING] Quota OK: gemini-weekly=45.57% gemini-5h=82.32% (reset: 2026-10-26T05:40:52Z)
+[03:10:24] [RUNNING] Quota OK: gemini-weekly=45.40% gemini-5h=81.71% (reset: 2026-10-26T05:40:52Z)
+[03:11:26] [RUNNING] Quota OK: gemini-weekly=45.26% gemini-5h=81.23% (reset: 2026-10-26T05:40:52Z)
+[03:12:29] [RUNNING] Quota OK: gemini-weekly=45.18% gemini-5h=80.96% (reset: 2026-10-26T05:40:52Z)
+[03:13:31] [RUNNING] Quota OK: gemini-weekly=44.96% gemini-5h=80.20% (reset: 2026-10-26T05:40:52Z)
+[03:14:34] [RUNNING] Quota OK: gemini-weekly=44.86% gemini-5h=79.84% (reset: 2026-10-26T05:40:52Z)
+[03:15:36] [RUNNING] Quota OK: gemini-weekly=44.77% gemini-5h=78.48% (reset: 2026-10-26T05:40:52Z)
+[03:16:39] [RUNNING] Quota OK: gemini-weekly=43.26% gemini-5h=77.02% (reset: 2026-10-26T05:40:52Z)
+[03:17:41] [RUNNING] Quota OK: gemini-weekly=43.63% gemini-5h=75.55% (reset: 2026-10-26T05:40:52Z)
+[03:18:43] [RUNNING] Quota OK: gemini-weekly=43.41% gemini-5h=75.19% (reset: 2026-10-26T05:40:52Z)
+[03:19:46] [RUNNING] Quota OK: gemini-weekly=42.91% gemini-5h=74.23% (reset: 2026-10-26T05:40:52Z)
+[03:20:48] [RUNNING] Quota OK: gemini-weekly=43.51% gemini-5h=73.13% (reset: 2026-10-26T05:40:52Z)
+[03:21:51] [RUNNING] Quota OK: gemini-weekly=42.98% gemini-5h=72.28% (reset: 2026-10-26T05:40:52Z)
+[03:22:54] [RUNNING] Quota OK: gemini-weekly=42.92% gemini-5h=72.05% (reset: 2026-10-26T05:40:52Z)
+[03:23:56] [RUNNING] Quota OK: gemini-weekly=42.67% gemini-5h=70.78% (reset: 2026-10-26T05:40:52Z)
+[03:24:59] [RUNNING] Quota OK: gemini-weekly=42.58% gemini-5h=69.87% (reset: 2026-10-26T05:40:52Z)
+[03:26:01] [RUNNING] Quota OK: gemini-weekly=42.44% gemini-5h=68.39% (reset: 2026-10-26T05:40:52Z)
+[03:27:04] [RUNNING] Quota OK: gemini-weekly=41.93% gemini-5h=68.14% (reset: 2026-10-26T05:40:52Z)
+[03:28:07] [RUNNING] Quota OK: gemini-weekly=41.34% gemini-5h=68.17% (reset: 2026-10-26T05:40:52Z)
+[03:29:09] [RUNNING] Quota OK: gemini-weekly=40.98% gemini-5h=65.64% (reset: 2026-10-26T05:40:52Z)
+[03:30:12] [RUNNING] Quota OK: gemini-weekly=40.42% gemini-5h=65.75% (reset: 2026-10-26T05:40:52Z)
+[03:31:14] [RUNNING] Quota OK: gemini-weekly=40.28% gemini-5h=63.25% (reset: 2026-10-26T05:40:52Z)
+[03:32:16] [RUNNING] Quota OK: gemini-weekly=40.60% gemini-5h=63.34% (reset: 2026-10-26T05:40:52Z)
+[03:33:19] [RUNNING] Quota OK: gemini-weekly=40.54% gemini-5h=62.10% (reset: 2026-10-26T05:40:52Z)
+[03:34:21] [RUNNING] Quota OK: gemini-weekly=40.52% gemini-5h=62.04% (reset: 2026-10-26T05:40:52Z)
+[03:35:23] [RUNNING] Quota OK: gemini-weekly=40.33% gemini-5h=60.98% (reset: 2026-10-26T05:40:52Z)
+[03:36:26] [RUNNING] Quota OK: gemini-weekly=39.98% gemini-5h=59.48% (reset: 2026-10-26T05:40:52Z)
+[03:37:28] [RUNNING] Quota OK: gemini-weekly=39.80% gemini-5h=58.85% (reset: 2026-10-26T05:40:52Z)
+[03:38:31] [RUNNING] Quota OK: gemini-weekly=39.66% gemini-5h=58.34% (reset: 2026-10-26T05:40:52Z)
+[03:39:34] [RUNNING] Quota OK: gemini-weekly=38.85% gemini-5h=58.24% (reset: 2026-10-26T05:40:52Z)
+[03:40:36] [RUNNING] Quota OK: gemini-weekly=38.39% gemini-5h=56.65% (reset: 2026-10-26T05:40:52Z)
+[03:41:38] [RUNNING] Quota OK: gemini-weekly=38.68% gemini-5h=55.64% (reset: 2026-10-26T05:40:52Z)
+[03:42:40] [RUNNING] Quota OK: gemini-weekly=38.51% gemini-5h=54.06% (reset: 2026-10-26T05:40:52Z)
+[03:43:43] [RUNNING] Quota OK: gemini-weekly=37.76% gemini-5h=53.40% (reset: 2026-10-26T05:40:52Z)
+[03:44:45] [RUNNING] Quota OK: gemini-weekly=37.76% gemini-5h=52.39% (reset: 2026-10-26T05:40:52Z)
+[03:45:48] [RUNNING] Quota OK: gemini-weekly=37.67% gemini-5h=51.13% (reset: 2026-10-26T05:40:52Z)
+[03:46:50] [RUNNING] Quota OK: gemini-weekly=37.37% gemini-5h=50.94% (reset: 2026-10-26T05:40:52Z)
+[03:47:53] [RUNNING] Quota OK: gemini-weekly=36.78% gemini-5h=49.92% (reset: 2026-10-26T05:40:52Z)
+[03:48:55] [RUNNING] Quota OK: gemini-weekly=37.11% gemini-5h=50.05% (reset: 2026-10-26T05:40:52Z)
+[03:49:57] [RUNNING] Quota OK: gemini-weekly=36.68% gemini-5h=48.62% (reset: 2026-10-26T05:40:52Z)
+[03:51:00] [RUNNING] Quota OK: gemini-weekly=36.79% gemini-5h=47.92% (reset: 2026-10-26T05:40:52Z)
+[03:52:03] [RUNNING] Quota OK: gemini-weekly=36.34% gemini-5h=48.20% (reset: 2026-10-26T05:40:52Z)
+[03:53:05] [RUNNING] Quota OK: gemini-weekly=35.48% gemini-5h=46.60% (reset: 2026-10-26T05:40:52Z)
+[03:54:08] [RUNNING] Quota OK: gemini-weekly=36.09% gemini-5h=45.96% (reset: 2026-10-26T05:40:52Z)
+[03:55:10] [RUNNING] Quota OK: gemini-weekly=34.43% gemini-5h=44.32% (reset: 2026-10-26T05:40:52Z)
+[03:56:13] [RUNNING] Quota OK: gemini-weekly=34.84% gemini-5h=43.76% (reset: 2026-10-26T05:40:52Z)
+[03:57:15] [RUNNING] Quota OK: gemini-weekly=34.84% gemini-5h=43.76% (reset: 2026-10-26T05:40:52Z)
+[03:58:18] [RUNNING] Quota OK: gemini-weekly=33.81% gemini-5h=41.86% (reset: 2026-10-26T05:40:52Z)
+[03:59:20] [RUNNING] Quota OK: gemini-weekly=33.70% gemini-5h=41.46% (reset: 2026-10-26T05:40:52Z)
+[04:00:23] [RUNNING] Quota OK: gemini-weekly=33.60% gemini-5h=41.11% (reset: 2026-10-26T05:40:52Z)
+[04:01:25] [RUNNING] Quota OK: gemini-weekly=33.43% gemini-5h=40.52% (reset: 2026-10-26T05:40:52Z)
+[04:02:28] [RUNNING] Quota OK: gemini-weekly=32.90% gemini-5h=38.03% (reset: 2026-10-26T05:40:52Z)
+[04:03:30] [RUNNING] Quota OK: gemini-weekly=33.20% gemini-5h=38.41% (reset: 2026-10-26T05:40:52Z)
+[04:04:33] [RUNNING] Quota OK: gemini-weekly=32.77% gemini-5h=37.60% (reset: 2026-10-26T05:40:52Z)
+[04:05:36] [RUNNING] Quota OK: gemini-weekly=32.77% gemini-5h=35.60% (reset: 2026-10-26T05:40:52Z)
+[04:06:38] [RUNNING] Quota OK: gemini-weekly=32.73% gemini-5h=34.76% (reset: 2026-10-26T05:40:52Z)
+[04:07:41] [RUNNING] Quota OK: gemini-weekly=31.76% gemini-5h=33.54% (reset: 2026-10-26T05:40:52Z)
+[04:08:43] [RUNNING] Quota OK: gemini-weekly=31.76% gemini-5h=32.54% (reset: 2026-10-26T05:40:52Z)
+[04:09:46] [RUNNING] Quota OK: gemini-weekly=31.24% gemini-5h=30.54% (reset: 2026-10-26T05:40:52Z)
+[04:10:48] [RUNNING] Quota OK: gemini-weekly=31.24% gemini-5h=30.54% (reset: 2026-10-26T05:40:52Z)
+[04:11:50] [RUNNING] Quota OK: gemini-weekly=31.08% gemini-5h=29.98% (reset: 2026-10-26T05:40:52Z)
+[04:12:53] [RUNNING] Quota OK: gemini-weekly=30.90% gemini-5h=28.37% (reset: 2026-10-26T05:40:52Z)
+[04:13:55] [RUNNING] Quota OK: gemini-weekly=29.80% gemini-5h=27.02% (reset: 2026-10-26T05:40:52Z)
+[04:14:58] [RUNNING] Quota OK: gemini-weekly=29.74% gemini-5h=26.29% (reset: 2026-10-26T05:40:52Z)
+[04:16:01] [RUNNING] Quota OK: gemini-weekly=29.68% gemini-5h=26.06% (reset: 2026-10-26T05:40:52Z)
+[04:17:04] [RUNNING] Quota OK: gemini-weekly=29.45% gemini-5h=25.28% (reset: 2026-10-26T05:40:52Z)
+[04:18:06] [RUNNING] Quota OK: gemini-weekly=28.81% gemini-5h=23.66% (reset: 2026-10-26T05:40:52Z)
+[04:19:09] [RUNNING] Quota OK: gemini-weekly=28.68% gemini-5h=22.20% (reset: 2026-10-26T05:40:52Z)
+[04:20:11] [RUNNING] Quota OK: gemini-weekly=28.63% gemini-5h=21.04% (reset: 2026-10-26T05:40:52Z)
+[04:21:14] [RUNNING] Quota OK: gemini-weekly=28.45% gemini-5h=19.90% (reset: 2026-10-26T05:40:52Z)
+[04:22:16] [RUNNING] Quota OK: gemini-weekly=27.65% gemini-5h=19.40% (reset: 2026-10-26T05:40:52Z)
+[04:23:18] [RUNNING] Quota OK: gemini-weekly=27.81% gemini-5h=18.99% (reset: 2026-10-26T05:40:52Z)
+[04:24:21] [RUNNING] Quota OK: gemini-weekly=27.02% gemini-5h=17.40% (reset: 2026-10-26T05:40:52Z)
+[04:25:23] [RUNNING] Quota OK: gemini-weekly=27.53% gemini-5h=16.97% (reset: 2026-10-26T05:40:52Z)
+[04:26:26] [RUNNING] Quota OK: gemini-weekly=27.45% gemini-5h=16.67% (reset: 2026-10-26T05:40:52Z)
+[04:27:28] [RUNNING] Quota OK: gemini-weekly=26.69% gemini-5h=15.46% (reset: 2026-10-26T05:40:52Z)
+[04:28:31] [RUNNING] Quota OK: gemini-weekly=27.20% gemini-5h=14.70% (reset: 2026-10-26T05:40:52Z)
+[04:29:33] [RUNNING] Quota OK: gemini-weekly=27.04% gemini-5h=14.13% (reset: 2026-10-26T05:40:52Z)
+[04:30:35] [RUNNING] Quota OK: gemini-weekly=26.69% gemini-5h=14.22% (reset: 2026-10-26T05:40:52Z)
+[04:31:38] [RUNNING] Quota OK: gemini-weekly=26.17% gemini-5h=12.89% (reset: 2026-10-26T05:40:52Z)
+[04:32:40] [RUNNING] Quota OK: gemini-weekly=26.08% gemini-5h=12.34% (reset: 2026-10-26T05:40:52Z)
+[04:33:43] [RUNNING] Quota OK: gemini-weekly=26.14% gemini-5h=11.51% (reset: 2026-10-26T05:40:52Z)
+[04:34:45] [RUNNING] Quota OK: gemini-weekly=25.27% gemini-5h=10.45% (reset: 2026-10-26T05:40:52Z)
+[04:35:47] [RUNNING] Quota OK: gemini-weekly=25.24% gemini-5h=10.63% (reset: 2026-10-26T05:40:52Z)
+[2026-10-26T04:36:50+02:00] ⚠️ QUOTA LIMIT REACHED (<10%): gemini-5h < 10% (gemini-weekly=25.75% gemini-5h=9.74% (reset: 2026-10-26T05:40:52Z)). Saving and pausing game...
+stopped agent alpha
+stopped agent beta
+stopped agent gamma
+stopped agent delta
+stopped auto-skip-night
+stopped bot-alpha
+stopped bot-beta
+stopped bot-delta
+stopped bot-gamma
+stopped dashboard
+ Container mc-agents Stopping 
+ Container mc-agents Stopped 
+[2026-10-26T04:36:55+02:00] ✅ Game saved and paused cleanly.
+[04:38:57] [WAITING FOR QUOTA] gemini-weekly=25.24% gemini-5h=9.63% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[04:41:00] [WAITING FOR QUOTA] gemini-weekly=25.71% gemini-5h=9.58% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[04:43:02] [WAITING FOR QUOTA] gemini-weekly=25.13% gemini-5h=8.96% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[04:45:05] [WAITING FOR QUOTA] gemini-weekly=25.13% gemini-5h=8.96% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[04:47:08] [WAITING FOR QUOTA] gemini-weekly=25.24% gemini-5h=9.63% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[04:49:11] [WAITING FOR QUOTA] gemini-weekly=25.24% gemini-5h=9.63% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[04:51:14] [WAITING FOR QUOTA] gemini-weekly=25.13% gemini-5h=8.96% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[04:53:17] [WAITING FOR QUOTA] gemini-weekly=25.13% gemini-5h=8.96% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[04:55:19] [WAITING FOR QUOTA] gemini-weekly=25.13% gemini-5h=8.96% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[04:57:23] [WAITING FOR QUOTA] gemini-weekly=25.71% gemini-5h=9.58% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[04:59:25] [WAITING FOR QUOTA] gemini-weekly=25.13% gemini-5h=8.96% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[05:01:28] [WAITING FOR QUOTA] gemini-weekly=25.71% gemini-5h=9.58% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[05:03:30] [WAITING FOR QUOTA] gemini-weekly=25.71% gemini-5h=9.58% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[05:05:33] [WAITING FOR QUOTA] gemini-weekly=25.71% gemini-5h=9.58% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[05:07:36] [WAITING FOR QUOTA] gemini-weekly=25.71% gemini-5h=9.58% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[05:09:39] [WAITING FOR QUOTA] gemini-weekly=25.71% gemini-5h=9.58% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[05:11:43] [WAITING FOR QUOTA] gemini-weekly=25.13% gemini-5h=8.96% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[05:13:45] [WAITING FOR QUOTA] gemini-weekly=25.71% gemini-5h=9.58% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[05:15:48] [WAITING FOR QUOTA] gemini-weekly=25.13% gemini-5h=8.96% (reset: 2026-10-26T05:40:52Z) (resumes at gemini-5h >= 50%)
+[2026-10-26T15:56:37+02:00] quota-guard started (PID 25273, stop<0.10, resume>=0.50)
+[15:56:41] [RUNNING] Quota OK: gemini-weekly=25.76% gemini-5h=100.00% (reset: 2026-10-26T18:56:40Z)
+[15:57:44] [RUNNING] Quota OK: gemini-weekly=25.76% gemini-5h=100.00% (reset: 2026-10-26T18:57:44Z)
+[15:58:47] [RUNNING] Quota OK: gemini-weekly=25.76% gemini-5h=100.00% (reset: 2026-10-26T18:58:47Z)
+[15:59:51] [RUNNING] Quota OK: gemini-weekly=25.76% gemini-5h=100.00% (reset: 2026-10-26T18:59:50Z)
+[16:00:53] [RUNNING] Quota OK: gemini-weekly=25.76% gemini-5h=100.00% (reset: 2026-10-26T19:00:53Z)
+[16:01:56] [RUNNING] Quota OK: gemini-weekly=25.76% gemini-5h=100.00% (reset: 2026-10-26T19:01:55Z)
+[16:02:59] [RUNNING] Quota OK: gemini-weekly=25.76% gemini-5h=100.00% (reset: 2026-10-26T19:02:58Z)
+[16:04:02] [RUNNING] Quota OK: gemini-weekly=25.76% gemini-5h=100.00% (reset: 2026-10-26T19:04:01Z)
+[16:05:04] [RUNNING] Quota OK: gemini-weekly=25.76% gemini-5h=100.00% (reset: 2026-10-26T19:05:04Z)
+[16:06:07] [RUNNING] Quota OK: gemini-weekly=25.76% gemini-5h=100.00% (reset: 2026-10-26T19:06:06Z)
+[16:07:09] [RUNNING] Quota OK: gemini-weekly=25.76% gemini-5h=100.00% (reset: 2026-10-26T19:07:09Z)
+[16:08:14] [RUNNING] Quota OK: gemini-weekly=23.64% gemini-5h=97.59% (reset: 2026-10-26T19:08:03Z)
+[16:09:17] [RUNNING] Quota OK: gemini-weekly=23.56% gemini-5h=97.31% (reset: 2026-10-26T19:08:03Z)
+[16:10:19] [RUNNING] Quota OK: gemini-weekly=23.35% gemini-5h=95.58% (reset: 2026-10-26T19:08:03Z)
+[16:11:22] [RUNNING] Quota OK: gemini-weekly=23.35% gemini-5h=94.58% (reset: 2026-10-26T19:08:03Z)
+[2026-10-26T16:12:11+02:00] quota-guard started (PID 56153, 5h_stop<0.10, weekly_stop<0.05, resume>=0.50)
+[16:12:14] [RUNNING] Quota OK: gemini-weekly=23.29% gemini-5h=94.38% (reset: 2026-10-26T19:08:03Z)
+[16:13:17] [RUNNING] Quota OK: gemini-weekly=23.36% gemini-5h=94.60% (reset: 2026-10-26T19:08:03Z)
+[16:14:22] [RUNNING] Quota OK: gemini-weekly=23.29% gemini-5h=93.38% (reset: 2026-10-26T19:08:03Z)
+[16:15:24] [RUNNING] Quota OK: gemini-weekly=23.23% gemini-5h=93.16% (reset: 2026-10-26T19:08:03Z)
+[16:16:30] [RUNNING] Quota OK: gemini-weekly=23.17% gemini-5h=91.94% (reset: 2026-10-26T19:08:03Z)
+[16:17:33] [RUNNING] Quota OK: gemini-weekly=22.67% gemini-5h=91.04% (reset: 2026-10-26T19:08:03Z)
+[16:18:35] [RUNNING] Quota OK: gemini-weekly=22.54% gemini-5h=90.58% (reset: 2026-10-26T19:08:03Z)
+[16:19:38] [RUNNING] Quota OK: gemini-weekly=22.62% gemini-5h=89.87% (reset: 2026-10-26T19:08:03Z)
+[16:20:41] [RUNNING] Quota OK: gemini-weekly=22.22% gemini-5h=88.81% (reset: 2026-10-26T19:08:03Z)
+[16:21:44] [RUNNING] Quota OK: gemini-weekly=22.04% gemini-5h=88.17% (reset: 2026-10-26T19:08:03Z)
+[16:22:47] [RUNNING] Quota OK: gemini-weekly=22.02% gemini-5h=87.69% (reset: 2026-10-26T19:08:03Z)
+[16:23:50] [RUNNING] Quota OK: gemini-weekly=20.96% gemini-5h=86.31% (reset: 2026-10-26T19:08:03Z)
+[16:24:53] [RUNNING] Quota OK: gemini-weekly=20.87% gemini-5h=86.00% (reset: 2026-10-26T19:08:03Z)
+[16:25:55] [RUNNING] Quota OK: gemini-weekly=20.82% gemini-5h=84.82% (reset: 2026-10-26T19:08:03Z)
+[16:26:58] [RUNNING] Quota OK: gemini-weekly=20.72% gemini-5h=84.64% (reset: 2026-10-26T19:08:03Z)
+[16:28:02] [RUNNING] Quota OK: gemini-weekly=20.11% gemini-5h=83.64% (reset: 2026-10-26T19:08:03Z)
+[16:29:05] [RUNNING] Quota OK: gemini-weekly=20.08% gemini-5h=82.54% (reset: 2026-10-26T19:08:03Z)
+[16:30:09] [RUNNING] Quota OK: gemini-weekly=19.92% gemini-5h=82.00% (reset: 2026-10-26T19:08:03Z)
+[16:31:12] [RUNNING] Quota OK: gemini-weekly=19.79% gemini-5h=81.55% (reset: 2026-10-26T19:08:03Z)
+[16:32:14] [RUNNING] Quota OK: gemini-weekly=19.68% gemini-5h=81.16% (reset: 2026-10-26T19:08:03Z)
+[16:33:17] [RUNNING] Quota OK: gemini-weekly=19.54% gemini-5h=80.64% (reset: 2026-10-26T19:08:03Z)
+[16:34:20] [RUNNING] Quota OK: gemini-weekly=19.42% gemini-5h=79.68% (reset: 2026-10-26T19:08:03Z)
+[16:35:23] [RUNNING] Quota OK: gemini-weekly=19.29% gemini-5h=78.78% (reset: 2026-10-26T19:08:03Z)
+[16:36:25] [RUNNING] Quota OK: gemini-weekly=19.26% gemini-5h=78.21% (reset: 2026-10-26T19:08:03Z)
+[16:37:28] [RUNNING] Quota OK: gemini-weekly=19.08% gemini-5h=78.04% (reset: 2026-10-26T19:08:03Z)
+[16:38:32] [RUNNING] Quota OK: gemini-weekly=19.02% gemini-5h=77.84% (reset: 2026-10-26T19:08:03Z)
+[16:39:35] [RUNNING] Quota OK: gemini-weekly=18.86% gemini-5h=77.55% (reset: 2026-10-26T19:08:03Z)
+[16:40:38] [RUNNING] Quota OK: gemini-weekly=17.80% gemini-5h=76.67% (reset: 2026-10-26T19:08:03Z)
+[16:41:40] [RUNNING] Quota OK: gemini-weekly=17.33% gemini-5h=76.02% (reset: 2026-10-26T19:08:03Z)
+[16:42:43] [RUNNING] Quota OK: gemini-weekly=17.58% gemini-5h=75.57% (reset: 2026-10-26T19:08:03Z)

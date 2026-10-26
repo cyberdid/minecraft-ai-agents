@@ -244,12 +244,12 @@ async function runProgram(code, timeoutSec) {
   const progConsole = { log: write(''), info: write(''), warn: write('[warn]'), error: write('[error]') }
   const isCancelled = () => gen !== runGeneration
 
-  const fn = vm.runInContext(`(async (bot, console, isCancelled) => {\n${code}\n})`, context, { filename: `program-${id}.js` })
   const started = Date.now()
   running = { id, started }
   let result, error, timedOut = false
   let timer
   try {
+    const fn = vm.runInContext(`(async (bot, console, isCancelled) => {\n${code}\n})`, context, { filename: `program-${id}.js` })
     result = await Promise.race([
       fn(bot, progConsole, isCancelled),
       new Promise((_, rej) => { timer = setTimeout(() => { timedOut = true; rej(new Error(`timed out after ${timeoutSec}s`)) }, timeoutSec * 1000) })
