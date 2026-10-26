@@ -229,11 +229,34 @@ module.exports = (bot, { port, name, viewDistance = 6 }) => {
     const worldView = new WorldView(bot.world, viewDistance, bot.entity.position, filtered(socket))
     views.set(socket, worldView)
     worldView.init(bot.entity.position)
-    const follow = () => worldView.updatePosition(bot.entity.position)
+    const follow = () => {
+      if (worldView.world !== bot.world) {
+        worldView.world = bot.world
+        worldView.loadedChunks = {}
+        socket.emit('version', bot.version)
+        worldView.init(bot.entity.position)
+        return
+      }
+      worldView.updatePosition(bot.entity.position)
+    }
+    const onRespawn = () => {
+      setTimeout(() => {
+        if (!bot.entity) return
+        worldView.world = bot.world
+        worldView.loadedChunks = {}
+        lastCam = null
+        cutY = null
+        cutCenter = null
+        socket.emit('version', bot.version)
+        worldView.init(bot.entity.position)
+      }, 500)
+    }
     bot.on('move', follow)
+    bot.on('respawn', onRespawn)
     worldView.listenToBot(bot)
     socket.on('disconnect', () => {
       bot.removeListener('move', follow)
+      bot.removeListener('respawn', onRespawn)
       worldView.removeListenersFromBot(bot)
       views.delete(socket)
     })

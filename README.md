@@ -1,79 +1,105 @@
-# Minecraft Autonomous Multi-Agent AI (Alpha & Beta) 🤖⛏️
+# Minecraft Autonomous Multi-Agent AI (Alpha, Beta, Gamma & Delta) 🤖⛏️🔥
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen.svg)](https://www.minecraft.net/)
+[![Agents](https://img.shields.io/badge/Agents-4%20Cooperative%20Bots-orange.svg)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-blue.svg)](https://nodejs.org/)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED.svg)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An open-source experimental framework for **fully autonomous, cooperative multi-agent AI** in vanilla Minecraft. Two autonomous agents (**Alpha** and **Beta**) collaborate in survival mode without human intervention: gathering resources, crafting tools, building shelters, managing hunger and inventory, sleeping synchronously through nights, mining deep underground, and rescuing each other from hazards.
+An open-source framework for **fully autonomous, cooperative 4-agent AI** in vanilla Minecraft 1.20.1 survival mode. Four autonomous agents (**Alpha**, **Beta**, **Gamma**, and **Delta**) collaborate in real time without human intervention: gathering resources, crafting tools and full iron armor, building shelters and blast-proof Nether tunnels, managing hunger and inventory, mining diamonds & obsidian, lighting a Nether portal, and assaulting a Nether Fortress Blaze Spawner on their way to defeating the Ender Dragon.
+
+![4-Agent Live 3D Quad-View Dashboard](docs/dashboard-4agents.png)
 
 ---
 
 ## 🌟 Key Features
 
-* **Dual-Agent Cooperative Loop:**
-  * **Role Specialization:** Emergent division of labor (Alpha: builder/smelter/logistics anchor; Beta: deep-slate miner/spelunker/nether pioneer).
-  * **Shared Chest Logistics:** Agents exchange resources, food, and emergency recovery equipment through automated base storage.
-  * **Inter-Agent Chat & Coordination:** Agents communicate via Minecraft chat to coordinate mining coordinates, sleep schedules, and door access.
-* **Autonomous Survival Skills (`bridge/lib/skills.js`):**
-  * Auto-crafting (furnaces, tables, wooden/stone/iron tools, full armor sets).
-  * Auto-smelting with multiple furnaces and automatic fuel replenishment.
-  * Pathfinder with hazard avoidance (lava, falls, drowning).
-  * Synchronized sleep in beds when `timeOfDay >= 12542` to skip nights and prevent phantom spawns.
-  * Emergency rescue protocols (crafting replacement gear and opening shelter doors after deaths).
-* **Live 3D Web Dashboard & Spectator:**
-  * Real-time 3D voxel terrain viewer built on Three.js.
-  * Full modern world height support ($-64 \dots 320$).
-  * Dual-mode camera: Top-down bird's-eye view (`🎥`) and immersive First-Person View (`👁`) with hotkey `V`.
-* **Zero-Touch World State Management:**
-  * Fast snapshots and rollbacks with `./save.sh <name>` and `./load.sh <name>`.
+* **4-Agent Cooperative Squad (`Alpha`, `Beta`, `Gamma`, `Delta`):**
+  * **Emergent Role Specialization:** Parallel division of labor across Overworld logistics, deep-slate diamond/obsidian mining, Nether ridge scouting, blast-proof tunnel engineering, and Blaze Spawner fortification.
+  * **Shared Base & Chest Logistics:** Agents exchange resources, iron, food, cobble, and recovery gear through shared base storage and furnaces.
+  * **Inter-Agent Chat & Shared Memory:** Agents coordinate waypoints, hazards, and tasks in real time via in-game chat and shared team notes (`agents/team/notes.md`) plus shared JS helpers (`agents/team/autoload.js`).
+* **Autonomous Survival & Engineering Skills (`bridge/lib.js` + `autoload.js`):**
+  * Automated prerequisite resolution (`lib.obtain`) for crafting wooden/stone/iron/diamond tools, shields, and full iron armor sets.
+  * Multi-furnace smelting and automated fuel management.
+  * Hazard-aware pathfinding (`configureFireAvoidance`) avoiding fire, soul fire, lava lakes, and steep abyss drops.
+  * Cave-safe obsidian casting (`makeObsidianSafe`) supporting 1.20 `cave_air`.
+* **Live 2×2 Quad-View 3D Web Dashboard (`http://localhost:3100`):**
+  * Real-time 2×2 split-screen 3D WebGL voxel viewer tracking all 4 agents simultaneously (`:3007`–`:3010`), plus live status, inventory, chat, and JS program feed (`:3101`–`:3104`).
+  * Dual-mode camera per agent: overhead spectator view (`🎥`) and First-Person View (`👁` / hotkey `V`).
+* **Unattended Operations & Quota Guard:**
+  * `quota-guard.sh`: Monitors Antigravity (`agy`) token quotas (`gemini-5h` < 10%, `gemini-weekly` < 5%), automatically saving and pausing the server when limits are low and auto-resuming all 4 agents once the 5-hour window refreshes.
+  * `auto-skip-night.sh`: Real-time day/night daemon for continuous surface operations.
+  * Fast world snapshots and rollbacks with `./save.sh <name>` and `./load.sh <name>`.
 
 ---
 
-## 📊 Completed In-Game Milestones
+## 📊 In-Game Progression & Milestones
 
-| Milestone | Objective | Status | Key Output |
+### Stage 1: Overworld & The Iron Age — **COMPLETE (7/7)**
+
+| Milestone | Objective | Status | Details |
 | :--- | :--- | :---: | :--- |
-| **M1** | Build fortified shelter at spawn | **100%** | Cobblestone walls, roof, door, chests, furnaces, torches |
-| **M2** | Iron tools & shields | **100%** | Iron pickaxes, axes, swords, and shields for both agents |
-| **M3** | Full iron armor | **100%** | Helmets, chestplates, leggings, boots equipped on both agents |
-| **M4** | Synchronized beds & spawnpoint | **100%** | Clean night skipping via dual beds in base |
-| **M5** | Water buckets & food security | **100%** | Water buckets crafted, livestock hunted and cooked |
-| **M6** | Diamond mining & diamond pickaxe | **100%** | 5 diamonds mined at $Y=-38$; `diamond_pickaxe` crafted |
-| **M7** | Nether portal construction | **85%** | 8/10 obsidian mined with water bucket casting; flint & steel ready |
+| **M1** | Build fortified base near spawn | **100%** | Enclosed cobblestone shelter at `(292..296, 72..75, -58..-54)` with door, chest, crafting table, 3 furnaces, torches |
+| **M2** | Iron tools for the team | **100%** | Iron pickaxes, swords, and axes crafted and distributed |
+| **M3** | Full iron armor & shields | **100%** | Full iron armor sets (helmet, chestplate, leggings, boots) + off-hand shields equipped across all 4 players (`[Suit Up]`) |
+| **M4** | Beds & respawn points locked | **100%** | Beds placed inside base at `(294, 72, -55)` & `(293, 72, -56)`; spawn points bound |
+| **M5** | Water buckets & food reserves | **100%** | Water buckets crafted & filled; 16+ cooked food per player |
+| **M6** | Diamond mining & diamond pickaxe | **100%** | Diamonds mined at deep-slate layer; `diamond_pickaxe` crafted (`makeObsidianSafe`) |
+| **M7** | Lit Nether Portal near base | **100%** | 10 obsidian cast & mined; portal built and ignited with flint & steel at `(298, 72, -54)` |
+
+### Stage 2: The Nether Expedition — **IN PROGRESS (Active Assault)**
+
+| Milestone | Objective | Status | Details |
+| :--- | :--- | :---: | :--- |
+| **N1** | Enter the Nether & fortify portal | **100%** | `[We Need to Go Deeper]` unlocked; blast-proof cobblestone portal bunker built at `(40, 65, -7)` in Soul Sand Valley |
+| **N2** | Safe East Ridge transit route | **100%** | Excavated tunnel through soul sand hill (`z=-6..-22`) and mapped fire-free East Ridge trail (`x=61..63`) |
+| **N3** | Locate Nether Fortress & Blaze Spawner | **100%** | Nether Fortress reached at `(45, 53..65, -116..-130)`; active **Blaze Spawner** confirmed on upper balcony at `(32, 68, -190)` |
+| **N4** | Enclosed blast-proof assault corridor | **90%** | Fortified workshop at `(44, 65, -129)` and enclosed cobblestone walkway/blast wall extended to `(38..44, 65, -175)` (~15m from spawner) |
+| **N5** | Enclose Blaze Spawner & farm 6–8 Blaze Rods | **In Progress** | Bridging final 15m to `(32, 68, -190)` with shields & cobblestone cover to farm Blaze Rods through a 1-block firing slit |
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ 4-Agent Architecture
 
 ```mermaid
 flowchart TD
     subgraph Minecraft Server
-        MC["Vanilla 1.20.1 (Docker Container: mc-agents)"]
+        MC["Vanilla 1.20.1 Server (Docker: mc-agents :25565)"]
     end
 
-    subgraph Bot Bridges
-        BA["Bot Alpha (Port 3101)"]
-        BB["Bot Beta (Port 3102)"]
+    subgraph Bot Bridges ["Mineflayer Bridges (Node.js)"]
+        BA["Bot Alpha (API :3101)"]
+        BB["Bot Beta (API :3102)"]
+        BG["Bot Gamma (API :3103)"]
+        BD["Bot Delta (API :3104)"]
     end
 
-    subgraph Web Dashboard
-        Dash["3D Web Dashboard (Port 3100)"]
-        ViewerA["Viewer Alpha (Port 3007)"]
-        ViewerB["Viewer Beta (Port 3008)"]
+    subgraph Web Dashboard ["Live 2x2 Quad-View Dashboard (:3100)"]
+        Dash["Dashboard Server (:3100)"]
+        VA["3D Viewer Alpha (:3007)"]
+        VB["3D Viewer Beta (:3008)"]
+        VG["3D Viewer Gamma (:3009)"]
+        VD["3D Viewer Delta (:3010)"]
     end
 
-    subgraph LLM Agent Loops
-        LA["Alpha Decision Loop (agent-loop.sh)"]
-        LB["Beta Decision Loop (agent-loop.sh)"]
+    subgraph Autonomous Loops ["LLM Agent Watchdogs & Supervisors"]
+        LA["Alpha Loop (agent-loop.sh alpha)"]
+        LB["Beta Loop (agent-loop.sh beta)"]
+        LG["Gamma Loop (agent-loop.sh gamma)"]
+        LD["Delta Loop (agent-loop.sh delta)"]
+        QG["Quota Guard (quota-guard.sh)"]
     end
 
-    MC <--> BA
-    MC <--> BB
-    BA --> ViewerA --> Dash
-    BB --> ViewerB --> Dash
+    MC <--> BA & BB & BG & BD
+    BA --> VA --> Dash
+    BB --> VB --> Dash
+    BG --> VG --> Dash
+    BD --> VD --> Dash
     LA <--> BA
     LB <--> BB
+    LG <--> BG
+    LD <--> BD
+    QG -. "Save / Pause / Auto-Resume" .-> MC & LA & LB & LG & LD
 ```
 
 ---
@@ -82,9 +108,9 @@ flowchart TD
 
 ### Prerequisites
 * **Linux** (tested on Ubuntu 22.04 / 24.04)
-* **Docker & Docker Compose** (for the vanilla Minecraft server)
+* **Docker & Docker Compose** (for the vanilla Minecraft 1.20.1 server)
 * **Node.js 18+** & **npm**
-* **Antigravity (`agy`)** or an LLM API CLI of your choice
+* **Antigravity (`agy`)** CLI
 
 ### 1. Installation
 Clone the repository and install bridge dependencies:
@@ -94,42 +120,48 @@ cd minecraft-ai-agents
 (cd bridge && npm install)
 ```
 
-### 2. Start the Minecraft Server
+### 2. Launch Everything at Once (Server + 4 Bridges + Dashboard + 4 Agent Terminals)
+```bash
+./launch.sh
+```
+Or start the world and bridges first:
 ```bash
 ./start.sh
 ```
-This launches the containerized Minecraft server on `127.0.0.1:25565` and starts the Mineflayer bot bridges.
+This launches:
+* `mc-agents` Docker container on `127.0.0.1:25565`
+* 4 Mineflayer bridges (`alpha` `:3101/:3007`, `beta` `:3102/:3008`, `gamma` `:3103/:3009`, `delta` `:3104/:3010`)
+* 2×2 Quad-View Dashboard on `http://localhost:3100`
+* `auto-skip-night.sh` and `quota-guard.sh` background daemons
 
-### 3. Open the 3D Live Dashboard
+### 3. Open the 3D Live Quad-View Dashboard
 In your browser, navigate to:
 ```
 http://localhost:3100
 ```
-* Use mouse to rotate, pan, and zoom.
-* Click **👁 Від 1-ї особи** or press **`V`** to switch between overhead spectator and first-person perspective.
+* Watch all 4 agents simultaneously in a 2×2 3D grid with live health, hunger, inventory, chat, and executed JavaScript programs.
+* Click **👁 Від 1-ї особи** or press **`V`** inside any viewport to toggle between overhead camera and first-person perspective.
 
-### 4. Run the Autonomous Agents
-In two separate terminals, start the decision loops:
+### 4. Run Individual Autonomous Agent Loops
 ```bash
-# Terminal 1: Alpha
 ./agent-loop.sh alpha
-
-# Terminal 2: Beta
 ./agent-loop.sh beta
+./agent-loop.sh gamma
+./agent-loop.sh delta
 ```
 
-### 5. Managing World State
+### 5. Managing World State & Shutdown
 ```bash
 # Save a snapshot of the current world:
 ./save.sh my-checkpoint
 
-# List available saves:
-./save.sh
+# Restore a saved snapshot (e.g. stage1-complete-4agents-portal-lit):
+./load.sh stage1-complete-4agents-portal-lit
 
-# Restore a saved snapshot:
-./load.sh my-checkpoint
+# Stop only the 4 LLM agent loops:
+./stop-agents.sh
 
-# Clean shutdown of all bots, loops, and server:
+# Clean shutdown of all bots, loops, daemons, and server:
 ./stop.sh --all
 ```
 
@@ -138,23 +170,33 @@ In two separate terminals, start the decision loops:
 ## 📜 Repository Structure
 
 ```
-├── agent-loop.sh       # Main autonomous turn loop
-├── agent.sh            # Single agent execution wrapper
-├── agents/             # Agent system prompts and configurations
-│   ├── alpha/          # Prompts and skills definition for Alpha
-│   └── beta/           # Prompts and skills definition for Beta
+├── launch.sh           # One-command launcher (server, 4 bridges, dashboard, 4 agent terminals)
+├── start.sh            # Starts server, 4 bot bridges, dashboard, auto-skip-night & quota-guard
+├── stop.sh             # Stops bridges/daemons (--all also stops agents & server)
+├── stop-agents.sh      # Gracefully stops all 4 agent-loop.sh watchdogs
+├── agent-loop.sh       # Autonomous turn loop watchdog for alpha|beta|gamma|delta
+├── quota-guard.sh      # Token quota monitor (<10% 5h pause & auto-resume, <5% weekly stop)
+├── auto-skip-night.sh  # Real-time night-skipping daemon
+├── agents/             # Agent system prompts, programs, and memories
+│   ├── AGENTS.template.md
+│   ├── guides/         # Survival, progression, building, and library guides
+│   ├── team/           # Shared team notes (notes.md) and shared helpers (autoload.js)
+│   ├── alpha/          # Alpha notes, autoload.js, and JS programs
+│   ├── beta/           # Beta notes, autoload.js, and JS programs
+│   ├── gamma/          # Gamma notes and JS programs
+│   └── delta/          # Delta notes and JS programs
 ├── bridge/             # Mineflayer bot bridge & 3D WebGL viewer
-│   ├── bot.js          # Bot connection and action execution server
-│   ├── dashboard.js    # Multi-bot web interface server
-│   ├── viewer.js       # Prismarine 3D voxel chunk streamer
-│   ├── lib/skills.js   # High-level macro skills (crafting, mining, storage)
+│   ├── bot.js          # Bot connection, VM sandbox, and HTTP API (:3101..3104)
+│   ├── dashboard.js    # 2x2 Quad-View web dashboard (:3100)
+│   ├── viewer.js       # Prismarine 3D voxel chunk streamer (:3007..3010)
+│   ├── lib.js          # High-level survival skills library
 │   └── public/         # Frontend WebGL viewer assets
-├── logs/               # Detailed execution traces (chat, programs, events)
+├── logs/               # Execution traces (chat, programs, events, usage, quota-guard)
 ├── server/             # Docker Compose setup & world storage
 │   ├── docker-compose.yml
-│   ├── data/world/     # Active world data and player stats
-│   └── saves/          # Milestone checkpoint saves
-└── docs/               # Analytical reports and specifications
+│   ├── data/world/     # Active Overworld & Nether world data
+│   └── saves/          # World checkpoints (including stage1-complete-4agents-portal-lit)
+└── docs/               # Screenshots, analytical reports, and specifications
 ```
 
 ---

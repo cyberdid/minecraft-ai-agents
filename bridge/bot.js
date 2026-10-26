@@ -11,6 +11,13 @@ const http = require('http')
 const fs = require('fs')
 const path = require('path')
 const vm = require('vm')
+
+process.on('unhandledRejection', (err) => {
+  console.error('[unhandledRejection]', err && err.message ? err.message : err)
+})
+process.on('uncaughtException', (err) => {
+  console.error('[uncaughtException]', err && err.stack ? err.stack : err)
+})
 const mineflayer = require('mineflayer')
 const { pathfinder, goals, Movements } = require('mineflayer-pathfinder')
 const { plugin: toolPlugin } = require('mineflayer-tool')
