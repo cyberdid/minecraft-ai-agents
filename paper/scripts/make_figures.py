@@ -44,7 +44,7 @@ def read(name):
 
 
 def save(fig, name):
-    fig.savefig(OUT / f"{name}.pdf")
+    fig.savefig(OUT / f"{name}.pdf", metadata={"CreationDate": None})  # byte-identical rebuilds
     fig.savefig(OUT / f"{name}.png", dpi=200)
     plt.close(fig)
 

@@ -8,6 +8,7 @@ cd "$PAPER"
 LOG="$PAPER/release/run_all.log"; mkdir -p "$PAPER/release"; : > "$LOG"
 step() { echo "== $*" | tee -a "$LOG"; "$@" >>"$LOG" 2>&1; echo "   exit $?" | tee -a "$LOG"; }
 export PYTHONDONTWRITEBYTECODE=1
+export SOURCE_DATE_EPOCH=1793750400   # 2026-11-03T00:00Z: fixed timestamps in the PDFs, so SHA256SUMS can be re-checked
 step python3 -I scripts/extract.py        # raw logs -> data/derived/*.csv, manifest.csv (SHA-256 of inputs)
 step python3 -I scripts/evidence.py       # milestones + evidence levels A-D, +K helpers
 step python3 -I scripts/stats.py          # stats.json and table CSVs
