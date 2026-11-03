@@ -21,8 +21,9 @@ STOP="$RUN/STOP-$NAME"; rm -f "$STOP"
 echo $$ >"$RUN/agent-$NAME.pid"
 cd "$ROOT/agents/$NAME"
 
-KICKOFF=${KICKOFF:-"You are $NAME. Read AGENTS.md in this directory and all the guides it lists, then start playing. Keep going without asking me anything."}
+KICKOFF=${KICKOFF:-"You are $NAME. Read AGENTS.md, memory/notes.md (## Now), and ../team/notes.md, then immediately continue playing from the current Nether/End stage without asking anything. Use the preloaded 1-line helpers in team/autoload.js (quickRegear, enterNetherPortal, marchToSpawnerPillbox, farmBlazeRodsAtPillbox, retreatToOverworldBase) to move and fight fast."}
 MAX_TURNS=${MAX_TURNS:-0} # 0 = no limit
+ROTATE_EVERY=${ROTATE_EVERY:-8} # rotate conversation every N turns to prevent context bloat & save quota
 
 continue_prompt() {
   local status
@@ -30,7 +31,7 @@ continue_prompt() {
   cat <<EOF
 [watchdog, turn $1] Your previous turn ended. The objective is not finished and never is: there is always a next milestone. Keep playing.
 Current status: ${status:-unknown}
-Before acting: read the ## Now section of memory/notes.md and the team notes, check the chat (any ./mc command shows it), then continue with the next step. Update ## Now before your turn ends.
+Before acting: read the ## Now section of memory/notes.md and the team notes, check the chat (any ./mc command shows it), then continue with the next step. Use preloaded team/autoload.js macros (quickRegear, marchToSpawnerPillbox, farmBlazeRodsAtPillbox, retreatToOverworldBase) instead of writing long transit loops. Update ## Now before your turn ends.
 EOF
 }
 
@@ -38,6 +39,10 @@ turn=0; backoff=30
 while [[ ! -f $STOP ]]; do
   turn=$((turn + 1))
   [[ $MAX_TURNS -gt 0 && $turn -gt $MAX_TURNS ]] && break
+  if [[ $ROTATE_EVERY -gt 0 && $((turn % ROTATE_EVERY)) -eq 0 ]]; then
+    echo "Rotating conversation for $NAME at turn $turn to keep context lean..."
+    rm -f "$CONV_FILE"
+  fi
   conv=$(cat "$CONV_FILE" 2>/dev/null || true)
   if [[ -z $conv ]]; then args=(-p "$KICKOFF"); else args=(--conversation "$conv" -p "$(continue_prompt $turn)"); fi
   echo -e "\n\033[1m=== $NAME · turn $turn · $(date +%H:%M:%S) · ${conv:-new conversation} ===\033[0m"

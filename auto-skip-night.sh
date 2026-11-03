@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
-# auto-skip-night.sh: Automatically fast-forwards nighttime to day in real time
-# without stopping or restarting the Minecraft server or agents.
+# auto-skip-night.sh: skip the night in real time, as if the players slept in beds.
+# When the game time reaches night (tick 12542) it is set to dawn (23460) through the
+# server console. This is the only server-side help of evidence level B in the paper;
+# nothing else is changed (no effects, game rules, items or blocks).
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")" && pwd)"
@@ -15,7 +17,7 @@ while true; do
   status=$(curl -s --max-time 3 http://localhost:3101/status 2>/dev/null || true)
   if [[ -n "$status" ]] && echo "$status" | grep -q '"timeOfDay"'; then
     timeOfDay=$(echo "$status" | jq -r '.timeOfDay // 0')
-    # Minecraft night is from tick 12542 to 23460
+    # Minecraft night is from tick 12542 (beds usable) to 23460 (undead burn)
     if [[ "$timeOfDay" -ge 12542 && "$timeOfDay" -lt 23460 ]]; then
       echo "[$(date '+%H:%M:%S')] Night detected (tick $timeOfDay). Skipping to dawn 23460..." >> "$LOG_FILE"
       docker exec -u minecraft mc-agents sh -c 'echo "time set 23460" > /proc/1/fd/5' 2>/dev/null || true

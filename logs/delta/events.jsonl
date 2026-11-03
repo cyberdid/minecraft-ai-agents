@@ -91,3 +91,443 @@
 {"t":"2026-10-26T14:37:43.184Z","text":"respawned"}
 {"t":"2026-10-26T14:38:44.756Z","text":"died at (38.4, 65.0, -175.5)"}
 {"t":"2026-10-26T14:38:44.760Z","text":"respawned"}
+{"t":"2026-10-26T14:44:36.685Z","text":"respawned"}
+{"t":"2026-10-26T14:45:04.595Z","text":"died at (62.4, 65.0, -64.8)"}
+{"t":"2026-10-26T14:45:04.600Z","text":"respawned"}
+{"t":"2026-10-26T14:46:09.881Z","text":"respawned"}
+{"t":"2026-10-26T14:46:45.696Z","text":"died at (48.3, 69.9, -7.6)"}
+{"t":"2026-10-26T14:46:45.701Z","text":"respawned"}
+{"t":"2026-10-26T14:51:49.474Z","text":"spawned at (301.5, 73.0, -87.5)"}
+{"t":"2026-10-26T14:51:49.505Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-26T14:54:23.037Z","text":"died at (282.5, 59.2, -50.5)"}
+{"t":"2026-10-26T14:54:23.043Z","text":"respawned"}
+{"t":"2026-10-26T15:01:17.682Z","text":"respawned"}
+{"t":"2026-10-26T15:02:53.889Z","text":"died at (38.6, 66.0, -175.5)"}
+{"t":"2026-10-26T15:02:53.893Z","text":"respawned"}
+{"t":"2026-10-26T15:14:59.985Z","text":"respawned"}
+{"t":"2026-10-26T15:15:53.693Z","text":"died at (44.5, 65.0, -172.6)"}
+{"t":"2026-10-26T15:15:53.699Z","text":"respawned"}
+{"t":"2026-10-26T15:27:38.643Z","text":"respawned"}
+{"t":"2026-10-26T15:28:43.186Z","text":"died at (35.3, 68.4, -185.7)"}
+{"t":"2026-10-26T15:28:43.190Z","text":"respawned"}
+{"t":"2026-10-31T14:55:01.437Z","text":"error: write EPIPE"}
+{"t":"2026-10-31T14:55:01.437Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T14:55:06.442Z","text":"error: write EPIPE"}
+{"t":"2026-10-31T14:55:06.442Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T14:55:11.449Z","text":"error: write EPIPE"}
+{"t":"2026-10-31T14:55:11.449Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T14:55:18.706Z","text":"spawned at (280.6, 72.0, -54.5)"}
+{"t":"2026-10-31T14:55:18.735Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-31T14:58:22.057Z","text":"respawned"}
+{"t":"2026-10-31T15:00:43.817Z","text":"died at (31.6, 27.4, -184.9)"}
+{"t":"2026-10-31T15:00:43.822Z","text":"respawned"}
+{"t":"2026-10-31T15:05:03.665Z","text":"respawned"}
+{"t":"2026-10-31T15:07:59.822Z","text":"died at (38.3, 66.0, -185.2)"}
+{"t":"2026-10-31T15:07:59.827Z","text":"respawned"}
+{"t":"2026-10-31T15:13:31.172Z","text":"respawned"}
+{"t":"2026-10-31T15:15:14.548Z","text":"died at (39.1, 25.2, -180.8)"}
+{"t":"2026-10-31T15:15:14.583Z","text":"respawned"}
+{"t":"2026-10-31T15:28:36.356Z","text":"respawned"}
+{"t":"2026-10-31T15:29:10.469Z","text":"died at (66.5, 68.9, -8.5)"}
+{"t":"2026-10-31T15:29:10.473Z","text":"respawned"}
+{"t":"2026-10-31T15:39:08.102Z","text":"spawned at (301.5, 71.0, -62.5)"}
+{"t":"2026-10-31T15:39:08.136Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-31T15:40:13.009Z","text":"error: client timed out after 30000 milliseconds"}
+{"t":"2026-10-31T15:40:13.050Z","text":"disconnected (keepAliveError); reconnecting in 5s"}
+{"t":"2026-10-31T15:40:18.396Z","text":"spawned at (294.7, 72.0, -52.5)"}
+{"t":"2026-10-31T15:43:41.797Z","text":"respawned"}
+{"t":"2026-10-31T15:45:19.670Z","text":"died at (38.5, 66.0, -176.4)"}
+{"t":"2026-10-31T15:45:19.674Z","text":"respawned"}
+{"t":"2026-10-31T15:51:58.410Z","text":"respawned"}
+{"t":"2026-10-31T15:52:27.974Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:52:28.072Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:52:28.904Z","text":"spawned at (41.7, 65.0, -6.5)"}
+{"t":"2026-10-31T15:52:28.945Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-10-31T15:52:33.146Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:52:33.147Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:52:33.630Z","text":"spawned at (41.7, 65.0, -6.5)"}
+{"t":"2026-10-31T15:52:38.195Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:52:38.195Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:52:38.707Z","text":"spawned at (42.0, 64.5, -3.4)"}
+{"t":"2026-10-31T15:52:43.214Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:52:43.215Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:52:43.748Z","text":"spawned at (42.0, 63.9, -3.4)"}
+{"t":"2026-10-31T15:52:48.299Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:52:48.426Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:52:48.817Z","text":"spawned at (47.6, 66.3, -2.3)"}
+{"t":"2026-10-31T15:52:53.474Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:52:53.475Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:52:53.938Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:52:58.524Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:52:58.531Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:52:59.086Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:53:03.565Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:53:03.565Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:53:04.052Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:53:08.616Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:53:08.616Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:53:08.993Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:53:13.665Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:53:13.665Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:53:14.048Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:53:18.715Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:53:18.715Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:53:19.141Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:53:23.764Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:53:23.764Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:53:24.203Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:53:28.809Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:53:28.810Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:53:29.251Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:53:33.870Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:53:33.870Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:53:34.316Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:53:38.920Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:53:38.920Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:53:39.324Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:53:43.968Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:53:43.969Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:53:44.349Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:53:49.017Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:53:49.017Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:53:49.435Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:53:54.069Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:53:54.069Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:53:54.527Z","text":"spawned at (47.6, 65.9, -2.3)"}
+{"t":"2026-10-31T15:53:59.199Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:53:59.209Z","text":"error: write EPIPE"}
+{"t":"2026-10-31T15:53:59.209Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:53:59.545Z","text":"spawned at (47.7, 65.9, -2.3)"}
+{"t":"2026-10-31T15:54:04.216Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:54:04.216Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:54:04.598Z","text":"spawned at (47.7, 65.9, -2.3)"}
+{"t":"2026-10-31T15:54:09.302Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:54:09.512Z","text":"error: write EPIPE"}
+{"t":"2026-10-31T15:54:09.512Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:54:09.650Z","text":"spawned at (47.7, 65.9, -2.3)"}
+{"t":"2026-10-31T15:54:14.564Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:54:14.564Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:54:14.908Z","text":"spawned at (47.7, 65.9, -2.3)"}
+{"t":"2026-10-31T15:54:19.612Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:54:19.613Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:54:20.038Z","text":"spawned at (47.7, 65.9, -2.3)"}
+{"t":"2026-10-31T15:54:24.664Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:54:24.665Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:54:25.063Z","text":"spawned at (47.7, 65.9, -2.3)"}
+{"t":"2026-10-31T15:54:29.718Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:54:29.719Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:54:30.115Z","text":"spawned at (47.7, 65.9, -2.3)"}
+{"t":"2026-10-31T15:54:34.764Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:54:34.765Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:54:35.127Z","text":"spawned at (47.7, 65.9, -2.3)"}
+{"t":"2026-10-31T15:54:39.815Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:54:39.815Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:54:40.217Z","text":"spawned at (48.4, 65.9, -2.4)"}
+{"t":"2026-10-31T15:54:44.861Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:54:44.861Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:54:45.313Z","text":"spawned at (48.7, 64.9, -2.5)"}
+{"t":"2026-10-31T15:54:49.907Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:54:49.908Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:54:50.307Z","text":"spawned at (48.6, 64.9, -2.5)"}
+{"t":"2026-10-31T15:54:54.915Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:54:54.916Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:54:55.264Z","text":"spawned at (48.6, 64.9, -2.5)"}
+{"t":"2026-10-31T15:54:59.963Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:54:59.964Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:55:00.321Z","text":"spawned at (47.5, 64.9, -0.5)"}
+{"t":"2026-10-31T15:55:04.970Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:55:04.970Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:55:05.304Z","text":"spawned at (47.5, 64.9, -0.5)"}
+{"t":"2026-10-31T15:55:10.013Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:55:10.014Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:55:10.335Z","text":"spawned at (47.5, 64.9, -0.5)"}
+{"t":"2026-10-31T15:55:15.063Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:55:15.064Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:55:15.427Z","text":"spawned at (47.5, 64.9, -0.5)"}
+{"t":"2026-10-31T15:55:20.114Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:55:20.114Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:55:20.459Z","text":"spawned at (47.5, 64.9, -0.5)"}
+{"t":"2026-10-31T15:55:25.161Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:55:25.162Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:55:25.606Z","text":"spawned at (47.5, 64.9, -0.5)"}
+{"t":"2026-10-31T15:55:30.210Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:55:30.210Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:55:30.545Z","text":"spawned at (47.5, 64.9, -0.5)"}
+{"t":"2026-10-31T15:55:35.260Z","text":"kicked: {\"translate\":\"multiplayer.disconnect.duplicate_login\"}"}
+{"t":"2026-10-31T15:55:35.260Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T15:55:35.628Z","text":"spawned at (47.5, 64.9, -0.5)"}
+{"t":"2026-10-31T15:56:09.368Z","text":"died at (43.8, 63.9, -2.3)"}
+{"t":"2026-10-31T15:56:09.375Z","text":"respawned"}
+{"t":"2026-10-31T15:56:54.561Z","text":"respawned"}
+{"t":"2026-10-31T15:58:46.464Z","text":"died at (38.5, 66.0, -176.4)"}
+{"t":"2026-10-31T15:58:46.467Z","text":"respawned"}
+{"t":"2026-10-31T16:03:28.664Z","text":"respawned"}
+{"t":"2026-10-31T16:04:32.216Z","text":"died at (38.5, 66.0, -176.1)"}
+{"t":"2026-10-31T16:04:32.220Z","text":"respawned"}
+{"t":"2026-10-31T16:11:29.108Z","text":"respawned"}
+{"t":"2026-10-31T16:13:51.757Z","text":"died at (36.5, 66.0, -182.7)"}
+{"t":"2026-10-31T16:13:51.760Z","text":"respawned"}
+{"t":"2026-10-31T16:14:36.346Z","text":"error: write EPIPE"}
+{"t":"2026-10-31T16:14:36.346Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:14:41.350Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:14:41.350Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:14:46.353Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:14:46.353Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:14:51.357Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:14:51.357Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:14:56.360Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:14:56.360Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:15:01.566Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:15:01.567Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:15:06.569Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:15:06.569Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:15:11.572Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:15:11.572Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:15:16.575Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:15:16.575Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:15:21.578Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:15:21.579Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:15:26.581Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:15:26.581Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:15:31.583Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:15:31.583Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:15:36.586Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:15:36.586Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:15:41.589Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:15:41.589Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:15:46.591Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:15:46.591Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:15:51.594Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:15:51.594Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:15:56.598Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:15:56.598Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:16:01.600Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:16:01.600Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:16:06.603Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:16:06.603Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:16:11.607Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:16:11.607Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:16:16.609Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:16:16.609Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:16:21.611Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:16:21.611Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:16:26.613Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:16:26.613Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:16:31.616Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:16:31.616Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:16:36.619Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:16:36.619Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:16:41.621Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:16:41.621Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:16:46.624Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:16:46.624Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:16:51.627Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:16:51.627Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:16:56.629Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:16:56.629Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:17:01.632Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:17:01.632Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:17:06.637Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:17:06.637Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:17:11.639Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:17:11.639Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:17:16.642Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:17:16.642Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:17:21.644Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:17:21.644Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:17:26.647Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:17:26.647Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:17:31.649Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:17:31.650Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:17:36.652Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:17:36.652Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:17:41.655Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:17:41.655Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:17:46.656Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:17:46.656Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:17:51.658Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:17:51.658Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:17:56.661Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:17:56.661Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:18:01.663Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:18:01.664Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:18:06.666Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:18:06.666Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:18:11.667Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:18:11.667Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:18:16.670Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:18:16.670Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:18:21.673Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:18:21.673Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:18:26.676Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:18:26.676Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:18:31.678Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:18:31.678Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:18:36.680Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:18:36.680Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:18:41.683Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:18:41.683Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:18:46.685Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:18:46.685Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:18:51.687Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:18:51.687Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:18:56.690Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:18:56.690Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:19:01.693Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:19:01.693Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:19:06.695Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:19:06.695Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:19:11.698Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:19:11.698Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:19:16.701Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:19:16.701Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:19:21.703Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:19:21.703Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:19:26.706Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:19:26.706Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:19:31.708Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:19:31.708Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:19:36.711Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:19:36.711Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:19:41.713Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:19:41.713Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:19:46.715Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:19:46.715Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:19:51.718Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:19:51.718Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:19:56.721Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:19:56.721Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:20:01.723Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:20:01.724Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:20:06.726Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:20:06.726Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:20:11.728Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:20:11.728Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:20:16.730Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:20:16.730Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:20:21.732Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:20:21.732Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:20:26.734Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:20:26.734Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:20:31.736Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:20:31.736Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:20:36.738Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:20:36.738Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-10-31T16:20:41.741Z","text":"error: connect ECONNREFUSED 127.0.0.1:25565"}
+{"t":"2026-10-31T16:20:41.741Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-11-01T16:59:49.261Z","text":"error: write EPIPE"}
+{"t":"2026-11-01T16:59:49.262Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-11-01T16:59:54.265Z","text":"error: write ECONNRESET"}
+{"t":"2026-11-01T16:59:54.265Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-11-01T16:59:59.938Z","text":"spawned at (276.5, 72.0, -71.5)"}
+{"t":"2026-11-01T16:59:59.969Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-11-01T17:06:26.261Z","text":"respawned"}
+{"t":"2026-11-01T17:11:34.657Z","text":"died at (45.5, 60.9, -169.6)"}
+{"t":"2026-11-01T17:11:34.662Z","text":"respawned"}
+{"t":"2026-11-01T17:14:15.450Z","text":"respawned"}
+{"t":"2026-11-01T17:18:10.709Z","text":"died at (37.4, 66.0, -185.5)"}
+{"t":"2026-11-01T17:18:10.715Z","text":"respawned"}
+{"t":"2026-11-01T17:20:00.399Z","text":"respawned"}
+{"t":"2026-11-01T17:24:58.106Z","text":"died at (34.4, 25.1, -191.6)"}
+{"t":"2026-11-01T17:24:58.114Z","text":"respawned"}
+{"t":"2026-11-01T17:28:34.401Z","text":"respawned"}
+{"t":"2026-11-01T17:30:50.764Z","text":"died at (37.8, 66.0, -184.5)"}
+{"t":"2026-11-01T17:30:50.767Z","text":"respawned"}
+{"t":"2026-11-01T17:33:17.159Z","text":"respawned"}
+{"t":"2026-11-01T17:36:41.310Z","text":"died at (37.5, 66.0, -185.4)"}
+{"t":"2026-11-01T17:36:41.313Z","text":"respawned"}
+{"t":"2026-11-01T17:37:59.301Z","text":"respawned"}
+{"t":"2026-11-01T17:42:41.055Z","text":"died at (37.7, 66.0, -185.6)"}
+{"t":"2026-11-01T17:42:41.058Z","text":"respawned"}
+{"t":"2026-11-01T17:49:47.708Z","text":"died at (290.7, 51.2, -52.3)"}
+{"t":"2026-11-01T17:49:47.711Z","text":"respawned"}
+{"t":"2026-11-01T17:51:50.605Z","text":"respawned"}
+{"t":"2026-11-01T17:53:02.437Z","text":"died at (62.5, 65.8, -63.2)"}
+{"t":"2026-11-01T17:53:02.440Z","text":"respawned"}
+{"t":"2026-11-01T17:59:17.210Z","text":"respawned"}
+{"t":"2026-11-01T18:06:02.228Z","text":"died at (37.5, 66.0, -184.5)"}
+{"t":"2026-11-01T18:06:02.230Z","text":"respawned"}
+{"t":"2026-11-01T18:13:24.950Z","text":"respawned"}
+{"t":"2026-11-01T18:20:36.208Z","text":"died at (35.3, 26.6, -189.7)"}
+{"t":"2026-11-01T18:20:36.210Z","text":"respawned"}
+{"t":"2026-11-01T18:21:41.060Z","text":"respawned"}
+{"t":"2026-11-01T18:22:48.661Z","text":"died at (62.8, 67.9, -5.5)"}
+{"t":"2026-11-01T18:22:48.663Z","text":"respawned"}
+{"t":"2026-11-01T18:23:33.955Z","text":"respawned"}
+{"t":"2026-11-01T18:25:07.351Z","text":"died at (37.5, 66.0, -186.7)"}
+{"t":"2026-11-01T18:25:07.353Z","text":"respawned"}
+{"t":"2026-11-01T18:28:46.962Z","text":"respawned"}
+{"t":"2026-11-01T18:32:58.360Z","text":"died at (37.5, 66.0, -187.2)"}
+{"t":"2026-11-01T18:32:58.365Z","text":"respawned"}
+{"t":"2026-11-01T18:34:05.905Z","text":"respawned"}
+{"t":"2026-11-01T18:36:51.965Z","text":"died at (37.3, 66.0, -187.7)"}
+{"t":"2026-11-01T18:36:51.967Z","text":"respawned"}
+{"t":"2026-11-01T18:40:03.553Z","text":"respawned"}
+{"t":"2026-11-01T18:45:21.763Z","text":"died at (38.7, 66.0, -187.1)"}
+{"t":"2026-11-01T18:45:21.768Z","text":"respawned"}
+{"t":"2026-11-01T18:47:23.105Z","text":"respawned"}
+{"t":"2026-11-01T18:57:26.809Z","text":"died at (39.6, 30.4, -172.9)"}
+{"t":"2026-11-01T18:57:26.815Z","text":"respawned"}
+{"t":"2026-11-01T19:04:23.958Z","text":"respawned"}
+{"t":"2026-11-01T19:08:46.964Z","text":"died at (42.5, 64.9, 1.3)"}
+{"t":"2026-11-01T19:08:46.967Z","text":"respawned"}
+{"t":"2026-11-01T19:09:52.718Z","text":"parked: logged out after 5 min without programs at (295.5, 72.0, -53.5); the next program logs back in"}
+{"t":"2026-11-01T19:10:39.288Z","text":"spawned at (295.5, 72.0, -53.5)"}
+{"t":"2026-11-01T19:10:40.034Z","text":"unparked at (295.5, 72.0, -53.5)"}
+{"t":"2026-11-01T19:14:17.107Z","text":"respawned"}
+{"t":"2026-11-01T19:28:34.250Z","text":"died at (46.3, 66.0, 2.0)"}
+{"t":"2026-11-01T19:28:34.254Z","text":"respawned"}
+{"t":"2026-11-01T19:31:20.514Z","text":"respawned"}
+{"t":"2026-11-01T19:34:05.511Z","text":"died at (63.5, 64.9, -33.4)"}
+{"t":"2026-11-01T19:34:05.513Z","text":"respawned"}
+{"t":"2026-11-01T19:37:01.808Z","text":"respawned"}
+{"t":"2026-11-01T19:37:08.808Z","text":"died at (45.3, 64.9, -0.1)"}
+{"t":"2026-11-01T19:37:08.810Z","text":"respawned"}
+{"t":"2026-11-01T19:38:25.816Z","text":"respawned"}
+{"t":"2026-11-01T19:39:51.309Z","text":"died at (46.1, 65.0, -142.4)"}
+{"t":"2026-11-01T19:39:51.311Z","text":"respawned"}
+{"t":"2026-11-01T19:42:30.017Z","text":"respawned"}
+{"t":"2026-11-02T09:54:41.370Z","text":"error: write EPIPE"}
+{"t":"2026-11-02T09:54:41.371Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-11-02T09:54:46.375Z","text":"error: write EPIPE"}
+{"t":"2026-11-02T09:54:46.375Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-11-02T09:54:54.880Z","text":"spawned at (45.5, 65.0, -125.3)"}
+{"t":"2026-11-02T09:54:54.908Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-11-02T10:03:13.092Z","text":"respawned"}
+{"t":"2026-11-02T10:14:16.635Z","text":"respawned"}
+{"t":"2026-11-02T10:16:00.292Z","text":"died at (37.6, 66.0, -186.1)"}
+{"t":"2026-11-02T10:16:00.295Z","text":"respawned"}
+{"t":"2026-11-02T10:22:08.542Z","text":"respawned"}
+{"t":"2026-11-02T10:24:54.245Z","text":"died at (39.5, 65.0, -188.2)"}
+{"t":"2026-11-02T10:24:54.248Z","text":"respawned"}
+{"t":"2026-11-02T10:28:13.943Z","text":"respawned"}
+{"t":"2026-11-02T10:28:59.695Z","text":"died at (44.5, 65.0, -125.9)"}
+{"t":"2026-11-02T10:28:59.697Z","text":"respawned"}
+{"t":"2026-11-02T11:16:58.631Z","text":"respawned"}
+{"t":"2026-11-02T11:17:37.489Z","text":"died at (51.5, 26.9, -108.6)"}
+{"t":"2026-11-02T11:17:37.491Z","text":"respawned"}
+{"t":"2026-11-02T11:21:10.546Z","text":"respawned"}
+{"t":"2026-11-02T11:35:33.536Z","text":"respawned"}
+{"t":"2026-11-02T11:38:35.943Z","text":"respawned"}
+{"t":"2026-11-02T16:58:42.362Z","text":"error: write EPIPE"}
+{"t":"2026-11-02T16:58:42.363Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-11-02T16:58:47.370Z","text":"error: write EPIPE"}
+{"t":"2026-11-02T16:58:47.370Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-11-02T16:58:52.379Z","text":"error: write EPIPE"}
+{"t":"2026-11-02T16:58:52.379Z","text":"disconnected (socketClosed); reconnecting in 5s"}
+{"t":"2026-11-02T16:59:03.245Z","text":"spawned at (43.5, 66.0, -118.4)"}
+{"t":"2026-11-02T16:59:03.277Z","text":"autoload team/autoload.js: ok"}
+{"t":"2026-11-02T16:59:03.278Z","text":"autoload delta/autoload.js: ok"}
+{"t":"2026-11-02T17:06:25.886Z","text":"died at (63.5, 64.9, -8.3)"}
+{"t":"2026-11-02T17:06:25.889Z","text":"respawned"}
+{"t":"2026-11-02T17:14:00.847Z","text":"respawned"}
+{"t":"2026-11-02T17:42:10.026Z","text":"respawned"}
+{"t":"2026-11-02T18:02:10.013Z","text":"respawned"}
+{"t":"2026-11-02T18:02:16.763Z","text":"respawned"}
+{"t":"2026-11-02T18:03:29.231Z","text":"respawned"}
+{"t":"2026-11-02T18:03:34.593Z","text":"respawned"}
+{"t":"2026-11-02T18:03:35.103Z","text":"respawned"}
+{"t":"2026-11-02T18:04:58.415Z","text":"died at (118.5, -260.8, 56.5)"}
+{"t":"2026-11-02T18:04:58.418Z","text":"respawned"}
+{"t":"2026-11-02T18:07:09.062Z","text":"died at (233.5, 55.7, -97.5)"}
+{"t":"2026-11-02T18:07:09.065Z","text":"respawned"}

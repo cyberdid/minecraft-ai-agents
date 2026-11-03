@@ -1,0 +1,231 @@
+// programs/461-pave-east-ridge-fire.js
+console.log('=== PAVE EAST RIDGE FIRE & ASSAULT (GAMMA) ===');
+console.log('Start pos:', lib.fmt(bot.entity.position), 'dim:', bot.game.dimension, 'HP:', bot.health);
+
+// 1. If in Overworld, sprint directly to Nether portal
+if (bot.game.dimension === 'overworld') {
+  bot.chat('gamma: Sprinting to Nether portal to pave safe trail and join team!');
+
+  // Navigate directly to portal sill at (299.5, 72.0, -52.5)
+  try {
+    await bot.pathfinder.goto(new goals.GoalNear(299.5, 72.0, -52.5, 0.8));
+  } catch (e) {
+    await bot.lookAt(new Vec3(299.5, 72.0, -52.5), true);
+    bot.setControlState('forward', true);
+    bot.setControlState('sprint', true);
+    if (bot.entity.isCollidedHorizontally) bot.setControlState('jump', true);
+    await sleep(2500);
+    bot.clearControlStates();
+  }
+
+  // Step into active portal block (299.5, 73.0, -53.5)
+  const target = new Vec3(299.5, 73.0, -53.5);
+  await bot.lookAt(target, true);
+  bot.setControlState('forward', true);
+  bot.setControlState('jump', true);
+  await sleep(1000);
+  bot.setControlState('jump', false);
+  bot.setControlState('forward', false);
+  bot.clearControlStates();
+
+  const warpStart = Date.now();
+  while (bot.game.dimension !== 'the_nether' && Date.now() - warpStart < 15000 && !isCancelled()) {
+    await sleep(250);
+  }
+}
+
+if (bot.game.dimension !== 'the_nether') {
+  console.log('Not in the_nether. Halting.');
+  return { dim: bot.game.dimension, pos: bot.entity.position };
+}
+
+console.log('WARP SUCCESS! Inside the_nether at:', lib.fmt(bot.entity.position), 'HP:', bot.health);
+
+// 2. Configure fire avoidance movements
+const moves = new Movements(bot, mcData);
+if (mcData.blocksByName.fire) moves.blocksToAvoid.add(mcData.blocksByName.fire.id);
+if (mcData.blocksByName.soul_fire) moves.blocksToAvoid.add(mcData.blocksByName.soul_fire.id);
+if (mcData.blocksByName.lava) moves.blocksToAvoid.add(mcData.blocksByName.lava.id);
+moves.canDig = false;
+moves.maxDropDown = 2;
+moves.allowParkour = false;
+bot.pathfinder.setMovements(moves);
+
+try { await lib.equipWeapon(); } catch (e) {}
+
+// Initial descent to bunker (46, 65, -7)
+try {
+  await lib.goTo(46, 65, -7, 2.0, { dig: false, timeoutMs: 12000 });
+} catch (e) {}
+
+// Walk along z = -7 corridor to (63, 64, -7)
+const approachPoints = [
+  { x: 50, y: 65, z: -7 },
+  { x: 54, y: 65, z: -7 },
+  { x: 58, y: 65, z: -7 },
+  { x: 63, y: 64, z: -7 }
+];
+
+for (const apt of approachPoints) {
+  if (bot.game.dimension !== 'the_nether') break;
+  try {
+    await lib.goTo(apt.x, apt.y, apt.z, 1.8, { dig: false, timeoutMs: 8000 });
+  } catch (e) {}
+}
+
+console.log('At East Ridge start (63, 64, -7)! Pos:', lib.fmt(bot.entity.position));
+
+// 3. Scan for fire/soul_fire between z = -8 and z = -22 and smother with cobblestone
+const firesAhead = bot.findBlocks({
+  matching: b => b && (b.name === 'fire' || b.name === 'soul_fire'),
+  maxDistance: 12,
+  count: 10
+});
+
+console.log(`Found ${firesAhead.length} fire blocks ahead along trail:`);
+for (const fpos of firesAhead) {
+  console.log(`Fire block at ${lib.fmt(fpos)} (${bot.blockAt(fpos)?.name})`);
+  // If we have cobblestone, place it on the fire block to extinguish it permanently
+  if (lib.count('cobblestone') > 0) {
+    try {
+      console.log(`Placing cobblestone on fire at ${lib.fmt(fpos)}...`);
+      await lib.place(fpos.x, fpos.y, fpos.z, 'cobblestone');
+      console.log(`Smothered fire at ${lib.fmt(fpos)}!`);
+    } catch (e) {
+      console.log(`Could not place on fire: ${e.message}`);
+    }
+  }
+}
+
+// 4. March remaining waypoints to Spawner Pillbox
+const trailWaypoints = [
+  { x: 63, y: 65, z: -20 },
+  { x: 63, y: 66, z: -35 },
+  { x: 62, y: 67, z: -50 },
+  { x: 61, y: 67, z: -65 },
+  { x: 62, y: 67, z: -80 },
+  { x: 61.5, y: 66, z: -90 },
+  { x: 61, y: 66, z: -100 },
+  { x: 50, y: 65, z: -115 },
+  { x: 44, y: 65, z: -127 }, // Fortress Workshop
+  { x: 44, y: 65, z: -145 }, // Covered Tunnel
+  { x: 44, y: 65, z: -160 },
+  { x: 44, y: 65, z: -169 }, // Blast Wall
+  { x: 38, y: 65, z: -176 }, // Cross Bridge
+  { x: 37, y: 66, z: -184 }, // Pillbox Covered Entry
+  { x: 36.8, y: 66, z: -186.5 } // Spawner Pillbox Firing Station
+];
+
+bot.chat('gamma: Marching along safe East Ridge trench to Spawner Pillbox (36, 66, -187)!');
+
+for (let i = 0; i < trailWaypoints.length && !isCancelled(); i++) {
+  if (bot.game.dimension !== 'the_nether') {
+    console.log('CRITICAL: Dimension changed. Stopping Nether march!');
+    break;
+  }
+
+  const wp = trailWaypoints[i];
+  const target = new Vec3(wp.x, wp.y, wp.z);
+  const dist = bot.entity.position.distanceTo(target);
+
+  if (dist < 2.0) continue;
+
+  console.log(`[Trail WP ${i + 1}/${trailWaypoints.length}] -> (${wp.x}, ${wp.y}, ${wp.z}) [dist: ${dist.toFixed(1)}m, HP: ${bot.health.toFixed(1)}]`);
+
+  try {
+    await lib.goTo(wp.x, wp.y, wp.z, 2.0, { dig: false, timeoutMs: 14000 });
+  } catch (err) {
+    console.log(`goTo note at WP ${i + 1}: ${err.message}. Retrying with GoalNear...`);
+    try {
+      await bot.pathfinder.goto(new goals.GoalNear(wp.x, wp.y, wp.z, 3.0));
+    } catch (e2) {}
+  }
+
+  try { await lib.pickup(3.0); } catch (e) {}
+
+  if (bot.health <= 6) {
+    console.log(`Health low (${bot.health}) at WP ${i + 1}, taking cover to regenerate.`);
+    await sleep(4000);
+  }
+}
+
+console.log('End of trail reached! Pos:', lib.fmt(bot.entity.position), 'HP:', bot.health);
+
+// 5. Pillbox combat loop
+if (bot.game.dimension === 'the_nether') {
+  const pillboxPos = new Vec3(36.8, 66.0, -186.5);
+  const pillboxDist = bot.entity.position.distanceTo(pillboxPos);
+  console.log(`Distance to Pillbox station: ${pillboxDist.toFixed(1)}m`);
+
+  if (pillboxDist <= 8.0) {
+    bot.chat('gamma: Inside Spawner Pillbox! Slaying Blazes shoulder-to-shoulder with team for Milestone 8!');
+
+    const farmStart = Date.now();
+    const targetRods = 8;
+    let lastRods = lib.count('blaze_rod');
+    let lastAttack = 0;
+    let killed = 0;
+
+    while (!isCancelled() && Date.now() - farmStart < 120000) {
+      if (bot.game.dimension !== 'the_nether') break;
+
+      if (bot.health < 8) {
+        console.log(`HP low (${bot.health.toFixed(1)}), taking cover behind wall at z=-184...`);
+        try { await lib.goTo(37, 66, -184, 1.0, { dig: false, timeoutMs: 3000 }); } catch (e) {}
+        await sleep(4000);
+        try { await lib.goTo(36.8, 66, -186.5, 1.0, { dig: false, timeoutMs: 3000 }); } catch (e) {}
+        continue;
+      }
+
+      const blazes = Object.values(bot.entities)
+        .filter(e => e.name === 'blaze' && e.isValid && (e.health === undefined || e.health > 0))
+        .sort((a, b) => bot.entity.position.distanceTo(a.position) - bot.entity.position.distanceTo(b.position));
+
+      const target = blazes[0];
+      if (target) {
+        const d = bot.entity.position.distanceTo(target.position);
+        if (d <= 5.0 && Date.now() - lastAttack > 625) {
+          await bot.lookAt(target.position.offset(0, (target.height || 1.8) * 0.7, 0), true);
+          bot.attack(target);
+          lastAttack = Date.now();
+          if (target.health !== undefined && target.health <= 0) {
+            killed++;
+            console.log(`Blaze eliminated! Total kills = ${killed}`);
+          }
+        }
+      }
+
+      if (bot.entity.position.x >= 35.5 && Math.random() < 0.3) {
+        try { await lib.pickup(3.5); } catch (e) {}
+      }
+
+      const curRods = lib.count('blaze_rod');
+      if (curRods > lastRods) {
+        bot.chat(`gamma: Blaze Rod harvested! Total: ${curRods}/${targetRods}`);
+        lastRods = curRods;
+        console.log(`*** BLAZE ROD ACQUIRED! Count = ${curRods} ***`);
+      }
+
+      if (curRods >= targetRods) {
+        bot.chat(`gamma: MILESTONE 8 COMPLETE! Harvested ${curRods} Blaze Rods!`);
+        break;
+      }
+
+      await sleep(120);
+    }
+
+    try { if (bot.entity.position.x >= 35.5) await lib.pickup(3.5); } catch (e) {}
+    console.log(`Pillbox combat complete. Kills: ${killed}, Rods held: ${lib.count('blaze_rod')}`);
+  }
+}
+
+const finalRods = lib.count('blaze_rod');
+bot.chat(`gamma: Combat round complete. Blaze Rods held: ${finalRods}/8, HP: ${bot.health.toFixed(1)}`);
+
+return {
+  dimension: bot.game.dimension,
+  pos: bot.entity.position,
+  hp: bot.health,
+  rods: finalRods,
+  inv: lib.inv()
+};

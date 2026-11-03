@@ -4,3 +4,17 @@ error: interrupted
 root agent idle; waiting up to 30m0s for 1 background task(s)
 error: interrupted
 root agent idle; waiting up to 30m0s for 1 background task(s)
+error: interrupted
+root agent idle; waiting up to 30m0s for 1 background task(s)
+root agent idle; waiting up to 30m0s for 1 background task(s)
+error: interrupted
+root agent idle; waiting up to 30m0s for 1 background task(s)
+error: There was a network issue connecting to the server, please try again. (response may be truncated)
+AGY_ERROR: {"short_error":"agent executor error: generating and executing: request failed: Post \"https://daily-cloudcode-pa.googleapis.com/v1internal:streamGenerateContent?alt=sse\": dial tcp: lookup daily-cloudcode-pa.googleapis.com: no such host","status":"UNKNOWN","error_code":2,"code_kind":"grpc","retryable":true,"error_id":"c393bcd5-cfb1-4ce7-966e-33507e6c5d68-706"}
+root agent idle; waiting up to 30m0s for 1 background task(s)
+error: interrupted
+root agent idle; waiting up to 30m0s for 1 background task(s)
+error: interrupted
+root agent idle; waiting up to 30m0s for 1 background task(s)
+root agent idle; waiting up to 30m0s for 1 background task(s)
+error: interrupted

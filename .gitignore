@@ -28,3 +28,7 @@ server/saves/lib-test/
 .DS_Store
 *.swp
 *~
+
+# LaTeX build logs
+paper/tex/*/main.log
+paper/tex/*/main.blg

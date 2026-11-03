@@ -253,6 +253,10 @@ async function runProgram(code, timeoutSec) {
 
   const started = Date.now()
   running = { id, started }
+  sandbox.isProgramCancelled = isCancelled
+  if (typeof sandbox.installBlockProtection === 'function') {
+    try { sandbox.installBlockProtection() } catch {}
+  }
   let result, error, timedOut = false
   let timer
   try {

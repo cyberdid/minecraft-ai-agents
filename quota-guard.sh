@@ -9,7 +9,7 @@ ROOT="$(cd "$(dirname "$0")" && pwd)"
 PID_FILE="$ROOT/run/quota-guard.pid"
 LOG_FILE="$ROOT/logs/quota-guard.log"
 STOP_THRESHOLD="${QUOTA_THRESHOLD:-0.10}"            # Stop 5h below 10%
-WEEKLY_STOP_THRESHOLD="${WEEKLY_THRESHOLD:-0.05}"    # Stop weekly below 5%
+WEEKLY_STOP_THRESHOLD="${WEEKLY_THRESHOLD:-0.00}"    # Ignored: 0% (user will stop manually)
 RESUME_THRESHOLD="${QUOTA_RESUME:-0.50}"             # Resume once 5h quota recovers to >= 50%
 ACTIVE_INTERVAL="${QUOTA_INTERVAL:-60}"              # Poll every 60s when game is running
 PAUSED_INTERVAL="${QUOTA_PAUSED_INTERVAL:-120}"      # Poll every 120s when waiting for quota recovery
@@ -47,7 +47,7 @@ pause_game() {
 resume_game() {
   local summary="$1"
   echo "[$(date -Iseconds)] 🚀 QUOTA RECOVERED ($summary). Starting server and 4 agents..." >> "$LOG_FILE"
-  rm -f "$ROOT/run/STOP-"*
+  rm -f "$ROOT/run/STOP-"* "$ROOT/run/"*.conversation
   "$ROOT/start.sh" >> "$LOG_FILE" 2>&1 || true
   echo $$ > "$PID_FILE"
   for name in alpha beta gamma delta; do

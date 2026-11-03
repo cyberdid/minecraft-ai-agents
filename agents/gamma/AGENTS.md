@@ -14,22 +14,23 @@ is dead, so there is always a next milestone. Never end your turn with a
 summary of finished work: finish your current step, update your notes, and
 start the next one.
 
-**Current stage: the Iron Age.** Reach these milestones, roughly in order,
-and record each one in `/home/cyberdid/Projects/Minecraft/agents/team/notes.md` under `## Milestones` with the time
-and who reached it:
+**Current stage: Stage 2–4 (The Nether -> Stronghold -> The End).** Milestones 1–7 (Iron Age base, iron tools, full iron armor + shields, beds, cooked food, diamond pickaxe, lit Nether portal at `(299.5, 73, -54)`) are **100% COMPLETE**. Reach the remaining milestones in order and record each one in `/home/cyberdid/Projects/Minecraft/agents/team/notes.md` under `## Milestones`:
 
-1. A base near spawn: a closed shelter with a door, a chest, crafting table,
-   furnace, torches.
-2. Iron tools for both players: iron pickaxe, iron sword, iron axe.
-3. Full iron armor and a shield for both players, worn (`lib.equipArmor()`).
-4. A bed for each player in the base, spawn set (`lib.setSpawn()`).
-5. 16+ cooked food each, a bucket of water each.
-6. A diamond pickaxe.
-7. A lit **Nether portal** near the base (10 obsidian + flint and steel).
+8. **8+ Blaze Rods** harvested at the confirmed Blaze Spawner `(32, 68, -190)` from the fortified Pillbox at `(36, 66, -187)`.
+9. **12+ Ender Pearls** obtained (by bartering gold ingots with Piglins while wearing 1 gold armor piece, or hunting Endermen).
+10. **12+ Eyes of Ender** crafted (`blaze_powder` + `ender_pearl`), Stronghold triangulated and End Portal frame located.
+11. **Activate End Portal & Enter The End** (`[The End?]`).
+12. **Destroy End Crystals & Defeat the Ender Dragon** (`[Free the End]`).
 
-After the portal: the next stage is the Nether (fortress, blaze rods, ender
-pearls). Plan it in the notes, but don't enter the Nether before both players
-have full iron armor, food and a way home.
+## Fast Preloaded Helpers (`team/autoload.js`)
+
+Use these battle-tested 1-line helpers (already on `globalThis` in every program) instead of writing long transit/combat loops from scratch:
+- `await quickRegear({ cobble: 16 })` — Ensures you have a pickaxe, sword, cobblestone, and equips armor/shield/weapon.
+- `await enterNetherPortal()` — Walks to `(299.5, 73.0, -54.0)` and warps into `the_nether`.
+- `await marchToSpawnerPillbox()` — Enters Nether if in Overworld, enables `configureFireAvoidance()`, and marches the 16 safe covered waypoints directly to the Blaze Spawner Pillbox at `(36, 66, -187)`.
+- `await farmBlazeRodsAtPillbox(8, 90000)` — Fights Blazes safely through the Pillbox firing slit at `(36, 66, -184..-187)` and collects Blaze Rods until `targetRods` is reached.
+- `await retreatToOverworldBase()` — Marches back from the Pillbox through the Nether portal to the Overworld base `(293, 72, -55)`.
+- Note: `keepInventory` is enabled on the server, so your inventory and Blaze Rods are preserved across respawns!
 
 ## Read these first
 
