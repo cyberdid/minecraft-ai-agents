@@ -152,37 +152,53 @@ OK: 7 tables and 30 quoted numbers match the data
 tables: 1, 2, 3, 4, 5, 6, 7
 wrote tex/uk/main.tex
 note: Running TeX ...
-warning: main.tex:192: Underfull \hbox (badness 7099) in paragraph at lines 191--192
-warning: main.tex:201: Underfull \hbox (badness 2213) in paragraph at lines 200--201
-warning: main.tex:201: Underfull \hbox (badness 4303) in paragraph at lines 200--201
-warning: main.tex:208: Underfull \hbox (badness 3803) in paragraph at lines 207--208
-warning: main.tex:212: Underfull \hbox (badness 10000) in paragraph at lines 211--212
+warning: main.tex:197: Underfull \hbox (badness 7099) in paragraph at lines 196--197
+warning: main.tex:206: Underfull \hbox (badness 1552) in paragraph at lines 205--206
+warning: main.tex:206: Underfull \hbox (badness 1715) in paragraph at lines 205--206
+warning: main.tex:206: Underfull \hbox (badness 3312) in paragraph at lines 205--206
+warning: main.tex:208: Underfull \hbox (badness 2027) in paragraph at lines 207--208
+warning: main.tex:208: Underfull \hbox (badness 4492) in paragraph at lines 207--208
+warning: main.tex:208: Underfull \hbox (badness 1127) in paragraph at lines 207--208
+warning: main.tex:226: Underfull \hbox (badness 3803) in paragraph at lines 225--226
+warning: main.tex:230: Underfull \hbox (badness 10000) in paragraph at lines 229--230
 note: Rerunning TeX because "main.aux" changed ...
-warning: main.tex:192: Underfull \hbox (badness 7099) in paragraph at lines 191--192
-warning: main.tex:201: Underfull \hbox (badness 2213) in paragraph at lines 200--201
-warning: main.tex:201: Underfull \hbox (badness 4303) in paragraph at lines 200--201
-warning: main.tex:208: Underfull \hbox (badness 3803) in paragraph at lines 207--208
-warning: main.tex:212: Underfull \hbox (badness 10000) in paragraph at lines 211--212
+warning: main.tex:197: Underfull \hbox (badness 7099) in paragraph at lines 196--197
+warning: main.tex:206: Underfull \hbox (badness 1552) in paragraph at lines 205--206
+warning: main.tex:206: Underfull \hbox (badness 1715) in paragraph at lines 205--206
+warning: main.tex:206: Underfull \hbox (badness 3312) in paragraph at lines 205--206
+warning: main.tex:208: Underfull \hbox (badness 2027) in paragraph at lines 207--208
+warning: main.tex:208: Underfull \hbox (badness 4492) in paragraph at lines 207--208
+warning: main.tex:208: Underfull \hbox (badness 1127) in paragraph at lines 207--208
+warning: main.tex:226: Underfull \hbox (badness 3803) in paragraph at lines 225--226
+warning: main.tex:230: Underfull \hbox (badness 10000) in paragraph at lines 229--230
 warning: warnings were issued by the TeX engine; use --print and/or --keep-logs for details.
 note: Running xdvipdfmx ...
-note: Writing `/home/cyberdid/Projects/Minecraft/paper/tex/en/main.pdf` (134.55 KiB)
-note: Writing `/home/cyberdid/Projects/Minecraft/paper/tex/en/main.log` (29.78 KiB)
+note: Writing `/home/cyberdid/Projects/Minecraft/paper/tex/en/main.pdf` (139.29 KiB)
+note: Writing `/home/cyberdid/Projects/Minecraft/paper/tex/en/main.log` (30.56 KiB)
 note: Skipped writing 2 intermediate files (use --keep-intermediates to keep them)
 built /home/cyberdid/Projects/Minecraft/paper/article-en.pdf
 note: Running TeX ...
-warning: main.tex:21: Underfull \hbox (badness 10000) in paragraph at lines 20--21
-warning: main.tex:21: Underfull \hbox (badness 1253) in paragraph at lines 20--21
+warning: main.tex:23: Underfull \hbox (badness 10000) in paragraph at lines 22--23
+warning: main.tex:23: Underfull \hbox (badness 1253) in paragraph at lines 22--23
 warning: main.tex:231: Underfull \hbox (badness 5490) in paragraph at lines 230--231
-warning: main.tex:255: Underfull \hbox (badness 5331) in paragraph at lines 254--255
-note: Rerunning TeX because "main.out" changed ...
-warning: main.tex:21: Underfull \hbox (badness 10000) in paragraph at lines 20--21
-warning: main.tex:21: Underfull \hbox (badness 1253) in paragraph at lines 20--21
+warning: main.tex:247: Underfull \hbox (badness 1454) in paragraph at lines 246--247
+warning: main.tex:247: Underfull \hbox (badness 1275) in paragraph at lines 246--247
+warning: main.tex:247: Underfull \hbox (badness 1107) in paragraph at lines 246--247
+warning: main.tex:255: Underfull \hbox (badness 2134) in paragraph at lines 254--255
+warning: main.tex:269: Underfull \hbox (badness 5331) in paragraph at lines 268--269
+note: Rerunning TeX because "main.aux" changed ...
+warning: main.tex:23: Underfull \hbox (badness 10000) in paragraph at lines 22--23
+warning: main.tex:23: Underfull \hbox (badness 1253) in paragraph at lines 22--23
 warning: main.tex:231: Underfull \hbox (badness 5490) in paragraph at lines 230--231
-warning: main.tex:255: Underfull \hbox (badness 5331) in paragraph at lines 254--255
+warning: main.tex:247: Underfull \hbox (badness 1454) in paragraph at lines 246--247
+warning: main.tex:247: Underfull \hbox (badness 1275) in paragraph at lines 246--247
+warning: main.tex:247: Underfull \hbox (badness 1107) in paragraph at lines 246--247
+warning: main.tex:255: Underfull \hbox (badness 2134) in paragraph at lines 254--255
+warning: main.tex:269: Underfull \hbox (badness 5331) in paragraph at lines 268--269
 warning: warnings were issued by the TeX engine; use --print and/or --keep-logs for details.
 note: Running xdvipdfmx ...
-note: Writing `/home/cyberdid/Projects/Minecraft/paper/tex/uk/main.pdf` (127.18 KiB)
-note: Writing `/home/cyberdid/Projects/Minecraft/paper/tex/uk/main.log` (29.24 KiB)
+note: Writing `/home/cyberdid/Projects/Minecraft/paper/tex/uk/main.pdf` (133.54 KiB)
+note: Writing `/home/cyberdid/Projects/Minecraft/paper/tex/uk/main.log` (30.41 KiB)
 note: Skipped writing 2 intermediate files (use --keep-intermediates to keep them)
 built /home/cyberdid/Projects/Minecraft/paper/article-uk.pdf
    exit 0

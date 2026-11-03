@@ -65,7 +65,8 @@ def figures(after):
 def main():
     text = re.sub(r"<<T(\d+)>>.*?<</T\1>>", lambda m: f"@@TABLE{m.group(1)}@@", SRC, flags=re.S)
     paras = [p.strip() for p in text.split("\n\n") if p.strip()]
-    title, author, orcid, date = paras[1], *paras[2].split("\n")[:3]
+    title = paras[1]
+    author, aff1, aff2, orcid, email, date = paras[2].split("\n")[:6]
     body = []
     pending_fig = None
     i = 3
@@ -76,7 +77,7 @@ def main():
             body.append("\\begin{abstract}\n\\noindent\n" + esc(paras[i + 1]) + "\n\\end{abstract}\n")
             i += 2
             continue
-        m = re.match(r"^(Ключові слова|Заява про незалежність|Заява про використання ШІ)[.:] (.*)$", p, re.S)
+        m = re.match(r"^(Ключові слова|Межі доказовості|Заява про незалежність)[.:] (.*)$", p, re.S)
         if m:
             body.append(f"\\medskip\\noindent\\textbf{{{m.group(1)}.}} {esc(m.group(2))}\n")
             i += 1
@@ -133,7 +134,8 @@ def main():
         "\\hypersetup{pdftitle={Дешеві агенти-програмісти у виживанні Minecraft},pdfauthor={Олександр Пилипенко}}\n"
         "\\begin{document}\n\\selectlanguage{ukrainian}\n"
         f"\\title{{{TITLE}}}\n"
-        f"\\author{{{esc(author)}\\\\[2pt]\\small {esc(orcid)}}}\n\\date{{{esc(date)} \\quad (v1.0)}}\n\\maketitle\n"
+        f"\\author{{{esc(author)}\\\\[4pt]\\small {esc(aff1)}\\\\\\small {esc(aff2)}\\\\\\small {esc(orcid)}\\\\"
+        f"\\small\\href{{mailto:{email}}}{{\\texttt{{{esc(email)}}}}}}}\n\\date{{{esc(date)}}}\n\\maketitle\n"
         + "\n".join(body) + "\n" + bib + "\\end{document}\n")
     (PAPER / "tex" / "uk" / "main.tex").write_text(doc)
     print("wrote tex/uk/main.tex")

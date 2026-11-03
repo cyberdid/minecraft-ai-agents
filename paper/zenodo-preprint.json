@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "title": "Low-cost coding agents in survival Minecraft: a tested skill library, a twelve-day run of four Gemini 3.8 Flash agents, and a server-log audit of every milestone",
+    "upload_type": "publication",
+    "publication_type": "preprint",
+    "publication_date": "2026-11-03",
+    "description": "<p>We partially reproduce the setting of arXiv:2610.22319, in which four Gemini 4 Argon agents beat Minecraft by writing JavaScript programs for the Mineflayer library.</p>\n<p>Our setting differs in a cheaper model (Gemini 3.8 Flash High through the Antigravity CLI), a limited token budget, and a tested skill library given to the agents at the start: 54 functions, among them a recursive lib.obtain(item, n) that derives the whole chain of prerequisites from the game data.</p>\n<p>We describe the infrastructure (a sandboxed bridge, a turn watchdog, “parking” of idle bots, a cutaway viewer), 20 defects found while testing it, two pilot runs and a main run of 294 calendar hours, 20.1 of them active play.</p>\n<p>In that time 2–4 agents ran 3770 programs (21.2 % failed; 70.4 % of the failures were time-outs) and died 332 times.</p>\n<p>The main contribution is the audit: each of 16 milestones receives an evidence level A–D by a mechanical rule over the server log.</p>\n<p>Level A means that no console command at all preceded the milestone.</p>\n<p>The agents completed stage 1 (stone, iron, armour, bed, diamonds, diamond pickaxe, flint and steel, obsidian) at level A in 2.4 active hours.</p>\n<p>Entering the Nether, finding a fortress and the first blaze rod are level B (the only help was night skipping), but by then the agents were using helpers that the operator's supervising session had added during the run (mark +K).</p>\n<p>Ender pearls and eyes of ender are level C (permanent status effects, enchantments, keepInventory).</p>\n<p>We do not credit the agents with the stronghold, the End or the dragon: console commands produced those milestones (teleports, /fill of the portal, /damage to the dragon, an advancement grant), level D.</p>\n<p>Fire, ghast fireballs and lava account for 63.6 % of deaths.</p>\n<p>The model used 13 652 steps, 50.8 M uncached input tokens (1922.9 M more from the cache, 97.4 %), 8.82 M output and 4.06 M reasoning tokens.</p>\n",
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "creators": [
+      {
+        "name": "Pylypenko, Oleksandr",
+        "affiliation": "State University of Trade and Economics, Kyiv, Ukraine",
+        "orcid": "0009-0004-9610-9242"
+      }
+    ],
+    "keywords": [
+      "LLM Agents",
+      "Multi-Agent Systems",
+      "Minecraft",
+      "Mineflayer",
+      "Skill Library",
+      "Long-Horizon Tasks",
+      "Audit",
+      "Reproducibility"
+    ],
+    "language": "eng",
+    "version": "1",
+    "related_identifiers": [
+      {
+        "identifier": "https://github.com/cyberdid/minecraft-ai-agents",
+        "relation": "isSupplementedBy",
+        "resource_type": "software",
+        "scheme": "url"
+      },
+      {
+        "identifier": "arXiv:2610.22319",
+        "relation": "references",
+        "scheme": "arxiv"
+      },
+      {
+        "identifier": "arXiv:2407.15325",
+        "relation": "references",
+        "scheme": "arxiv"
+      }
+    ],
+    "notes": "Files: article-en.pdf (English), article-uk.pdf (Ukrainian). Code and data: https://github.com/cyberdid/minecraft-ai-agents (MIT; article text, figures and experimental records CC BY 4.0)."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "minecraft-ai-agents: infrastructure, skill library, run data and analysis for four coding agents in survival Minecraft",
+  "upload_type": "software",
+  "description": "<p>Mineflayer bridge with a sandbox, a tested skill library (lib.obtain), agent watchdog, overhead/cutaway viewer, raw logs of a twelve-day run of four Gemini 3.8 Flash agents, and the scripts that rebuild every table and figure of the accompanying preprint.</p>",
+  "creators": [
+    {
+      "name": "Pylypenko, Oleksandr",
+      "affiliation": "State University of Trade and Economics, Kyiv, Ukraine",
+      "orcid": "0009-0004-9610-9242"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "LLM Agents",
+    "Multi-Agent Systems",
+    "Minecraft",
+    "Mineflayer",
+    "Skill Library",
+    "Long-Horizon Tasks",
+    "Audit",
+    "Reproducibility"
+  ],
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "arXiv:2610.22319",
+      "relation": "references",
+      "scheme": "arxiv"
+    }
+  ]
+}

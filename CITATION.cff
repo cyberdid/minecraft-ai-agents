@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "minecraft-ai-agents: infrastructure, skill library, run data and analysis for four coding agents in survival Minecraft"
+type: software
+license: MIT
+repository-code: "https://github.com/cyberdid/minecraft-ai-agents"
+authors:
+  - family-names: Pylypenko
+    given-names: Oleksandr
+    affiliation: "State University of Trade and Economics, Kyiv, Ukraine"
+    orcid: "https://orcid.org/0009-0004-9610-9242"
+    email: O.Pylypenko@knute.edu.ua
+keywords: [LLM agents, multi-agent systems, Minecraft, Mineflayer, skill library, audit]
+date-released: "2026-11-03"
+preferred-citation:
+  type: article
+  title: "Low-cost coding agents in survival Minecraft: a tested skill library, a twelve-day run of four Gemini 3.8 Flash agents, and a server-log audit of every milestone"
+  authors:
+    - family-names: Pylypenko
+      given-names: Oleksandr
+      affiliation: "State University of Trade and Economics, Kyiv, Ukraine"
+      orcid: "https://orcid.org/0009-0004-9610-9242"
+  year: 2026
+  notes: "Preprint, v1.0. PDFs: paper/article-en.pdf, paper/article-uk.pdf"

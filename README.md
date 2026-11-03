@@ -15,6 +15,10 @@ coordinates with the others through the game chat and shared notes. The setup fo
 [arXiv:2610.22319](https://arxiv.org/abs/2610.22319) (four Gemini 4 Argon agents beat
 Minecraft), with a cheaper model, a token budget and a tested skill library.
 
+**Author:** Oleksandr Pylypenko — Independent Researcher in Artificial Intelligence and Machine
+Learning; PhD Student, State University of Trade and Economics, Kyiv, Ukraine ·
+ORCID [0009-0004-9610-9242](https://orcid.org/0009-0004-9610-9242) · O.Pylypenko@knute.edu.ua
+
 **The paper**: [English](paper/article-en.pdf) · [Українською](paper/article-uk.pdf) ·
 master text [`paper/article-ua.txt`](paper/article-ua.txt) · reproduce with
 `bash paper/scripts/run_all.sh` ([how](paper/README_REPRODUCE.md)).
@@ -123,7 +127,18 @@ paper/           article (ua/en/uk), scripts, data, figures, release/
 docs/            hero image (AI-generated illustration), screenshots
 ```
 
+## How to cite
+
+> Pylypenko, O. (2026). *Low-cost coding agents in survival Minecraft: a tested skill library,
+> a twelve-day run of four Gemini 3.8 Flash agents, and a server-log audit of every milestone*
+> (Preprint v1.0). State University of Trade and Economics, Kyiv.
+> https://github.com/cyberdid/minecraft-ai-agents
+
+Machine-readable: [`CITATION.cff`](CITATION.cff); Zenodo metadata: [`.zenodo.json`](.zenodo.json)
+(software) and [`paper/zenodo-preprint.json`](paper/zenodo-preprint.json) (preprint).
+
 ## License
 
-MIT. Minecraft is a trademark of Mojang Synergies AB; this project is not affiliated with
+Code: MIT. Article text, original figures and experimental records: CC BY 4.0
+([`paper/LICENSE.md`](paper/LICENSE.md)). Minecraft is a trademark of Mojang Synergies AB; this project is not affiliated with
 Mojang or Microsoft. The banner illustration is AI-generated (Gemini image model).
