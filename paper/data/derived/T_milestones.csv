@@ -1,0 +1,17 @@
+id,milestone,first_ts_utc,agent,level,operator_helpers,wall_hours,active_hours
+M01,Stone tools,2026-10-21T12:13:01Z,beta,A,0,0.0,0.0
+M02,Iron pickaxe,2026-10-21T13:16:23Z,beta,A,0,1.1,1.0
+M03,First iron armor piece,2026-10-21T13:17:38Z,beta,A,0,1.1,1.0
+M04,Slept in a bed,2026-10-21T12:37:03Z,alpha,A,0,0.4,0.3
+M05,Diamonds,2026-10-21T14:22:20Z,beta,A,0,2.2,2.0
+M06,Diamond pickaxe,2026-10-21T14:24:03Z,beta,A,0,2.2,2.1
+M07,Obsidian (water on lava),2026-10-21T17:15:20Z,beta,A,0,5.1,2.4
+M08,Flint and steel,2026-10-21T14:09:50Z,beta,A,0,2.0,1.9
+M09,Entered the Nether,2026-10-24T17:53:14Z,delta,B,6,77.7,7.4
+M10,Nether fortress,2026-10-25T21:02:15Z,delta,B,7,104.9,9.6
+M11,Blaze rod,2026-10-31T15:21:03Z,gamma,B,8,243.2,13.4
+M12,Ender pearl,2026-11-02T11:45:43Z,beta,C,14,287.6,18.9
+M13,Eye of ender,2026-11-02T17:10:15Z,beta,C,16,293.0,19.1
+M14,Stronghold portal room,2026-11-02T18:01:36Z,delta,D,16,293.8,19.9
+M15,Entered the End,2026-11-02T18:01:49Z,alpha,D,16,293.8,19.9
+M16,Ender dragon killed,2026-11-02T18:06:35Z,beta,D,16,293.9,20.0

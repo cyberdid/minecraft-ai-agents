@@ -1,0 +1,13 @@
+family,A,B,C,D,total
+fill,0,0,702,100,802
+time,0,59,30,1,90
+effect,0,0,55,21,76
+enchant,0,0,26,0,26
+gamerule,0,0,20,2,22
+spawnpoint,0,0,15,0,15
+teleport,0,0,0,15,15
+query,0,8,0,4,12
+give,0,0,2,3,5
+damage,0,0,0,5,5
+advancement_grant,0,0,0,2,2
+kill,0,0,0,1,1

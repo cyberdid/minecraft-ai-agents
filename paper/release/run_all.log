@@ -1,0 +1,188 @@
+== python3 -I scripts/extract.py
+server_events: 4993 rows | programs: 4105 | turns: 51 | items: 53 | inputs hashed: 42
+   exit 0
+== python3 -I scripts/evidence.py
+M01 Stone tools                2026-10-21T12:13:01Z  beta   A  K=0 
+M02 Iron pickaxe               2026-10-21T13:16:23Z  beta   A  K=0 
+M03 First iron armor piece     2026-10-21T13:17:38Z  beta   A  K=0 
+M04 Slept in a bed             2026-10-21T12:37:03Z  alpha  A  K=0 
+M05 Diamonds                   2026-10-21T14:22:20Z  beta   A  K=0 
+M06 Diamond pickaxe            2026-10-21T14:24:03Z  beta   A  K=0 
+M07 Obsidian (water on lava)   2026-10-21T17:15:20Z  beta   A  K=0 
+M08 Flint and steel            2026-10-21T14:09:50Z  beta   A  K=0 
+M09 Entered the Nether         2026-10-24T17:53:14Z  delta  B  K=6 makeObsidianSafe mineDryObsidian passDoorIn passDoorOut safeEat scoopWaterBlock
+M10 Nether fortress            2026-10-25T21:02:15Z  delta  B  K=7 clearFireAhead makeObsidianSafe mineDryObsidian passDoorIn passDoorOut safeEat scoopWaterBlock
+M11 Blaze rod                  2026-10-31T15:21:03Z  gamma  B  K=8 clearFireAhead configureFireAvoidance makeObsidianSafe mineDryObsidian passDoorIn passDoorOut safeEat scoopWaterBlock
+M12 Ender pearl                2026-11-02T11:45:43Z  beta   C  K=14 clearFireAhead configureFireAvoidance enterNetherPortal farmBlazeRodsAtPillbox isProgramCancelled makeObsidianSafe marchToSpawnerPillbox mineDryObsidian passDoorIn passDoorOut quickRegear retreatToOverworldBase safeEat scoopWaterBlock
+M13 Eye of ender               2026-11-02T17:10:15Z  beta   C  K=16 clearFireAhead configureFireAvoidance enterNetherPortal farmBlazeRodsAtPillbox installBlockProtection isProgramCancelled isProtectedBlock makeObsidianSafe marchToSpawnerPillbox mineDryObsidian passDoorIn passDoorOut quickRegear retreatToOverworldBase safeEat scoopWaterBlock
+M14 Stronghold portal room     2026-11-02T18:01:36Z  delta  D  K=16 clearFireAhead configureFireAvoidance enterNetherPortal farmBlazeRodsAtPillbox installBlockProtection isProgramCancelled isProtectedBlock makeObsidianSafe marchToSpawnerPillbox mineDryObsidian passDoorIn passDoorOut quickRegear retreatToOverworldBase safeEat scoopWaterBlock
+M15 Entered the End            2026-11-02T18:01:49Z  alpha  D  K=16 clearFireAhead configureFireAvoidance enterNetherPortal farmBlazeRodsAtPillbox installBlockProtection isProgramCancelled isProtectedBlock makeObsidianSafe marchToSpawnerPillbox mineDryObsidian passDoorIn passDoorOut quickRegear retreatToOverworldBase safeEat scoopWaterBlock
+M16 Ender dragon killed        2026-11-02T18:06:35Z  beta   D  K=16 clearFireAhead configureFireAvoidance enterNetherPortal farmBlazeRodsAtPillbox installBlockProtection isProgramCancelled isProtectedBlock makeObsidianSafe marchToSpawnerPillbox mineDryObsidian passDoorIn passDoorOut quickRegear retreatToOverworldBase safeEat scoopWaterBlock
+   exit 0
+== python3 -I scripts/stats.py
+{
+ "active_hours_by_phase": {
+  "A": 4.5,
+  "B": 9.8,
+  "C": 5.6,
+  "D": 0.2
+ },
+ "console_commands_main": 1071,
+ "deaths_by_phase": {
+  "A": 11,
+  "B": 173,
+  "C": 140,
+  "D": 8,
+  "total": 332
+ },
+ "deaths_per_active_hour": {
+  "main_A": 2.4,
+  "main_B": 17.7,
+  "main_C": 25.1,
+  "main_D": 40.4,
+  "pilot1": 34.9,
+  "pilot2": 2.6
+ },
+ "main_deaths": 332,
+ "main_error_share_pct": 21.2,
+ "main_errors": 798,
+ "main_median_program_s": 8.8,
+ "main_programs": 3770,
+ "milestone_levels": {
+  "A": 8,
+  "B": 3,
+  "C": 2,
+  "D": 3
+ },
+ "nether_cause_deaths": {
+  "count": 211,
+  "share_pct": 63.6
+ },
+ "phase_bounds": {
+  "A": [
+   "2026-10-21T12:11:00Z",
+   "2026-10-23T18:23:04Z"
+  ],
+  "B": [
+   "2026-10-23T18:23:04Z",
+   "2026-11-01T17:00:03Z"
+  ],
+  "C": [
+   "2026-11-01T17:00:03Z",
+   "2026-11-02T17:59:34Z"
+  ],
+  "D": [
+   "2026-11-02T17:59:34Z",
+   "2026-11-02T18:12:00Z"
+  ]
+ },
+ "pilot2_idle": {
+  "deaths": 42,
+  "deaths_in_server_log": 12,
+  "from": "2026-10-20T20:43:00Z",
+  "hours": 8.2,
+  "source": "runs/run2-20261021/logs-and-stage1-tests/alpha/chat.jsonl",
+  "to": "2026-10-21T04:58:00Z"
+ },
+ "run_main": {
+  "active_hours": 20.1,
+  "agents": 4,
+  "deaths": 332,
+  "end_utc": "2026-11-02T18:12:00Z",
+  "error_share_pct": 21.2,
+  "lib_share_pct": 92.6,
+  "programs": 3770,
+  "run": "main",
+  "start_utc": "2026-10-21T12:11:00Z",
+  "wall_hours": 294.0
+ },
+ "run_pilot1": {
+  "active_hours": 0.2,
+  "agents": 2,
+  "deaths": 8,
+  "end_utc": "2026-10-20T19:15:00Z",
+  "error_share_pct": 16.2,
+  "lib_share_pct": 0.0,
+  "programs": 99,
+  "run": "pilot1",
+  "start_utc": "2026-10-20T19:00:00Z",
+  "wall_hours": 0.2
+ },
+ "run_pilot2": {
+  "active_hours": 0.8,
+  "agents": 2,
+  "deaths": 2,
+  "end_utc": "2026-10-20T20:43:00Z",
+  "error_share_pct": 23.7,
+  "lib_share_pct": 100.0,
+  "programs": 93,
+  "run": "pilot2",
+  "start_utc": "2026-10-20T19:56:00Z",
+  "wall_hours": 0.8
+ },
+ "server_log_coverage": {
+  "inside": 3766,
+  "main_programs": 3770,
+  "missing_stretch": "2026-10-21T00:00Z..2026-10-21T11:59Z (pilot 2 idle night and tests)",
+  "outside": 4
+ },
+ "stage1_done_active_hours": 2.4,
+ "stage1_done_wall_hours": 5.1,
+ "timeout_share_of_errors_pct": 70.4,
+ "tokens_main": {
+  "cache_share_pct": 97.4,
+  "cached_mtok": 1922.9,
+  "input_uncached_mtok": 50.8,
+  "model_steps": 13652,
+  "output_mtok": 8.82,
+  "thinking_mtok": 4.06
+ }
+}
+   exit 0
+== python3 -I scripts/gen_tables.py
+tables: 1, 2, 3, 4, 5, 6, 7
+   exit 0
+== python3 scripts/make_figures.py
+figures in /home/cyberdid/Projects/Minecraft/paper/figures
+   exit 0
+== python3 -I scripts/verify_tables.py
+OK: 7 tables and 30 quoted numbers match the data
+   exit 0
+== bash tex/build.sh
+tables: 1, 2, 3, 4, 5, 6, 7
+wrote tex/uk/main.tex
+note: Running TeX ...
+warning: main.tex:192: Underfull \hbox (badness 7099) in paragraph at lines 191--192
+warning: main.tex:201: Underfull \hbox (badness 2213) in paragraph at lines 200--201
+warning: main.tex:201: Underfull \hbox (badness 4303) in paragraph at lines 200--201
+warning: main.tex:208: Underfull \hbox (badness 3803) in paragraph at lines 207--208
+warning: main.tex:212: Underfull \hbox (badness 10000) in paragraph at lines 211--212
+note: Rerunning TeX because "main.aux" changed ...
+warning: main.tex:192: Underfull \hbox (badness 7099) in paragraph at lines 191--192
+warning: main.tex:201: Underfull \hbox (badness 2213) in paragraph at lines 200--201
+warning: main.tex:201: Underfull \hbox (badness 4303) in paragraph at lines 200--201
+warning: main.tex:208: Underfull \hbox (badness 3803) in paragraph at lines 207--208
+warning: main.tex:212: Underfull \hbox (badness 10000) in paragraph at lines 211--212
+warning: warnings were issued by the TeX engine; use --print and/or --keep-logs for details.
+note: Running xdvipdfmx ...
+note: Writing `/home/cyberdid/Projects/Minecraft/paper/tex/en/main.pdf` (134.55 KiB)
+note: Writing `/home/cyberdid/Projects/Minecraft/paper/tex/en/main.log` (29.78 KiB)
+note: Skipped writing 2 intermediate files (use --keep-intermediates to keep them)
+built /home/cyberdid/Projects/Minecraft/paper/article-en.pdf
+note: Running TeX ...
+warning: main.tex:21: Underfull \hbox (badness 10000) in paragraph at lines 20--21
+warning: main.tex:21: Underfull \hbox (badness 1253) in paragraph at lines 20--21
+warning: main.tex:231: Underfull \hbox (badness 5490) in paragraph at lines 230--231
+warning: main.tex:255: Underfull \hbox (badness 5331) in paragraph at lines 254--255
+note: Rerunning TeX because "main.out" changed ...
+warning: main.tex:21: Underfull \hbox (badness 10000) in paragraph at lines 20--21
+warning: main.tex:21: Underfull \hbox (badness 1253) in paragraph at lines 20--21
+warning: main.tex:231: Underfull \hbox (badness 5490) in paragraph at lines 230--231
+warning: main.tex:255: Underfull \hbox (badness 5331) in paragraph at lines 254--255
+warning: warnings were issued by the TeX engine; use --print and/or --keep-logs for details.
+note: Running xdvipdfmx ...
+note: Writing `/home/cyberdid/Projects/Minecraft/paper/tex/uk/main.pdf` (127.18 KiB)
+note: Writing `/home/cyberdid/Projects/Minecraft/paper/tex/uk/main.log` (29.24 KiB)
+note: Skipped writing 2 intermediate files (use --keep-intermediates to keep them)
+built /home/cyberdid/Projects/Minecraft/paper/article-uk.pdf
+   exit 0

@@ -1,0 +1,4 @@
+run,start_utc,end_utc,agents,wall_hours,active_hours,programs,error_share_pct,deaths,lib_share_pct
+pilot1,2026-10-20T19:00:00Z,2026-10-20T19:15:00Z,2,0.2,0.2,99,16.2,8,0.0
+pilot2,2026-10-20T19:56:00Z,2026-10-20T20:43:00Z,2,0.8,0.8,93,23.7,2,100.0
+main,2026-10-21T12:11:00Z,2026-11-02T18:12:00Z,4,294.0,20.1,3770,21.2,332,92.6

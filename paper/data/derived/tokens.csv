@@ -1,0 +1,5 @@
+agent,steps,conversations,input_mtok,cached_mtok,output_mtok,thinking_mtok
+alpha,3770,9,16.9,524.5,2.48,1.14
+beta,4376,8,14.57,634.7,2.62,1.2
+gamma,2645,9,9.22,353.6,1.86,0.87
+delta,2861,4,10.1,410.1,1.86,0.85

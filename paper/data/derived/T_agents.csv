@@ -1,0 +1,5 @@
+agent,first_program_utc,programs,error_share_pct,median_program_s,obtain_share_pct,deaths,model_steps,output_mtok
+alpha,2026-10-21T12:12Z,972,18.5,10.2,3.1,93,3770,2.48
+beta,2026-10-21T12:11Z,1298,21.0,3.8,1.2,99,4376,2.62
+gamma,2026-10-24T17:22Z,745,22.0,15.9,1.9,73,2645,1.86
+delta,2026-10-24T17:22Z,755,24.0,11.5,3.7,67,2861,1.86

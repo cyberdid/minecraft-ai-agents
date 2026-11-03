@@ -1,0 +1,118 @@
+{
+ "active_hours_by_phase": {
+  "A": 4.5,
+  "B": 9.8,
+  "C": 5.6,
+  "D": 0.2
+ },
+ "console_commands_main": 1071,
+ "deaths_by_phase": {
+  "A": 11,
+  "B": 173,
+  "C": 140,
+  "D": 8,
+  "total": 332
+ },
+ "deaths_per_active_hour": {
+  "main_A": 2.4,
+  "main_B": 17.7,
+  "main_C": 25.1,
+  "main_D": 40.4,
+  "pilot1": 34.9,
+  "pilot2": 2.6
+ },
+ "main_deaths": 332,
+ "main_error_share_pct": 21.2,
+ "main_errors": 798,
+ "main_median_program_s": 8.8,
+ "main_programs": 3770,
+ "milestone_levels": {
+  "A": 8,
+  "B": 3,
+  "C": 2,
+  "D": 3
+ },
+ "nether_cause_deaths": {
+  "count": 211,
+  "share_pct": 63.6
+ },
+ "phase_bounds": {
+  "A": [
+   "2026-10-21T12:11:00Z",
+   "2026-10-23T18:23:04Z"
+  ],
+  "B": [
+   "2026-10-23T18:23:04Z",
+   "2026-11-01T17:00:03Z"
+  ],
+  "C": [
+   "2026-11-01T17:00:03Z",
+   "2026-11-02T17:59:34Z"
+  ],
+  "D": [
+   "2026-11-02T17:59:34Z",
+   "2026-11-02T18:12:00Z"
+  ]
+ },
+ "pilot2_idle": {
+  "deaths": 42,
+  "deaths_in_server_log": 12,
+  "from": "2026-10-20T20:43:00Z",
+  "hours": 8.2,
+  "source": "runs/run2-20261021/logs-and-stage1-tests/alpha/chat.jsonl",
+  "to": "2026-10-21T04:58:00Z"
+ },
+ "run_main": {
+  "active_hours": 20.1,
+  "agents": 4,
+  "deaths": 332,
+  "end_utc": "2026-11-02T18:12:00Z",
+  "error_share_pct": 21.2,
+  "lib_share_pct": 92.6,
+  "programs": 3770,
+  "run": "main",
+  "start_utc": "2026-10-21T12:11:00Z",
+  "wall_hours": 294.0
+ },
+ "run_pilot1": {
+  "active_hours": 0.2,
+  "agents": 2,
+  "deaths": 8,
+  "end_utc": "2026-10-20T19:15:00Z",
+  "error_share_pct": 16.2,
+  "lib_share_pct": 0.0,
+  "programs": 99,
+  "run": "pilot1",
+  "start_utc": "2026-10-20T19:00:00Z",
+  "wall_hours": 0.2
+ },
+ "run_pilot2": {
+  "active_hours": 0.8,
+  "agents": 2,
+  "deaths": 2,
+  "end_utc": "2026-10-20T20:43:00Z",
+  "error_share_pct": 23.7,
+  "lib_share_pct": 100.0,
+  "programs": 93,
+  "run": "pilot2",
+  "start_utc": "2026-10-20T19:56:00Z",
+  "wall_hours": 0.8
+ },
+ "server_log_coverage": {
+  "inside": 3766,
+  "main_programs": 3770,
+  "missing_stretch": "2026-10-21T00:00Z..2026-10-21T11:59Z (pilot 2 idle night and tests)",
+  "outside": 4
+ },
+ "stage1_done_active_hours": 2.4,
+ "stage1_done_wall_hours": 5.1,
+ "timeout_share_of_errors_pct": 70.4,
+ "tokens_main": {
+  "cache_share_pct": 97.4,
+  "cached_mtok": 1922.9,
+  "input_uncached_mtok": 50.8,
+  "model_steps": 13652,
+  "output_mtok": 8.82,
+  "thinking_mtok": 4.06
+ }
+}

@@ -1,0 +1,20 @@
+D01 & crafting & A failed craft left the whole stack on the mouse cursor (36 planks lost) & stowCursor() after every craft attempt & test \\
+D02 & crafting & Result slot update never arrives on 1.20 (updateSlot timeout) & verify by inventory delta; shift-click the grid back; retry & pilot 1 \\
+D03 & movement & Pathfinder dug through house walls and the floor under a door & shared list of placed blocks the pathfinder never breaks & test \\
+D04 & movement & Pathfinder cannot pass an open door & goThroughDoor(): open, walk with the movement keys, close & test \\
+D05 & placing & Placing against a chest opened the chest instead & prefer non-interactive neighbours; sneak otherwise & test \\
+D06 & gathering & collectBlock plugin hung for 200 s without a timeout & own collect(): per-block timeout, skip unreachable & test \\
+D07 & tools & Tunnelling wore out an iron, a stone and a wooden pickaxe & dig cost 6; spare pickaxes before a staircase; stop without a pickaxe & test \\
+D08 & food & Auto-eat ate the raw beef gathered for cooking & raw meat banned from auto-eat & test \\
+D09 & crafting & Recipe search chose 'recolour a black bed' and looped & penalty for recipes that consume the same item family & test \\
+D10 & inventory & Inventory view over-counted for a moment after pickups & re-check after a pause before crafting and before giving up & test \\
+D11 & survival & Bots drowned: air is reported in ticks (0-300), not bubbles & swim up below 60\% of the air supply & main run \\
+D12 & viewer & 3D view drew wrong blocks underground (block-state ids of 1.20.4 vs 1.20.1) & server moved to 1.20.1, the viewer's palette & main run \\
+D13 & viewer & Camera ended up inside rock (see-through block insides) & overhead camera with a cutaway of blocks above the player & main run \\
+D14 & viewer & Viewer always drew full daylight & sky and light dimmed from the game time & main run \\
+D15 & agents & Agents ended their turn after declaring the task done & watchdog continues the same conversation with fresh status & pilot 2 \\
+D16 & agents & Idle bots died 42 times in one night and drew creepers to the base & parking: log out after 5 min without programs & pilot 2 \\
+D17 & skills & obtain() silently restarted the whole chain after a death & abort on death and report where the items lie & test \\
+D18 & building & Portal frame without corners could not be placed & corner blocks added to the blueprint & test \\
+D19 & movement & Pathfinder used the cobblestone gathered for a recipe as scaffolding & cobblestone used as scaffolding only above 24 & main run \\
+D20 & water & Water enclosed in rock cannot be scooped & only sources with an open surface & test \\

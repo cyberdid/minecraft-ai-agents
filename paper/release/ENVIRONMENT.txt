@@ -1,0 +1,13 @@
+Environment of the analysis run (paper v1.0)
+date: 2026-11-03T07:12Z
+os: Linux 7.0.0-38-generic x86_64
+python: Python 3.12.3
+matplotlib: 3.11.1
+pillow: 12.3.0
+tectonic: tectonic 0.15.0Tectonic 0.15.0
+node: v22.23.2
+mineflayer: 4.39.0
+mineflayer-pathfinder: 2.4.5
+prismarine-viewer: 1.33.0
+minecraft server: vanilla 1.20.1 (itzg/minecraft-server, Docker 29.8.1)
+agents: gemini-3.8-flash-high via Antigravity CLI (agy 1.4.12)
